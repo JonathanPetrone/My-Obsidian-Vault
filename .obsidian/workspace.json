@@ -23,12 +23,24 @@
             "id": "9bf7f813edc8d85d",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "markdown",
+              "state": {
+                "file": "Interface.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7bba28efb8a6bec5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
               "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -151,17 +163,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c07c27bbc82d1560",
+  "active": "7bba28efb8a6bec5",
   "lastOpenFiles": [
-    "Doctrine.md",
-    "Inheritance (object-oriented programming).md",
-    "Abstraction (object-oriented programming).md",
-    "Bottom-up approach.md",
-    "Complex systems.md",
+    "UML.md",
     "Classes (object-oriented programming).md",
-    "Composition (object-oriented programming).md",
-    "Encapsulation (object-oriented programming).md",
-    "Humans use logic to rationalize their emotions.md",
-    "Is-a relationship (object-oriented programming).md"
+    "Interface vs. implementation (object-oriented programming).md",
+    "Abstraction (object-oriented programming).md",
+    "Interface.md",
+    "Inspiration creates loyal customers.md",
+    "Inheritance (object-oriented programming).md",
+    "New.md",
+    "Doctrine.md",
+    "Bottom-up approach.md"
   ]
 }

@@ -5,7 +5,7 @@ In OO software, the class comes first since an object cannot be instantiated wit
 
 ![[Pasted image 20221227183105.png]]
 
-You can use UML (_Unified Modeling Language_) class diagrams to illustrate the classes that you build.
+You can use [[UML]] (_Unified Modeling Language_) class diagrams to illustrate the classes that you build.
 
 See also: see also: [[Object-oriented programming]], [[Objects (object-oriented programming)]]
 
