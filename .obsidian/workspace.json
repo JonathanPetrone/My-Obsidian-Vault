@@ -8,47 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "05186e2f38c1f3c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Encapsulation (object-oriented programming).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "373d966bfabb20f9",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "07b077e25ef13265",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bottom-up approach.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ed8f8ab25c7c4b66",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "57d99f3a8ab869b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Building OO systems with reusability in mind (object-orientated programming).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Building OO systems with reusability in mind (object-orientated programming).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Building OO systems with reusability in mind (object-orientated programming).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Building OO systems with reusability in mind (object-orientated programming).md"
+              }
             }
           }
         ]
@@ -171,17 +155,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ed8f8ab25c7c4b66",
+  "active": "57d99f3a8ab869b3",
   "lastOpenFiles": [
+    "Encapsulation (object-oriented programming).md",
+    "Composition (object-oriented programming).md",
+    "Building OO systems with reusability in mind (object-orientated programming).md",
+    "Objects (object-oriented programming).md",
+    "Classes (object-oriented programming).md",
+    "Exceptions in programming.md",
     "Object wrappers (object-oriented programming).md",
     "Object operations and their complexity (object-oriented programming).md",
     "Bottom-up approach.md",
-    "Humans use logic to rationalize their emotions.md",
-    "Structured programming.md",
-    "Classes (object-oriented programming).md",
-    "General OO design process guidelines (object-oriented programming).md",
-    "Encapsulation (object-oriented programming).md",
-    "Access modifiers (object-oriented programming).md",
-    "Accessor methods (object-oriented programming).md"
+    "Humans use logic to rationalize their emotions.md"
   ]
 }
