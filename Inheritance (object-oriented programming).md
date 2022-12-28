@@ -8,10 +8,16 @@ Dog (parent class) **->** French Bulldog (child class)
 
 This relationship between a parent class and a child is often referred to as an _is-a relationship_. Thus in the above example French Bulldog is-a Dog (parent class)
 
+### Multiple inheritance
+There is also multiple inheritance which allows a class to inherit from more than one class. However, multiple inheritance can significantly increase the complexity of a system.
+
+Multiple inheritance allows programmers to use more than one totally orthogonal (unrelated) hierarchy simultaneously, such as allowing Dog to inherit from _Cartoon character_ and _Pet_ and _Mammal_ and access features from within all of those classes.
+
 see also: [[Object-oriented programming]]
 
 ## Reference:
-Object-Oriented Thought Process, 5th Edition (ch. 1) - M. Weisfeld
+- Object-Oriented Thought Process, 5th Edition (ch. 1 & 3) - M. Weisfeld
+- https://en.wikipedia.org/wiki/Multiple_inheritance
 
 ## Similar:
 
