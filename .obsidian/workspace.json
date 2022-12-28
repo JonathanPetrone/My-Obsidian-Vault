@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "1a0d7f0bae2ca813",
+        "id": "63bcdf0ab1336584",
         "type": "tabs",
         "children": [
           {
-            "id": "12170556e6ca4313",
+            "id": "05186e2f38c1f3c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inheritance (object-oriented programming).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "270a09ea25b47216",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Attribute and method scope for objects (object-oriented programming).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1d9784498a522dfc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Accessor methods (object-oriented programming).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3ac499f0c220d1bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Composition (object-oriented programming).md",
+                "file": "Encapsulation (object-oriented programming).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Composition (object-oriented programming).md",
+                "file": "Encapsulation (object-oriented programming).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Composition (object-oriented programming).md",
+                "file": "Encapsulation (object-oriented programming).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Composition (object-oriented programming).md"
+                "file": "Encapsulation (object-oriented programming).md"
               }
             }
           }
@@ -183,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ac499f0c220d1bf",
+  "active": "05186e2f38c1f3c1",
   "lastOpenFiles": [
+    "Objects (object-oriented programming).md",
+    "Stubs.md",
     "Classes (object-oriented programming).md",
     "Accessor methods (object-oriented programming).md",
-    "Access modifiers (object-oriented programming).md",
     "Attribute and method scope for objects (object-oriented programming).md",
-    "Encapsulation (object-oriented programming).md",
-    "Scope in programming.md",
-    "Object operations and their complexity (object-oriented programming).md",
-    "Interface vs. implementation (object-oriented programming).md",
-    "Operators in programming.md",
-    "Inheritance (object-oriented programming).md"
+    "Serializing and marshaling objects.md",
+    "Overloading (object-oriented programming).md",
+    "The square law of computation.md",
+    "The SQ3R reading comprehension method.md",
+    "The general system thinkers’ approach.md"
   ]
 }
