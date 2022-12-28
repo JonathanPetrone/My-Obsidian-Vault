@@ -18,8 +18,37 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "373d966bfabb20f9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "07b077e25ef13265",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bottom-up approach.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ed8f8ab25c7c4b66",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +114,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encapsulation (object-oriented programming).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +130,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Encapsulation (object-oriented programming).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +151,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Encapsulation (object-oriented programming).md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,17 +171,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "05186e2f38c1f3c1",
+  "active": "ed8f8ab25c7c4b66",
   "lastOpenFiles": [
-    "Objects (object-oriented programming).md",
-    "Stubs.md",
+    "Object wrappers (object-oriented programming).md",
+    "Object operations and their complexity (object-oriented programming).md",
+    "Bottom-up approach.md",
+    "Humans use logic to rationalize their emotions.md",
+    "Structured programming.md",
     "Classes (object-oriented programming).md",
-    "Accessor methods (object-oriented programming).md",
-    "Attribute and method scope for objects (object-oriented programming).md",
-    "Serializing and marshaling objects.md",
-    "Overloading (object-oriented programming).md",
-    "The square law of computation.md",
-    "The SQ3R reading comprehension method.md",
-    "The general system thinkers’ approach.md"
+    "General OO design process guidelines (object-oriented programming).md",
+    "Encapsulation (object-oriented programming).md",
+    "Access modifiers (object-oriented programming).md",
+    "Accessor methods (object-oriented programming).md"
   ]
 }
