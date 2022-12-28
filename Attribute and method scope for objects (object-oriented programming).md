@@ -11,7 +11,6 @@ In OOP-languages there are three types of scopes for attributes:
 -   **Class attributes**
 	- It is possible for two or more objects of the same class to share attributes. In Java, C#, C++, and Swift, you do this by making the attribute _static_. Thus, all objects of the class use the same memory location for the variable declared as static. Essentially, the class then has a single copy. This is about as close to global data as we get in OO design.
 
-
 See also: [[Object-oriented programming]]
 
 ## Reference:
