@@ -35,6 +35,12 @@ Classes generally consists of:
 - Localize attributes and behaviors as much as possible [[Scope in programming]]
 - Design with maintainability in mind. Separate pieces of code tend to be more maintainable, but you also need to reduce interdependent code—that is, changes in one class have no impact or minimal impact on other classes, to increase maintainability.
 
+### More on class design: 
+If the class **Is A** then -> Use inheritance
+If the class **Has A** then -> Use composition
+If the class **implements** X -> Use interface
+
+
 See also: [[Object-oriented programming]], [[Objects (object-oriented programming)]]
 
 ## Reference:

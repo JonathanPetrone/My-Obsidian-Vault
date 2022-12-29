@@ -8,27 +8,26 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ed8f8ab25c7c4b66",
+            "id": "b7ea778957d480bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Frameworks (software development).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "845d24891a602eed",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "57d99f3a8ab869b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Building OO systems with reusability in mind (object-orientated programming).md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Building OO systems with reusability in mind (object-orientated programming).md",
+                "file": "Frameworks (software development).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Building OO systems with reusability in mind (object-orientated programming).md",
+                "file": "Frameworks (software development).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,16 +133,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Building OO systems with reusability in mind (object-orientated programming).md"
+                "file": "Frameworks (software development).md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,17 +154,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "57d99f3a8ab869b3",
+  "active": "b7ea778957d480bc",
   "lastOpenFiles": [
-    "Encapsulation (object-oriented programming).md",
-    "Composition (object-oriented programming).md",
-    "Building OO systems with reusability in mind (object-orientated programming).md",
-    "Objects (object-oriented programming).md",
     "Classes (object-oriented programming).md",
-    "Exceptions in programming.md",
-    "Object wrappers (object-oriented programming).md",
-    "Object operations and their complexity (object-oriented programming).md",
-    "Bottom-up approach.md",
-    "Humans use logic to rationalize their emotions.md"
+    "Abstract classes & interfaces (object-oriented programming).md",
+    "Abstraction (object-oriented programming).md",
+    "Constructors (object-oriented programming).md",
+    "Frameworks (software development).md",
+    "Interface vs. implementation (object-oriented programming).md",
+    "Building OO systems with reusability in mind (object-orientated programming).md",
+    "Polymorphism (object-oriented programming).md",
+    "Encapsulation (object-oriented programming).md",
+    "Composition (object-oriented programming).md"
   ]
 }
