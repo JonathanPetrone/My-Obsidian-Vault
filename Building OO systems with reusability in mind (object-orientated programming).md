@@ -15,12 +15,13 @@ Using any amount of inheritance or composition comes down to trade-offs.
 - Using too much composition in a system can also lead to more complexity
 - It is natural to think of objects as containing other objects
 - Composition can lead to tight coupling between objects, which can make it difficult to change or modify your code in the future.
+- Systems and subsystems can be built independently.
 
 
 see also: [[Object-oriented programming]]
 
 ## Reference:
-Object-Oriented Thought Process, 5th Edition (ch. 7) - M. Weisfeld
+Object-Oriented Thought Process, 5th Edition (ch. 7, 9) - M. Weisfeld
 
 ## Similar:
 
