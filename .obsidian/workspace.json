@@ -8,51 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b7ea778957d480bc",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "9609bda2f5b9e8c6",
+            "id": "b389b5e9f17baee7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comprehension.md",
+                "file": "Classes (object-oriented programming).md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2b869cb5516e027b",
+            "id": "5a1c04927493f0c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Composition (object-oriented programming).md",
+                "file": "Dependency injection (object-oriented programming).md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "031a84e41aa8f3e6",
+            "id": "d29d0e0f9963608b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flakiness in software testing.md",
+                "file": "SOLID principles (object-oriented programming).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -118,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flakiness in software testing.md",
+                "file": "SOLID principles (object-oriented programming).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flakiness in software testing.md",
+                "file": "SOLID principles (object-oriented programming).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flakiness in software testing.md"
+                "file": "SOLID principles (object-oriented programming).md"
               }
             }
           },
@@ -175,7 +167,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,17 +181,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "031a84e41aa8f3e6",
+  "active": "d29d0e0f9963608b",
   "lastOpenFiles": [
-    "Overloading (object-oriented programming).md",
-    "Design patterns and anti-patterns (object-oriented programming).md",
-    "Object operations and their complexity (object-oriented programming).md",
-    "Object wrappers (object-oriented programming).md",
-    "Cardinality (object-oriented programming).md",
-    "Composition (object-oriented programming).md",
-    "Classes (object-oriented programming).md",
+    "Dependency injection (object-oriented programming).md",
     "Comprehension.md",
-    "Building OO systems with reusability in mind (object-orientated programming).md",
-    "Self-learning.md"
+    "SOLID principles (object-oriented programming).md",
+    "Constructors (object-oriented programming).md",
+    "Classes (object-oriented programming).md",
+    "Framework Thinking.md",
+    "Bottom-up approach.md",
+    "Frameworks (software development).md",
+    "Flakiness in software testing.md",
+    "Overloading (object-oriented programming).md"
   ]
 }
