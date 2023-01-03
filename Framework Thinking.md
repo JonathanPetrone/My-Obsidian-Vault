@@ -1,4 +1,4 @@
-Framework thinking ss about actively noticing and structuring information in order to understand how the world works. Frameworks are basically simplified representations of how the world works so by categorizing and simplifying things down to some key levers.
+Framework thinking is about actively noticing and structuring information in order to understand how the world works. Frameworks are basically simplified representations of how the world works so by categorizing and simplifying things down to some key levers, similar to first principles.
 
 ## The science behind framework thinking
 

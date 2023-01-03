@@ -1,1 +1,1 @@
-[[Start with why to motivate and inspire]]
+[[The golden circle]]

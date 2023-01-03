@@ -13,7 +13,7 @@ Jim Kwik relates to the formula of the Golden Circle by Simon Sinek.
 Limitless - J.Kwik
 
 ## Similar:
-- [[Start with why to motivate and inspire]]
+- [[The golden circle]]
 
 ## Opposite: 
 

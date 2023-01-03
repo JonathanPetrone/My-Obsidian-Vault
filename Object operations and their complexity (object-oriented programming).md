@@ -1,4 +1,3 @@
-
 Object operations can be complex becuse objects can contain references, which means that you have to decide if you want to follow the pointers. 
 
 Doing operations such as copying or comparing objects thus can be somewhat tricky.

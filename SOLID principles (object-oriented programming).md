@@ -13,11 +13,6 @@ The SOLID principles are one of the most influential sets of object-oriented gui
 	- **Parameter injection**—Performing dependency injection via the parameter of a method, like a setter
 
 
-### Terms that signify reusable code (in contrast to SOLID principles):
-
-- **Rigidity** - When a change to one part of a program can break another.
-- **Fragility** - When things break in unrelated places.
-- **Immobility** - When code cannot be reused outside its original context.
 
 see also: [[Object-oriented programming]]
 
@@ -27,6 +22,12 @@ Object-Oriented Thought Process, 5th Edition (ch. 12) - M. Weisfeld
 ## Similar:
 
 ## Opposite:
+
+### Terms that signify un-reusable code (in contrast to SOLID principles):
+
+- **Rigidity** - When a change to one part of a program can break another.
+- **Fragility** - When things break in unrelated places.
+- **Immobility** - When code cannot be reused outside its original context.
 
 ## Theme/Questions:
 

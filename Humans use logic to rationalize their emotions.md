@@ -4,7 +4,7 @@ Humans are emotional creatures, we use logic to rationalize our emotions. This i
 Start with why (ch. 4) - S. Sinek
 
 ## Similar:
-- [[Start with why to motivate and inspire]]
+- [[The golden circle]]
 
 ## Opposite: 
 
