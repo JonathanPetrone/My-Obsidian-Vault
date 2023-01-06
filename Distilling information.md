@@ -4,6 +4,8 @@ When we distill information we try to capture the most important aspect of it, i
 
 The more economical you can be with the material you capture or store in your [[Second brain]] in the first place, the less time and effort your future self will have to go through it again (see: [[Future-proofing information]]).
 
+see also: [[CODE (model)]]
+
 ## Techniques for distillation
 
 - Progressive Summarization

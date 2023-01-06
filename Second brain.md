@@ -1,4 +1,4 @@
-A second brain is a external, centralized and digital repository where you store important in a effective way for your future-self. Thus, build a second brain is our own   methodology for saving and systematically working with ideas, insights, and connections we’ve gained through our experience. This helps us standardize how we work with information and we can make it fit our lifestyle and needs.
+A second brain is a external, centralized and digital repository where you store important in a effective way for your future-self. Thus, building a second brain is our own   methodology for saving and systematically working with ideas, insights, and connections we’ve gained through our experience. This helps us standardize how we work with information and we can make it fit our lifestyle and needs.
 
 We store information or insights we get through different sources (text, video, conversations etc.) with references in our notes which the becomes foundation of our Second Brain.
 
