@@ -35,16 +35,36 @@
             "id": "d29d0e0f9963608b",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "6ffdd28d24429449",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "SOLID principles (object-oriented programming).md",
+                "file": "Note-taking (Zettelkasten method).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "66d0194299693c7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A buccaneer-scholars self-education method.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SOLID principles (object-oriented programming).md",
+                "file": "A buccaneer-scholars self-education method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SOLID principles (object-oriented programming).md",
+                "file": "A buccaneer-scholars self-education method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SOLID principles (object-oriented programming).md"
+                "file": "A buccaneer-scholars self-education method.md"
               }
             }
           },
@@ -181,17 +201,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d29d0e0f9963608b",
+  "active": "66d0194299693c7f",
   "lastOpenFiles": [
-    "Dependency injection (object-oriented programming).md",
-    "Comprehension.md",
-    "SOLID principles (object-oriented programming).md",
-    "Constructors (object-oriented programming).md",
-    "Classes (object-oriented programming).md",
-    "Framework Thinking.md",
-    "Bottom-up approach.md",
-    "Frameworks (software development).md",
-    "Flakiness in software testing.md",
-    "Overloading (object-oriented programming).md"
+    "Zettelkasten (slip-box) method.md",
+    "Second brain.md",
+    "Notes from 'how to take smart notes'.md",
+    "Note-taking (Zettelkasten method).md",
+    "The process of information gathering.md",
+    "The golden circle.md",
+    "Bottom-up approach and thinking.md",
+    "The SQ3R reading comprehension method.md",
+    "Git and the three stages of git.md",
+    "SOLID principles (object-oriented programming).md"
   ]
 }

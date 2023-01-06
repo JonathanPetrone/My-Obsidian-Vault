@@ -12,6 +12,7 @@ The process of information gathering fits with the stages of capturing and organ
 - Building A Second Brain (ch. 3, 4 & 5) - T. Forte
 
 ## Similar:
+[[Note-taking (Zettelkasten method)]]
 
 ## Opposite:
 

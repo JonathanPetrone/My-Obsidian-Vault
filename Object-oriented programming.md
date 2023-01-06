@@ -20,7 +20,7 @@ The main concepts of OOP are:
 - https://www.geeksforgeeks.org/difference-between-bottom-up-model-and-top-down-model/
 
 ## Similar:
-[[Bottom-up approach]]
+[[Bottom-up approach and thinking]]
 
 ## Opposite:
 
