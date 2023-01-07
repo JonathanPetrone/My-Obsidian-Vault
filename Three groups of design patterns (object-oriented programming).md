@@ -1,14 +1,3 @@
-A design pattern is a reusable way of designing something. They revolve around the principle of best practices. A pattern generally has four elements:
-
-- **Name**
-	- It has a name.
-- **Problem**
-	- It has a problem it was created to solve.
-- **Solution**
-	- It has elements that make up its design.
-- **Consequence**
-	- It comes with some kind of trade-offs.
-
 ## Three general groups of design patterns in OO
 
 - **Creational patterns** create objects for you, rather than having you instantiate objects directly. This gives your program more flexibility in deciding which objects need to be created for a given case.
@@ -18,7 +7,7 @@ A design pattern is a reusable way of designing something. They revolve around t
 - **Behavioral patterns** help you define the communication between objects in your system and how the flow is controlled in a complex program.
 	- ex. *The iterator design pattern* which provides a standard mechanism for traversing a collection, such as a vector. Functionality must be provided so that each item of the collection can be accessed one at a time. The iterator pattern provides information hiding, keeping the internal structure of the collection secure.
 
-see also: [[Object-oriented programming]]
+see also: [[Object-oriented programming]], [[Design patterns]]
 
 ## Reference:
 Object-Oriented Thought Process, 5th Edition (ch. 10) - M. Weisfeld

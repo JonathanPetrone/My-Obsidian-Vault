@@ -45,7 +45,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design patterns (object-oriented programming).md",
+                "file": "Design patterns.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8ffb6ac125a5e022",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Three groups of design patterns (object-oriented programming).md",
                 "mode": "source",
                 "source": false
               }
@@ -64,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -130,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design patterns (object-oriented programming).md",
+                "file": "todos and drafts/Notes from 'how to take smart notes'.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Design patterns (object-oriented programming).md",
+                "file": "todos and drafts/Notes from 'how to take smart notes'.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Design patterns (object-oriented programming).md"
+                "file": "todos and drafts/Notes from 'how to take smart notes'.md"
               }
             }
           },
@@ -201,17 +213,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c5cf3700918e8710",
+  "active": "5f771725f161ec5a",
   "lastOpenFiles": [
+    "Design patterns.md",
+    "Three groups of design patterns (object-oriented programming).md",
     "Anti-patterns.md",
-    "Design patterns (object-oriented programming).md",
     "todos and drafts/Notes from 'how to take smart notes'.md",
     "User stories.md",
     "Zettelkasten (slip-box) method.md",
     "Automation and the future of human work.md",
     "Abstraction (object-oriented programming).md",
     "Access modifiers (object-oriented programming).md",
-    "Abstract classes & interfaces (object-oriented programming).md",
-    "todos and drafts/Work momentum.md"
+    "Abstract classes & interfaces (object-oriented programming).md"
   ]
 }
