@@ -5,7 +5,6 @@ We store information or insights we get through different sources (text, video, 
 Like the normal brain our Second has inherent plasticity since the purpose of a single note or group of notes can and does change over time as your needs and goals change. Through habits like reviewing notes and re-organizing them we can form or Second Brain to fit our information needs.
 
 ## Four essential capabilities of a Second Brain 
-
 - Making our ideas concrete
 - Revealing new associations between ideas
 - Incubating our ideas over time

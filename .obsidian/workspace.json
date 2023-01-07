@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "todos and drafts/Notes from 'how to take smart notes'.md",
+                "file": "Interface vs. implementation (object-oriented programming).md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "todos and drafts/Notes from 'how to take smart notes'.md",
+                "file": "Interface vs. implementation (object-oriented programming).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "todos and drafts/Notes from 'how to take smart notes'.md",
+                "file": "Interface vs. implementation (object-oriented programming).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "todos and drafts/Notes from 'how to take smart notes'.md"
+                "file": "Interface vs. implementation (object-oriented programming).md"
               }
             }
           },
@@ -215,15 +215,15 @@
   },
   "active": "5f771725f161ec5a",
   "lastOpenFiles": [
-    "Design patterns.md",
-    "Three groups of design patterns (object-oriented programming).md",
-    "Anti-patterns.md",
-    "todos and drafts/Notes from 'how to take smart notes'.md",
-    "User stories.md",
-    "Zettelkasten (slip-box) method.md",
-    "Automation and the future of human work.md",
-    "Abstraction (object-oriented programming).md",
+    "Neuroplasticity and learning.md",
+    "Note-taking (Zettelkasten method).md",
+    "Object operations and their complexity (object-oriented programming).md",
     "Access modifiers (object-oriented programming).md",
-    "Abstract classes & interfaces (object-oriented programming).md"
+    "Accessor methods (object-oriented programming).md",
+    "Anti-patterns.md",
+    "Abstraction (object-oriented programming).md",
+    "Abstract classes & interfaces (object-oriented programming).md",
+    "Attribute and method scope for objects (object-oriented programming).md",
+    "Building OO systems with reusability in mind (object-orientated programming).md"
   ]
 }

@@ -1,4 +1,3 @@
-
 Systems thinking is a result of the success of the sciences. An example that is given in the book is physics, physics does not try to explain nature, so a part of the success of physics comes from its limited objective.
 
 see also: [[Reductionism]]
