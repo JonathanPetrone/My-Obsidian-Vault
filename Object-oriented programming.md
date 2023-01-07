@@ -2,7 +2,7 @@ One of the primary goals of OO-programming is to model real world systems in way
 
 In a bottom-up approach way of designing systems, individual parts of the system are specified in detail. The parts are then linked to form larger components, which are in turn linked until a complete system is formed.
 
-The main concepts of OOP are:
+Some of the main concepts of OOP are:
 
 - Abstraction
 - Encapsualtion
@@ -11,9 +11,6 @@ The main concepts of OOP are:
 - Composition
 - Classes 
 - Objects
-
-
-
 
 ## Reference:
 - Object-Oriented Thought Process, 5th Edition (ch. 5) - M. Weisfeld

@@ -12,8 +12,6 @@ The SOLID principles are one of the most influential sets of object-oriented gui
 	- **Constructor injection**—Performing dependency injection via the constructor
 	- **Parameter injection**—Performing dependency injection via the parameter of a method, like a setter
 
-
-
 see also: [[Object-oriented programming]]
 
 ## Reference:

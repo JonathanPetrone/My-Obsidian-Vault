@@ -1,4 +1,3 @@
-
 An abstract class is a class that can't be instantiated and is intended to be used as a base class. They are abstract because they don't provide and implementation. An abstract class are typically used to define a common interface or set of behaviors for a child class, who in turn provides the implementation.
 
 An abstract class requires you to inherit from that abstract class and, by extension, all of its potential parents. Although Java, Objective-C, Swift, and .NET classes can inherit from only one parent class, they can implement many interfaces. 

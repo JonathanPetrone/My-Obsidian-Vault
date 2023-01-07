@@ -10,7 +10,7 @@ https://en.wikipedia.org/wiki/Top-down_and_bottom-up_design
 ## Similar:
 
 ## Opposite:
-- [[Top-down approach]]
+- [[Top-down approach and thinking]]
 
 ## Theme/Questions:
 

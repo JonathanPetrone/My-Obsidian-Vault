@@ -5,7 +5,7 @@ When we work source code in git we actually first make a clone of a repository, 
 
 We can replace the current source code when we feel like it or “merge” it with what new code we have built, to create a new base line for our work. This means that as long as there is more than a copy of the code, we are immune to some of the risks that comes with a centralized storage point. 
 
-## The three stages of git
+## The three stages of files within git
 
 - **Untracked:** the file exists, but is not part of git's version control
 - **Staged:** the file has been added to git's version control but changes have not been committed
