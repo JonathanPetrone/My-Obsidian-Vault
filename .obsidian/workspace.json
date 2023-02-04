@@ -8,75 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6ffdd28d24429449",
+            "id": "0759a8b1408b39cc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "todos and drafts/Work momentum.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "66d0194299693c7f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "5f771725f161ec5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interface vs. implementation (object-oriented programming).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c5cf3700918e8710",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Design patterns.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8ffb6ac125a5e022",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Three groups of design patterns (object-oriented programming).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d9d908e5e9d0b9fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Anti-patterns.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interface vs. implementation (object-oriented programming).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interface vs. implementation (object-oriented programming).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Interface vs. implementation (object-oriented programming).md"
-              }
+              "state": {}
             }
           },
           {
@@ -213,17 +148,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5f771725f161ec5a",
+  "active": "c07c27bbc82d1560",
   "lastOpenFiles": [
-    "Neuroplasticity and learning.md",
-    "Note-taking (Zettelkasten method).md",
-    "Object operations and their complexity (object-oriented programming).md",
-    "Access modifiers (object-oriented programming).md",
-    "Accessor methods (object-oriented programming).md",
-    "Anti-patterns.md",
-    "Abstraction (object-oriented programming).md",
-    "Abstract classes & interfaces (object-oriented programming).md",
-    "Attribute and method scope for objects (object-oriented programming).md",
-    "Building OO systems with reusability in mind (object-orientated programming).md"
+    "object-oriented programming/Polymorphism (object-oriented programming).md",
+    "Religion is a social practice meant to form bonds between people.md",
+    "Untitled.canvas",
+    "object-oriented programming/Classes (object-oriented programming).md",
+    "object-oriented programming/Inheritance (object-oriented programming).md",
+    "object-oriented programming/Object-oriented programming.md",
+    "object-oriented programming/Interface vs. implementation (object-oriented programming).md",
+    "object-oriented programming/General OO design process guidelines (object-oriented programming).md",
+    "object-oriented programming/Constructors (object-oriented programming).md",
+    "Bottom-up approach and thinking.md"
   ]
 }
