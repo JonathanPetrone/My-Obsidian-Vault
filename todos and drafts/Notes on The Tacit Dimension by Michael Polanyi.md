@@ -1,3 +1,14 @@
+
+Tacit knowledge
+
+Foreword 30
+Introduction 135
+1 - Tacit knowing 167
+2 - Emergence 432
+3 - A society of explorers 702
+Notes 1131
+
+Introduction
 ==========
 
 ﻿The Tacit Dimension - Michael Polanyi (Michael Polanyi)
@@ -13,25 +24,8 @@ One implication that Polanyi draws from this perspective is that “the process 
 ==========
 
 ﻿The Tacit Dimension - Michael Polanyi (Michael Polanyi)
-- Your Highlight at location 95-95 | Added on Saturday, 7 January 2023 23:42:49
-The importance of tacit knowledge has implications
-
-==========
-
-﻿The Tacit Dimension - Michael Polanyi (Michael Polanyi)
-- Your Highlight at location 95-95 | Added on Saturday, 7 January 2023 23:42:57
-The importance of tacit knowledge has implications, Polanyi argues, for the
-
-==========
-
-﻿The Tacit Dimension - Michael Polanyi (Michael Polanyi)
-- Your Highlight at location 95-95 | Added on Saturday, 7 January 2023 23:43:14
-The importance of tacit knowledge has implications, Polanyi argues, for the
-
-==========
-﻿The Tacit Dimension - Michael Polanyi (Michael Polanyi)
-- Your Highlight at location 95-96 | Added on Saturday, 7 January 2023 23:43:22
-impossibility of depersonalizing knowledge and the difficulty of seeking objectivity in the form of personal detachment.
+- Your Highlight at location 95-96 | Added on Saturday, 7 January 2023 23:42:57
+The importance of tacit knowledge has implications, Polanyi argues, for the impossibility of depersonalizing knowledge and the difficulty of seeking objectivity in the form of personal detachment.
 
 ==========
 
@@ -39,6 +33,8 @@ impossibility of depersonalizing knowledge and the difficulty of seeking objecti
 - Your Highlight at location 154-155 | Added on Saturday, 7 January 2023 23:46:42
 Hence thinking is not only necessarily intentional, as Brentano has taught: it is also necessarily fraught with the roots that it embodies. It has a from-to structure.
 
+
+Chapter 1 - Tacit knowing
 ==========
 
 ﻿The Tacit Dimension - Michael Polanyi (Michael Polanyi)
@@ -188,6 +184,7 @@ It appears, then, that to know that a statement is true is to know more than we 
 - Your Highlight at location 427-428 | Added on Sunday, 8 January 2023 10:21:23
 The difficulty is to find a stable alternative to its ideal of objectivity. This is indeed the task for which the theory of tacit knowing should prepare us.
 
+Chapter 2 - Emergence
 ==========
 
 ﻿The Tacit Dimension - Michael Polanyi (Michael Polanyi)
@@ -260,6 +257,7 @@ Each new branch of biology that was developed to cover the increasingly complex 
 - Your Highlight at location 704-705 | Added on Monday, 9 January 2023 16:33:53
 My first lecture dealt with our power of tacit knowing. It showed that tacit knowing achieves comprehension by indwelling, and that all knowledge consists of or is rooted in such acts of comprehension
 
+Chapter 3 - A society of explorers
 ==========
 
 ﻿The Tacit Dimension - Michael Polanyi (Michael Polanyi)

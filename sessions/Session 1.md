@@ -1,23 +1,30 @@
-Vägval - Vad härnäst?
+# Frågeställningar
+
+### Vägval - Vad härnäst?
 	Starta eget vs. ta anställning
 
-Drivkrafter
+### Autism-diagnos, vilken roll har det?
+
+# Känslor
+
+### Drivkrafter
 	Konsultarbetet hittills har inte känts "rätt", betald tid räcker inte till.
+	Vill göra ett jobb som spelar roll.
 
-Letar efter människor som har information eller nycklar som hjälper mig
-
-Är nog en "övertänkare", behöver bli lite mer av en do-er.
+### Är nog en "övertänkare", behöver bli lite mer av en do-er.
 	Hur?
 
-Jobb och fritid-balans
-	Har ofta känt det som att jag behöver återhämta mig
-
-Mitt nuvarande jobb känns som ett fängelse
+### Mitt nuvarande jobb känns som ett fängelse
 	Jag kan inte utföra konkurrerande verksamhet.
 	Vi har under ett år inte fått möjlighet att få till saker som blogg etc. Vi har behövt göra allt själva.
 	Jag kan inte lägga den tid som behövs för att känna mig lugn.
 	Det är inte rätt att jaga egna kunder under anställning.
 
-Asperger, vilken roll har det?
+# Mål
 
-Mitt mål är nog att med mer säkerhet landa i ett vägval/beslut, där jag mer tydligt ser vägen framåt.
+### Hitta människor som har information eller nycklar som hjälper mig
+
+### Bättre jobb och fritid-balans?
+	Har ofta känt det som att jag behöver återhämta mig
+
+### Mitt mål är nog att med mer säkerhet landa i ett vägval/beslut/inriktining, där jag mer tydligt ser vägen framåt.
