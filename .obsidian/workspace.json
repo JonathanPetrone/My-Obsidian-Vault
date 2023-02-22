@@ -8,55 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0759a8b1408b39cc",
+            "id": "e782c5ec40f489ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Continuous integration.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6c05fae926f8f866",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "todos and drafts/Notes from engaging anthropological theory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c34c36acd0715865",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "todos and drafts/Video outlines test academy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bb9a288aec8f0fbf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sessions/Session 1.md",
+                "file": "Ultralearners 2nd principle - focus.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "683f650d22f5ca17",
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sessions/Session 1.md",
+                "file": "Ultralearners 2nd principle - focus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sessions/Session 1.md",
+                "file": "Ultralearners 2nd principle - focus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sessions/Session 1.md"
+                "file": "Ultralearners 2nd principle - focus.md"
               }
             }
           },
@@ -193,17 +156,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bb9a288aec8f0fbf",
+  "active": "e782c5ec40f489ed",
   "lastOpenFiles": [
-    "todos and drafts/Video outlines test academy.md",
-    "todos and drafts/Notes from engaging anthropological theory.md",
-    "Continuous integration.md",
-    "Untitled.canvas",
-    "object-oriented programming/Polymorphism (object-oriented programming).md",
-    "Religion is a social practice meant to form bonds between people.md",
-    "object-oriented programming/Classes (object-oriented programming).md",
-    "object-oriented programming/Inheritance (object-oriented programming).md",
-    "object-oriented programming/Object-oriented programming.md",
-    "object-oriented programming/Interface vs. implementation (object-oriented programming).md"
+    "Ultralearners 3rd principle - directness.md",
+    "Ultralearners 2nd principle - focus.md",
+    "Ultralearners 1st principle - metalearning.md",
+    "The square law of computation.md",
+    "Weinberg's laws of consulting.md",
+    "Systemizing vs. empathizing.md",
+    "Systems thinking is a result of the success of science.md",
+    "Tacit knowledge.md",
+    "A buccaneer-scholars self-education method.md",
+    "Self-learning.md"
   ]
 }

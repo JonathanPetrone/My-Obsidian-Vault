@@ -3,6 +3,7 @@ Self-learning is an approach to learning where the individual makes the effort t
 ## Reference:
 
 ## Similar:
+[[Ultra-learning]]
 
 ## Opposite:
 
