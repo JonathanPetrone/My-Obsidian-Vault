@@ -15,11 +15,11 @@ As a rule-of-thumb the earlier we are in the learning process the faster the cyc
 **3. Drills are hard work & uncomfortable**
 
 **Useful tips when designing drills or doing drills:**
-1. Time-slicing (doing a sequence of actions in a set slice of time)
-2. Identify cognitive components (eg. in learning a language there is grammar, pronounciation and vocabulary)
-3. Copy parts of the skill you don't want to practice in the drill
-4. Spend more time on a certain part of the activity than the rest of the parts 
-5. Pre-requisite chaining - Start with a skill you don't have all the pre-requisites for, then go back a step, learn some foundational knowledge and then repeat.
+1. **Time-slicing** (doing a sequence of actions in a set slice of time)
+2. **Identify cognitive components** (eg. in learning a language there is grammar, pronounciation and vocabulary)
+3. **Copy parts** of the skill you don't want to practice in the drill
+4. **Spend more time on a certain part of the activity** than the rest of the parts 
+5. **Pre-requisite chaining** - Start with a skill you don't have all the pre-requisites for, then go back a step, learn some foundational knowledge and then repeat.
 
 ## Reference:
 Ultralearning (ch. 7) - Scott H. Young

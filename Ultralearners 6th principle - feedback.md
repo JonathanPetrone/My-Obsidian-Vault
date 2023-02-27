@@ -1,8 +1,8 @@
-Feedback is on of the most consistent aspects of the strategy "ultralearners" use. Ultralearners seek aggressive feedback. Ultralearners in general engage in immediate, accurate and intense feedback.
+It's beneficial to seek aggressive feedback. "Ultralearners" in general engage in immediate, accurate and intense feedback.
 
-Engaging in this type of feedback pattern can sometimes be uncomfortable. The benefits of working with feedback in constructive ways is key to reaching expert levels of performance.
+Engaging in this type of feedback pattern can sometimes be uncomfortable. But the payoff on constructively working with feedback is us being able to reach expert levels of performance.
 
-Any type of feedback aimed at a person's ego is often not constructive.
+Although, not every type of feedback is desirable or useful. Any type of feedback aimed at a person's ego is often not constructive.
 
 When we receive any kind of feedback react to it appropriately. We need to cherry pick what is useful, not overreact to certain bits and not try to react to every bit of information we get. We have to take into account the different types of feedback:
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git.md",
+                "file": "Ultralearners 9th principle - experimentation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git.md",
+                "file": "Ultralearners 9th principle - experimentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git.md",
+                "file": "Ultralearners 9th principle - experimentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git.md"
+                "file": "Ultralearners 9th principle - experimentation.md"
               }
             }
           },
@@ -158,15 +158,15 @@
   },
   "active": "e782c5ec40f489ed",
   "lastOpenFiles": [
-    "Framework thinking.md",
-    "Exceptions in programming.md",
-    "Error handling in programming.md",
-    "Design patterns.md",
-    "Ultralearners 2nd principle - focus.md",
-    "Ultralearners 1st principle - metalearning.md",
+    "Ultralearners 8th principle - intuition.md",
+    "Ultralearners 9th principle - experimentation.md",
+    "Ultralearners 5th principle - retrieval.md",
+    "Principles of ultralearning.md",
     "Ultralearners 6th principle - feedback.md",
-    "todos and drafts/Notes from test automation snake oil.md",
-    "User stories.md",
-    "Ultralearners 5th principle - retrieval.md"
+    "Ultralearners 7th principle - retention.md",
+    "Ultralearners 1st principle - metalearning.md",
+    "Ultralearners 2nd principle - focus.md",
+    "Ultralearners 3rd principle - directness.md",
+    "Ultralearners 4th principle - drills.md"
   ]
 }
