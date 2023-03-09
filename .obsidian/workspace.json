@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ultralearners 9th principle - experimentation.md",
+                "file": "sessions/freeCodeCamp.org/Responsive Web Design/2. Learn Basic CSS by Building a Cafe Menu.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0810f293779d473e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sessions/freeCodeCamp.org/Responsive Web Design/3. Learn CSS colors by Building a Set of Colored Markers.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ultralearners 9th principle - experimentation.md",
+                "file": "sessions/freeCodeCamp.org/Responsive Web Design/3. Learn CSS colors by Building a Set of Colored Markers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ultralearners 9th principle - experimentation.md",
+                "file": "sessions/freeCodeCamp.org/Responsive Web Design/3. Learn CSS colors by Building a Set of Colored Markers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ultralearners 9th principle - experimentation.md"
+                "file": "sessions/freeCodeCamp.org/Responsive Web Design/3. Learn CSS colors by Building a Set of Colored Markers.md"
               }
             }
           },
@@ -156,17 +169,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e782c5ec40f489ed",
+  "active": "0810f293779d473e",
   "lastOpenFiles": [
-    "Ultralearners 8th principle - intuition.md",
+    "sessions/freeCodeCamp.org/Responsive Web Design/2. Learn Basic CSS by Building a Cafe Menu.md",
+    "A buccaneer-scholars self-education method.md",
     "Ultralearners 9th principle - experimentation.md",
+    "Ultralearners 8th principle - intuition.md",
+    "Ultralearners 7th principle - retention.md",
     "Ultralearners 5th principle - retrieval.md",
     "Principles of ultralearning.md",
     "Ultralearners 6th principle - feedback.md",
-    "Ultralearners 7th principle - retention.md",
     "Ultralearners 1st principle - metalearning.md",
-    "Ultralearners 2nd principle - focus.md",
-    "Ultralearners 3rd principle - directness.md",
-    "Ultralearners 4th principle - drills.md"
+    "Ultralearners 2nd principle - focus.md"
   ]
 }

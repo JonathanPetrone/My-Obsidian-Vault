@@ -1,10 +1,10 @@
-By trying out new variations when you learn you quickly get feedback on what works or what role some parts of the whole has. Scott H. Young talks a lot about Van Gogh in the chapter of experimentation as Van Gogh was notorious for trying out new styles, resources or methods when he painted. He would focus heavily and create lots of works and then switch setup in some way and repeat the process. So Van Gogh practiced experimentation but also high intensity. This also let him find a style that worked for him.
+By trying out new variations when you learn you quickly get feedback on what works or what role some parts of the whole has. Scott H. Young talks a lot about Van Gogh in the chapter of experimentation as Van Gogh was notorious for trying out new styles, resources or methods when he painted. Van Gogh would focus heavily and create lots of works and then switch setup in some way and repeat the process. This also let him find a style that worked for him.
 
-Van Gogh's could be said to have followed tha path of a scientist: hypothesis, experiment, results, repeat.
+Van Gogh's could be said to have followed the path of a scientist: hypothesis, experiment, results, repeat.
 
 One interesting situation that often is true is that complete novices tend to have quite similar knowledge ther closer you get to expert level there is a bigger chance of differentiation in some ways. This makes improving expert level skills you have acquired an personalized and idiosyncratic adventure.
 
-Our abilities tend to stagnate after you have mastered the basics. Getting bettewr, however increasingly becomes an act of unlearning; not only must you learn to solve problems you couldn't before, you must unlearn stale and ineffective approaches for solving those problem.
+Our abilities tend to stagnate after you have mastered the basics. Getting better, however increasingly becomes an act of unlearning; not only must you learn to solve problems you couldn't before, you must unlearn stale and ineffective approaches for solving those problem.
 
 ## Three types of experimentation
 1. **Experimenting with learning resources**
