@@ -25,14 +25,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sessions/freeCodeCamp.org/Responsive Web Design/4. Learn HTML Forms by Building a Registration Form.md",
+                "file": "sessions/freeCodeCamp.org/Responsive Web Design/6. Learn the CSS Box Model by Building a Rothko Painting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0580bf0187162c35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sessions/freeCodeCamp.org/Responsive Web Design/7. Learn CSS Flexbox by Building a Photo Gallery.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "88934d38493f9ba5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sessions/freeCodeCamp.org/Responsive Web Design/8. Learn Typography by Building a Nutrition Label.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8386b89d26a5be2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sessions/freeCodeCamp.org/Responsive Web Design/7. Learn CSS Flexbox by Building a Photo Gallery.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "666cf7ef5f01737b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sessions/freeCodeCamp.org/Responsive Web Design/7. Learn CSS Flexbox by Building a Photo Gallery.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -98,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sessions/freeCodeCamp.org/Responsive Web Design/4. Learn HTML Forms by Building a Registration Form.md",
+                "file": "sessions/freeCodeCamp.org/Responsive Web Design/7. Learn CSS Flexbox by Building a Photo Gallery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sessions/freeCodeCamp.org/Responsive Web Design/4. Learn HTML Forms by Building a Registration Form.md",
+                "file": "sessions/freeCodeCamp.org/Responsive Web Design/7. Learn CSS Flexbox by Building a Photo Gallery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sessions/freeCodeCamp.org/Responsive Web Design/4. Learn HTML Forms by Building a Registration Form.md"
+                "file": "sessions/freeCodeCamp.org/Responsive Web Design/7. Learn CSS Flexbox by Building a Photo Gallery.md"
               }
             }
           },
@@ -169,17 +217,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0810f293779d473e",
+  "active": "666cf7ef5f01737b",
   "lastOpenFiles": [
-    "sessions/freeCodeCamp.org/Responsive Web Design/2. Learn Basic CSS by Building a Cafe Menu.md",
+    "sessions/freeCodeCamp.org/Responsive Web Design/6. Learn the CSS Box Model by Building a Rothko Painting.md",
     "sessions/freeCodeCamp.org/Responsive Web Design/3. Learn CSS colors by Building a Set of Colored Markers.md",
     "sessions/freeCodeCamp.org/Responsive Web Design/4. Learn HTML Forms by Building a Registration Form.md",
+    "sessions/freeCodeCamp.org/Responsive Web Design/5. First Certification Project.md",
+    "sessions/freeCodeCamp.org/Responsive Web Design/9. Learn Accessibility by Building a Quiz.md",
+    "sessions/freeCodeCamp.org/Responsive Web Design/8. Learn Typography by Building a Nutrition Label.md",
+    "sessions/freeCodeCamp.org/Responsive Web Design/7. Learn CSS Flexbox by Building a Photo Gallery.md",
+    "sessions/freeCodeCamp.org/Responsive Web Design/2. Learn Basic CSS by Building a Cafe Menu.md",
+    "sessions/freeCodeCamp.org/Responsive Web Design/1. Learn HTML by Building a Cat Photo App.md",
+    "object-oriented programming/Overloading (object-oriented programming).md",
+    "object-oriented programming/Dependency injection (object-oriented programming).md",
+    "object-oriented programming/Composition (object-oriented programming).md",
+    "object-oriented programming/Classes (object-oriented programming).md",
+    "object-oriented programming/Accessor methods (object-oriented programming).md",
+    "object-oriented programming/Access modifiers (object-oriented programming).md",
+    "object-oriented programming/Abstraction (object-oriented programming).md",
     "A buccaneer-scholars self-education method.md",
-    "Ultralearners 9th principle - experimentation.md",
-    "Ultralearners 8th principle - intuition.md",
-    "Ultralearners 7th principle - retention.md",
-    "Ultralearners 5th principle - retrieval.md",
-    "Principles of ultralearning.md",
-    "Ultralearners 6th principle - feedback.md"
+    "Ultralearners 9th principle - experimentation.md"
   ]
 }
