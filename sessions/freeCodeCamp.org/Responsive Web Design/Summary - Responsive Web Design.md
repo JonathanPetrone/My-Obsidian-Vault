@@ -90,14 +90,84 @@ Represents an element that is the root of the document. In HTML this is usually 
 - :last-of-type
 - :only-of-type
 
+## Display property:
 
---- 
+/* precomposed values */
+display: block;
+display: inline;
+display: inline-block;
+display: flex;
+display: inline-flex;
+display: grid;
+display: inline-grid;
+display: flow-root;
 
+/* box generation */
+display: none;
+display: contents;
 
-Lessons left to be checked:
-- Intermediate CSS
-- Responsive Web Design
-- CSS Variables
-- CSS Grid
-- CSS Animation
-- CSS Transform
+/* multi-keyword syntax */
+display: block flow;
+display: inline flow;
+display: inline flow-root;
+display: block flex;
+display: inline flex;
+display: block grid;
+display: inline grid;
+display: block flow-root;
+
+/* other values */
+display: table;
+display: table-row; /* all table elements have an equivalent CSS display value */
+display: list-item;
+
+/* Global values */
+display: inherit;
+display: initial;
+display: revert;
+display: revert-layer;
+display: unset;
+
+## Media query
+
+Media query is a CSS technique introduced in CSS3.
+
+It uses the `@media` rule to include a block of CSS properties only if a certain condition is true.
+
+´@media only screen and (max-width: 600px) {  
+body { 
+background-color: lightblue;  
+}
+}´
+
+## CSS Variables
+
+You can put values in :root and reuse them later like:
+
+:root {
+  --building-color1: #aa80ff;
+  --building-color2: #66cc99;
+  }
+
+color: var(--building-color2);
+
+## CSS Grid Layout 
+Grid excels at dividing a page into major regions or defining the relationship in terms of size, position, and layer, between parts of a control built from HTML primitives.
+
+Like tables, grid layout enables an author to align elements into columns and rows. However, many more layouts are either possible or easier with CSS grid than they were with tables. For example, a grid container's child elements could position themselves so they actually overlap and layer, similar to CSS positioned elements.
+
+.wrapper {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+  grid-auto-rows: minmax(100px, auto);
+}
+
+## CSS Animation
+
+The animations CSS module lets you animate the values of CSS properties, such as background-position and transform, over time by using keyframes. Each keyframe describes how the animated element should render at a given time during the animation sequence. You can use the properties in the animations module to control the duration, number of repetitions, delayed start, and other aspects of an animation.
+
+## CSS Transform
+
+**CSS Transforms** is a module of CSS that defines how elements styled with CSS can be transformed in two-dimensional or three-dimensional space.
+
