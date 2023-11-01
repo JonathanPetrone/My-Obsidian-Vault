@@ -73,14 +73,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sessions/freeCodeCamp.org/Responsive Web Design/7. Learn CSS Flexbox by Building a Photo Gallery.md",
+                "file": "sessions/freeCodeCamp.org/Responsive Web Design/Summary - Responsive Web Design.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "b6a39af51b0a3b7f",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Programming/Untitled.canvas",
+                "viewState": {
+                  "x": 7,
+                  "y": -145.62829783304255,
+                  "zoom": -0.6666666666666666
+                }
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -146,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sessions/freeCodeCamp.org/Responsive Web Design/7. Learn CSS Flexbox by Building a Photo Gallery.md",
+                "file": "Programming/Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sessions/freeCodeCamp.org/Responsive Web Design/7. Learn CSS Flexbox by Building a Photo Gallery.md",
+                "file": "Programming/Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sessions/freeCodeCamp.org/Responsive Web Design/7. Learn CSS Flexbox by Building a Photo Gallery.md"
+                "file": "Programming/Untitled.canvas"
               }
             }
           },
@@ -217,15 +232,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "666cf7ef5f01737b",
+  "active": "b6a39af51b0a3b7f",
   "lastOpenFiles": [
+    "Programming/Untitled.md",
+    "Programming/Untitled.canvas",
+    "sessions/freeCodeCamp.org/Responsive Web Design/Summary - Responsive Web Design.md",
+    "Programming",
+    "sessions/freeCodeCamp.org/Responsive Web Design/7. Learn CSS Flexbox by Building a Photo Gallery.md",
     "sessions/freeCodeCamp.org/Responsive Web Design/6. Learn the CSS Box Model by Building a Rothko Painting.md",
     "sessions/freeCodeCamp.org/Responsive Web Design/3. Learn CSS colors by Building a Set of Colored Markers.md",
     "sessions/freeCodeCamp.org/Responsive Web Design/4. Learn HTML Forms by Building a Registration Form.md",
     "sessions/freeCodeCamp.org/Responsive Web Design/5. First Certification Project.md",
     "sessions/freeCodeCamp.org/Responsive Web Design/9. Learn Accessibility by Building a Quiz.md",
     "sessions/freeCodeCamp.org/Responsive Web Design/8. Learn Typography by Building a Nutrition Label.md",
-    "sessions/freeCodeCamp.org/Responsive Web Design/7. Learn CSS Flexbox by Building a Photo Gallery.md",
     "sessions/freeCodeCamp.org/Responsive Web Design/2. Learn Basic CSS by Building a Cafe Menu.md",
     "sessions/freeCodeCamp.org/Responsive Web Design/1. Learn HTML by Building a Cat Photo App.md",
     "object-oriented programming/Overloading (object-oriented programming).md",
