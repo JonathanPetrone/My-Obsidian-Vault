@@ -1,97 +1,122 @@
 {
   "main": {
-    "id": "54cb3737db9d484b",
+    "id": "cdaee13d524ab6ec",
     "type": "split",
     "children": [
       {
-        "id": "63bcdf0ab1336584",
+        "id": "5d0459673eae9f8e",
         "type": "tabs",
         "children": [
           {
-            "id": "e782c5ec40f489ed",
+            "id": "df5a054ee60fe681",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sessions/freeCodeCamp.org/Responsive Web Design/2. Learn Basic CSS by Building a Cafe Menu.md",
+                "file": "Thought Collection/Todos and Drafts/Notes from Creativity Flow and the Psychology of Discovery and Invention.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Notes from Creativity Flow and the Psychology of Discovery and Invention"
             }
           },
           {
-            "id": "0810f293779d473e",
+            "id": "5af9004b44eea279",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sessions/freeCodeCamp.org/Responsive Web Design/6. Learn the CSS Box Model by Building a Rothko Painting.md",
+                "file": "Programming/Docker/Boot.dev/Docker basics.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Docker basics"
             }
           },
           {
-            "id": "0580bf0187162c35",
+            "id": "c04a20703d50b273",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sessions/freeCodeCamp.org/Responsive Web Design/7. Learn CSS Flexbox by Building a Photo Gallery.md",
+                "file": "Programming/Docker/Boot.dev/Commands.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Commands"
             }
           },
           {
-            "id": "88934d38493f9ba5",
+            "id": "779e5d68af1c3a96",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sessions/freeCodeCamp.org/Responsive Web Design/8. Learn Typography by Building a Nutrition Label.md",
+                "file": "Programming/Docker/Boot.dev/Docker basics.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Docker basics"
             }
           },
           {
-            "id": "8386b89d26a5be2b",
+            "id": "2eac26438c41e672",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sessions/freeCodeCamp.org/Responsive Web Design/7. Learn CSS Flexbox by Building a Photo Gallery.md",
+                "file": "Programming/HTTP servers/Boot.dev/Routing.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Routing"
             }
           },
           {
-            "id": "666cf7ef5f01737b",
+            "id": "d1c0a1d9a75b3a07",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sessions/freeCodeCamp.org/Responsive Web Design/Summary - Responsive Web Design.md",
+                "file": "Programming/HTTP servers/Boot.dev/Databases.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Databases"
             }
           },
           {
-            "id": "b6a39af51b0a3b7f",
+            "id": "b759ab282e231521",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Programming/Untitled.canvas",
-                "viewState": {
-                  "x": 7,
-                  "y": -145.62829783304255,
-                  "zoom": -0.6666666666666666
-                }
-              }
+                "file": "Programming/Git/Git overview.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Git overview"
+            }
+          },
+          {
+            "id": "83749f12c30e67b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ],
@@ -101,67 +126,88 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "5b5780df79dfc350",
+    "id": "8ebb31a71f1594e7",
     "type": "split",
     "children": [
       {
-        "id": "6ed7a458f1d73150",
+        "id": "8cc3a036b2390036",
         "type": "tabs",
         "children": [
           {
-            "id": "c07c27bbc82d1560",
+            "id": "6a961bfd464f9e13",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
-            "id": "97d7abbe4b7c3dad",
+            "id": "3d5461d5210cbbd2",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
-            "id": "e0cd45ac77f7563b",
+            "id": "d1cce5b8c19b0b3f",
             "type": "leaf",
             "state": {
-              "type": "starred",
-              "state": {}
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "b7e3cac91990b7b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Thought Collection/Books (Single source and note)/The Tacit Dimension - M. Polanyi/The body and tools as an interface to obtaining knowledge.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The body and tools as an interface to obtaining knowledge"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 355.50390243530273
   },
   "right": {
-    "id": "683f650d22f5ca17",
+    "id": "c5901c2bc0fb577b",
     "type": "split",
     "children": [
       {
-        "id": "3117609f692b5267",
+        "id": "693d59f0606a2f1c",
         "type": "tabs",
         "children": [
           {
-            "id": "8b391a3550202954",
+            "id": "11d74b79ea20ba61",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Untitled.canvas",
+                "file": "Thought Collection/Books (Single source and note)/We Who Wrestle with God - J. Peterson/Psyche.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,52 +215,51 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Psyche"
             }
           },
           {
-            "id": "bc70677ac6a6cfb0",
+            "id": "529c437b6eb3fb88",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Untitled.canvas",
+                "file": "Thought Collection/Books (Single source and note)/We Who Wrestle with God - J. Peterson/Psyche.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Psyche"
             }
           },
           {
-            "id": "19ae88b7bfe70fc0",
+            "id": "6eda61d0b21d228a",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
-            "id": "323afaa58cce304d",
+            "id": "f419ea869367a0ce",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Untitled.canvas"
-              }
-            }
-          },
-          {
-            "id": "255a50213853b63e",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
+                "file": "Thought Collection/Books (Single source and note)/We Who Wrestle with God - J. Peterson/Psyche.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Psyche"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -228,33 +273,57 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "b6a39af51b0a3b7f",
+  "active": "6a961bfd464f9e13",
   "lastOpenFiles": [
-    "Programming/Untitled.md",
-    "Programming/Untitled.canvas",
-    "sessions/freeCodeCamp.org/Responsive Web Design/Summary - Responsive Web Design.md",
-    "Programming",
-    "sessions/freeCodeCamp.org/Responsive Web Design/7. Learn CSS Flexbox by Building a Photo Gallery.md",
-    "sessions/freeCodeCamp.org/Responsive Web Design/6. Learn the CSS Box Model by Building a Rothko Painting.md",
-    "sessions/freeCodeCamp.org/Responsive Web Design/3. Learn CSS colors by Building a Set of Colored Markers.md",
-    "sessions/freeCodeCamp.org/Responsive Web Design/4. Learn HTML Forms by Building a Registration Form.md",
-    "sessions/freeCodeCamp.org/Responsive Web Design/5. First Certification Project.md",
-    "sessions/freeCodeCamp.org/Responsive Web Design/9. Learn Accessibility by Building a Quiz.md",
-    "sessions/freeCodeCamp.org/Responsive Web Design/8. Learn Typography by Building a Nutrition Label.md",
-    "sessions/freeCodeCamp.org/Responsive Web Design/2. Learn Basic CSS by Building a Cafe Menu.md",
-    "sessions/freeCodeCamp.org/Responsive Web Design/1. Learn HTML by Building a Cat Photo App.md",
-    "object-oriented programming/Overloading (object-oriented programming).md",
-    "object-oriented programming/Dependency injection (object-oriented programming).md",
-    "object-oriented programming/Composition (object-oriented programming).md",
-    "object-oriented programming/Classes (object-oriented programming).md",
-    "object-oriented programming/Accessor methods (object-oriented programming).md",
-    "object-oriented programming/Access modifiers (object-oriented programming).md",
-    "object-oriented programming/Abstraction (object-oriented programming).md",
-    "A buccaneer-scholars self-education method.md",
-    "Ultralearners 9th principle - experimentation.md"
+    "Programming/Git/Fork vs Clone.md",
+    "Programming/Git/Git overview.md",
+    "Suggestions on Vault Content.md",
+    "Thought Collection/Articles (Single source and note)/Explicit knowledge.md",
+    "Programming/Data structures/Depth first search.md",
+    "Programming/Machine Learning and AI",
+    "Programming/Architecture",
+    "Programming/Data structures/Breadth first search (BFS).md",
+    "Programming/Algorithms/P vs NP.md",
+    "Programming/Algorithms/Canvas of important algorithms.canvas",
+    "Programming/Algorithms/Big O notation.md",
+    "Thought Collection/Articles (Single source and note)/Self-learning.md",
+    "Programming/Basics/Operators in programming.md",
+    "Programming/Basics/Continuous integration.md",
+    "Programming/Basics/Deployment Process.md",
+    "Programming/Basics/Scope in programming.md",
+    "Programming/Other/Structured programming.md",
+    "Programming/Product Development/User stories.md",
+    "Programming/Product Development",
+    "Programming/Software Testing",
+    "Programming/Git",
+    "Programming/File Servers/Boot.dev/Basics.md",
+    "Programming/File Servers/Boot.dev/Serverless.md",
+    "Programming/File Servers/Boot.dev/CDN.md",
+    "Programming/File Servers/Boot.dev/Security.md",
+    "Programming/File Servers/Boot.dev/Streaming.md",
+    "Programming/File Servers/Boot.dev/Cache.md",
+    "Programming/File Servers/Boot.dev/Mime types.md",
+    "Programming/File Servers/Boot.dev/SDKs.md",
+    "Programming/File Servers/Boot.dev/Videos.md",
+    "Programming/File Servers/Boot.dev/Storage.md",
+    "Programming/HTTP servers/Boot.dev/File servers.md",
+    "Programming/File Servers/Boot.dev",
+    "Programming/File Servers",
+    "Pasted image 20250204102548.png",
+    "Programming/HTTP servers/Boot.dev",
+    "Programming/HTTP servers",
+    "Pasted image 20250203224756.png",
+    "Programming/Docker/Boot.dev",
+    "Pasted image 20250113202242.png",
+    "Pasted image 20250104092359.png",
+    "Pasted image 20241224233748.png",
+    "Skärmavbild 2024-12-24 kl. 21.48.01.png",
+    "Pasted image 20241224214721.png",
+    "Pasted image 20241223181856.png",
+    "Pasted image 20241223181309.png",
+    "Pasted image 20241223181255.png"
   ]
 }

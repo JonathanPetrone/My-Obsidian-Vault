@@ -1,0 +1,1 @@
+An [SDK](https://en.wikipedia.org/wiki/Software_development_kit) or "Software Development Kit" is just a collection of tools (often involving an importable library) that helps you interact with a specific service or technology.

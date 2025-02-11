@@ -1,0 +1,44 @@
+.cm-inline-code {
+  background-color: #15DC29!important; 
+  color:white!important;
+}
+
+.cm-em {
+  color: #f2564a;
+}
+
+.cm-underline {
+  color: #6d8bfd!important; 
+}
+
+.cm-formatting, .cm-formatting-code-block, .cm-hmd-codeblock {
+  color: #15DC29!important;
+}
+
+.HyperMD-codeblock-bg {
+  background-color: #2b2b2a!important; 
+}
+
+.markdown-source-view.mod-cm6 .cm-indent::before {
+  content: "\200B";
+  display: block;
+  width: 1px;
+  border-right: var(--indentation-guide-width) solid #797575;
+  color: #bf1690;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  transform: translateX(0.15em);
+}
+
+.markdown-source-view.mod-cm6 .cm-content {
+  flex-basis: unset !important;
+  width: 0;
+  caret-color: #15DC29;
+  min-height: unset;
+  padding: 0;
+}
+
+th {
+  background-color: #f2564a!important;
+}

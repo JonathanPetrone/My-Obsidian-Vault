@@ -1,0 +1,1 @@
+Summarised in the slogan "We can know more than we can tell", Polanyi's paradox is mainly to explain the cognitive phenomenon that there exist many tasks which we, human beings, understand intuitively how to perform but cannot verbalize their rules or procedures.

@@ -1,0 +1,1 @@
+While authentication is about verifying _who_ a user is, authorization is about verifying _what a user is allowed to do_.

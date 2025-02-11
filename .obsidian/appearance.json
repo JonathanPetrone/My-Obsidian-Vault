@@ -1,5 +1,12 @@
 {
-  "accentColor": "",
-  "theme": "obsidian",
-  "baseFontSize": 19
+  "accentColor": "#15cb2b",
+  "cssTheme": "",
+  "interfaceFontFamily": "Apple Braille",
+  "baseFontSize": 19,
+  "theme": "moonstone",
+  "translucency": false,
+  "textFontFamily": "Apple Braille",
+  "enabledCssSnippets": [
+    "obsidian"
+  ]
 }
