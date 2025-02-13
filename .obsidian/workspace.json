@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Git/Git overview.md",
+                "file": "Thought Collection/Articles (Single source and note)/The oracle problem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git overview"
+              "title": "The oracle problem"
             }
           },
           {
@@ -276,12 +276,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a961bfd464f9e13",
+  "active": "b759ab282e231521",
   "lastOpenFiles": [
+    "Thought Collection/Articles (Single source and note)/Self-learning.md",
+    "Thought Collection/Articles (Single source and note)/The oracle problem.md",
+    "Thought Collection/Multi-source/Explicit knowledge.md",
     "Programming/Git/Fork vs Clone.md",
+    "Programming/Git/Git merge with commitish.md",
+    "Programming/Git/Reflog.md",
     "Programming/Git/Git overview.md",
+    "Skärmavbild 2025-02-12 kl. 20.14.32.png",
+    "Becoming a netocrat.md",
     "Suggestions on Vault Content.md",
-    "Thought Collection/Articles (Single source and note)/Explicit knowledge.md",
     "Programming/Data structures/Depth first search.md",
     "Programming/Machine Learning and AI",
     "Programming/Architecture",
@@ -289,7 +295,6 @@
     "Programming/Algorithms/P vs NP.md",
     "Programming/Algorithms/Canvas of important algorithms.canvas",
     "Programming/Algorithms/Big O notation.md",
-    "Thought Collection/Articles (Single source and note)/Self-learning.md",
     "Programming/Basics/Operators in programming.md",
     "Programming/Basics/Continuous integration.md",
     "Programming/Basics/Deployment Process.md",
@@ -306,10 +311,6 @@
     "Programming/File Servers/Boot.dev/Streaming.md",
     "Programming/File Servers/Boot.dev/Cache.md",
     "Programming/File Servers/Boot.dev/Mime types.md",
-    "Programming/File Servers/Boot.dev/SDKs.md",
-    "Programming/File Servers/Boot.dev/Videos.md",
-    "Programming/File Servers/Boot.dev/Storage.md",
-    "Programming/HTTP servers/Boot.dev/File servers.md",
     "Programming/File Servers/Boot.dev",
     "Programming/File Servers",
     "Pasted image 20250204102548.png",
@@ -323,7 +324,6 @@
     "Skärmavbild 2024-12-24 kl. 21.48.01.png",
     "Pasted image 20241224214721.png",
     "Pasted image 20241223181856.png",
-    "Pasted image 20241223181309.png",
-    "Pasted image 20241223181255.png"
+    "Pasted image 20241223181309.png"
   ]
 }
