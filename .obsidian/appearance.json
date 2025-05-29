@@ -1,9 +1,9 @@
 {
-  "accentColor": "#15cb2b",
+  "accentColor": "#c32866",
   "cssTheme": "",
   "interfaceFontFamily": "Apple Braille",
   "baseFontSize": 19,
-  "theme": "moonstone",
+  "theme": "obsidian",
   "translucency": false,
   "textFontFamily": "Apple Braille",
   "enabledCssSnippets": [

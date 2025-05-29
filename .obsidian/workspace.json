@@ -8,119 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "df5a054ee60fe681",
+            "id": "f68819294c0bd113",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thought Collection/Todos and Drafts/Notes from Creativity Flow and the Psychology of Discovery and Invention.md",
+                "file": "Programming/Golang/Packages/Template package.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notes from Creativity Flow and the Psychology of Discovery and Invention"
+              "title": "Template package"
             }
           },
           {
-            "id": "5af9004b44eea279",
+            "id": "f403a129a27b1722",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Docker/Boot.dev/Docker basics.md",
+                "file": "Gaming/Hearthstone BG/Trinkets.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Docker basics"
-            }
-          },
-          {
-            "id": "c04a20703d50b273",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Docker/Boot.dev/Commands.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Commands"
-            }
-          },
-          {
-            "id": "779e5d68af1c3a96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Docker/Boot.dev/Docker basics.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Docker basics"
-            }
-          },
-          {
-            "id": "2eac26438c41e672",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/HTTP servers/Boot.dev/Routing.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Routing"
-            }
-          },
-          {
-            "id": "d1c0a1d9a75b3a07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/HTTP servers/Boot.dev/Databases.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Databases"
-            }
-          },
-          {
-            "id": "b759ab282e231521",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Thought Collection/Articles (Single source and note)/The oracle problem.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The oracle problem"
-            }
-          },
-          {
-            "id": "83749f12c30e67b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Trinkets"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -202,46 +118,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "11d74b79ea20ba61",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Thought Collection/Books (Single source and note)/We Who Wrestle with God - J. Peterson/Psyche.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Psyche"
-            }
-          },
-          {
-            "id": "529c437b6eb3fb88",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Thought Collection/Books (Single source and note)/We Who Wrestle with God - J. Peterson/Psyche.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Psyche"
-            }
-          },
-          {
             "id": "6eda61d0b21d228a",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -257,6 +142,39 @@
               },
               "icon": "lucide-list",
               "title": "Outline of Psyche"
+            }
+          },
+          {
+            "id": "8e2efebd1dbe8725",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Programming/Golang/Knowledge and Questions/EOF.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for EOF"
+            }
+          },
+          {
+            "id": "83c8e2b93dd8ebbe",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Programming/Golang/Knowledge and Questions/EOF.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from EOF"
             }
           }
         ]
@@ -276,54 +194,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b759ab282e231521",
+  "active": "f403a129a27b1722",
   "lastOpenFiles": [
-    "Thought Collection/Articles (Single source and note)/Self-learning.md",
-    "Thought Collection/Articles (Single source and note)/The oracle problem.md",
-    "Thought Collection/Multi-source/Explicit knowledge.md",
-    "Programming/Git/Fork vs Clone.md",
-    "Programming/Git/Git merge with commitish.md",
-    "Programming/Git/Reflog.md",
-    "Programming/Git/Git overview.md",
-    "Skärmavbild 2025-02-12 kl. 20.14.32.png",
-    "Becoming a netocrat.md",
-    "Suggestions on Vault Content.md",
-    "Programming/Data structures/Depth first search.md",
+    "Gaming/Hearthstone BG/Cenarius.md",
+    "Gaming/Hearthstone BG/Trinkets.md",
+    "Programming/Docker/Boot.dev/Example Dockerfile python.md",
+    "Gaming/Hearthstone BG",
+    "Untitled",
+    "Gaming",
+    "Programming/Golang/Knowledge and Questions/EOF.md",
+    "Programming/Golang/Knowledge and Questions/Interfaces.md",
+    "Programming/Golang/Knowledge and Questions/Iota.md",
+    "Programming/Golang/Knowledge and Questions/-1 as a result.md",
+    "Programming/Golang/Packages/Template package.md",
+    "Programming/Golang/Packages/Standard Packages List.md",
+    "Programming/Docker/Boot.dev/Docker basics.md",
+    "Programming/Docker/Boot.dev/Commands.md",
+    "Thought Collection/Books (Single source and note)/Limitless - J. Kwik/Neuroplasticity and learning.md",
+    "AI input.md",
+    "Example Reading.md",
+    "Programming/Golang/Learning/Book - The Go Programming Language/Chapter 8 - Goroutines and Channels/Exercise 8.3.md",
+    "Programming/Golang/Learning/Book - The Go Programming Language/Chapter 8 - Goroutines and Channels/Exercise 8.4, 8.5.md",
+    "Programming/Golang/Learning/Book - The Go Programming Language/Chapter 8 - Goroutines and Channels/Chapter 8 - Notes.md",
+    "Thought Collection/Books (Single source and note)/Start with Why - S. Sinek/Symbols and their role in our lives.md",
+    "Thought Collection/Books (Single source and note)/Secrets of Consulting - G. Weinberg/Weinberg's laws of consulting.md",
+    "Programming/Golang/Learning/Book - The Go Programming Language/Chapter 4 - Composite Types/Exercise 4.10, 4.11, 4.12, 4.13.md",
+    "Programming/Golang/Learning/Book - The Go Programming Language/Chapter 1 - Tutorial/Exercise 1.5, 1.6.md",
+    "Programming/Golang/Learning/Book - The Go Programming Language/Chapter 1 - Tutorial/Exercise 1.1, 1.2, 1.3.md",
+    "Programming/Golang/Learning/Book - The Go Programming Language/Chapter 1 - Tutorial/Exercise 1.4.md",
+    "Programming/Docker/Boot.dev/Offline mode.md",
+    "Thought Collection/Books (Single source and note)/Limitless - J. Kwik/Perception.md",
+    "Thought Collection/Books (Single source and note)/Limitless - J. Kwik/Remembering is maintaining connections in your brain.md",
+    "Programming/Golang/Packages",
+    "Skärmavbild 2025-04-19 kl. 21.44.20.png",
+    "Programming/Algorithms/Boot.dev Data Structures & Algorithms",
+    "Skärmavbild 2025-04-08 kl. 11.09.44.png",
+    "Skärmavbild 2025-04-06 kl. 20.08.04.png",
+    "Skärmavbild 2025-04-06 kl. 20.02.13.png",
+    "Programming/HTTP",
+    "Pasted image 20250323153235.png",
+    "Pasted image 20250323153118.png",
+    "Skärmavbild 2025-03-23 kl. 13.50.31.png",
+    "Pasted image 20250323134842.png",
+    "Pasted image 20250323131913.png",
+    "Programming/Architecture/Publish Subscribe/RabbitMQ",
+    "Pasted image 20250323131026.png",
+    "Programming/Architecture/Publish Subscribe",
     "Programming/Machine Learning and AI",
     "Programming/Architecture",
-    "Programming/Data structures/Breadth first search (BFS).md",
-    "Programming/Algorithms/P vs NP.md",
-    "Programming/Algorithms/Canvas of important algorithms.canvas",
-    "Programming/Algorithms/Big O notation.md",
-    "Programming/Basics/Operators in programming.md",
-    "Programming/Basics/Continuous integration.md",
-    "Programming/Basics/Deployment Process.md",
-    "Programming/Basics/Scope in programming.md",
-    "Programming/Other/Structured programming.md",
-    "Programming/Product Development/User stories.md",
-    "Programming/Product Development",
-    "Programming/Software Testing",
-    "Programming/Git",
-    "Programming/File Servers/Boot.dev/Basics.md",
-    "Programming/File Servers/Boot.dev/Serverless.md",
-    "Programming/File Servers/Boot.dev/CDN.md",
-    "Programming/File Servers/Boot.dev/Security.md",
-    "Programming/File Servers/Boot.dev/Streaming.md",
-    "Programming/File Servers/Boot.dev/Cache.md",
-    "Programming/File Servers/Boot.dev/Mime types.md",
-    "Programming/File Servers/Boot.dev",
-    "Programming/File Servers",
-    "Pasted image 20250204102548.png",
-    "Programming/HTTP servers/Boot.dev",
-    "Programming/HTTP servers",
-    "Pasted image 20250203224756.png",
-    "Programming/Docker/Boot.dev",
-    "Pasted image 20250113202242.png",
-    "Pasted image 20250104092359.png",
-    "Pasted image 20241224233748.png",
-    "Skärmavbild 2024-12-24 kl. 21.48.01.png",
-    "Pasted image 20241224214721.png",
-    "Pasted image 20241223181856.png",
-    "Pasted image 20241223181309.png"
+    "Programming/Algorithms/Canvas of important algorithms.canvas"
   ]
 }

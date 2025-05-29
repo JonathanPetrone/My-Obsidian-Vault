@@ -15,6 +15,7 @@ The ability to treat different types interchangeably offers several key benefits
 - **Testing**: Create mock objects for isolated, reliable testing.
 - **Composition**: Combine behaviors without relying on inheritance.
 
+
 ```
 type Shape interface {
     Area() float64

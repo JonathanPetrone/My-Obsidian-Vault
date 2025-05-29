@@ -1,10 +1,10 @@
 .cm-inline-code {
-  background-color: #15DC29!important; 
+  background-color: #e0144b!important; 
   color:white!important;
 }
 
 .cm-em {
-  color: #f2564a;
+  color: #e0144b!important; 
 }
 
 .cm-underline {
@@ -12,11 +12,11 @@
 }
 
 .cm-formatting, .cm-formatting-code-block, .cm-hmd-codeblock {
-  color: #15DC29!important;
+  color: #e0144b!important; 
 }
 
 .HyperMD-codeblock-bg {
-  background-color: #2b2b2a!important; 
+  background-color: #dedad9!important; 
 }
 
 .markdown-source-view.mod-cm6 .cm-indent::before {
@@ -39,6 +39,25 @@
   padding: 0;
 }
 
-th {
-  background-color: #f2564a!important;
+.HyperMD-header {
+ padding-bottom: 10px!important; 
+}
+
+.inline-title {
+color: #ffffff !important; 
+border-bottom: 2px solid #df2ce8;
+margin-bottom: 10px;
+}
+
+.cm-header-2, .cm-header-3, .cm-header-4{
+color: #ffffff !important; 
+border-bottom: 2px solid #df2ce8;
+}
+
+.cm-strong {
+ color: #ffffff
+}
+
+.cm-contentContainer {
+ Margin-top: 16px!important; 
 }
