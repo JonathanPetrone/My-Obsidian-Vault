@@ -7,15 +7,15 @@ Stay general and take grand leaps. When we are wrong, we find this out more quic
 See also: 
 - [[Generalist]]
 
-## Reference:
+### Reference:
 An Introduction to General Systems Thinking (ch. 2) - G. Weinberg
 
-## Similar:
+### Similar:
 - 
 
-## Opposite: 
+### Opposite: 
 - [[Scientists are reductionists]]
 
-## Theme/Questions:
+### Theme/Questions:
 
-## What does this lead to?
+### What does this lead to?

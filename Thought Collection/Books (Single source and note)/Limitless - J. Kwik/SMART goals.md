@@ -26,4 +26,4 @@ Limitless - J. Kwik
 Setting goals: [[Setting goals from the HEART]]
 
 ## What does this lead to?
-Perhaps a clearer sense of [[Why]]
+Perhaps a clearer sense of [[Thought Collection/Todos and Drafts/Why]]

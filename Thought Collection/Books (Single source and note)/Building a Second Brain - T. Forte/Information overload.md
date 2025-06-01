@@ -4,7 +4,7 @@ For example:
 - Every bit of energy we spend straining to recall things is energy not spent doing the thinking an being creative
 - Every minute we spend trying to mentally juggle all the stuff we have to do leaves less time to act
 
-One way to combat this is to build a [[Second brain]], where you keep only what resonates in a trusted place that you control, and to leave the rest aside.
+One way to combat this is to build a [[Second Brain]], where you keep only what resonates in a trusted place that you control, and to leave the rest aside.
 
 This can lead you to have a calmer mind, knowing that every important part of an idea/insight/information you have can be saved/tracked, which means that in the mean-time you can focus on other things.
 

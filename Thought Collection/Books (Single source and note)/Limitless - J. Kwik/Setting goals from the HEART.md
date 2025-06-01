@@ -22,4 +22,4 @@ Limitless - J. Kwik
 Setting goals: [[SMART goals]]
 
 ## What does this lead to?
-Perhaps a clearer sense of [[Why]]
+Perhaps a clearer sense of [[Thought Collection/Todos and Drafts/Why]]

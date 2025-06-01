@@ -1,63 +1,304 @@
-.cm-inline-code {
-  background-color: #e0144b!important; 
-  color:white!important;
-}
+/* Clean Hierarchy Theme for Obsidian */
+/* Focuses on clear heading distinction and simple, stylish design */
 
-.cm-em {
-  color: #e0144b!important; 
-}
-
-.cm-underline {
-  color: #6d8bfd!important; 
-}
-
-.cm-formatting, .cm-formatting-code-block, .cm-hmd-codeblock {
-  color: #e0144b!important; 
-}
-
-.HyperMD-codeblock-bg {
-  background-color: #dedad9!important; 
-}
-
-.markdown-source-view.mod-cm6 .cm-indent::before {
-  content: "\200B";
-  display: block;
-  width: 1px;
-  border-right: var(--indentation-guide-width) solid #797575;
-  color: #bf1690;
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  transform: translateX(0.15em);
-}
-
-.markdown-source-view.mod-cm6 .cm-content {
-  flex-basis: unset !important;
-  width: 0;
-  caret-color: #15DC29;
-  min-height: unset;
-  padding: 0;
-}
-
-.HyperMD-header {
- padding-bottom: 10px!important; 
-}
+/* === HEADING HIERARCHY === */
 
 .inline-title {
-color: #ffffff !important; 
-border-bottom: 2px solid #df2ce8;
-margin-bottom: 10px;
+    font-size: 2.2em !important;
+    font-weight: 600 !important;
+    color: #d91656 !important;
+    text-align: center !important;
+    margin-bottom: 1.5em !important;
+    padding: 0.3em 0 0.8em 0 !important;
+    border-bottom: 2px solid rgba(217, 22, 86, 0.2) !important;
+    background: linear-gradient(135deg, 
+        rgba(217, 22, 86, 0.02) 0%, 
+        transparent 50%, 
+        rgba(217, 22, 86, 0.02) 100%) !important;
+    border-radius: 4px !important;
 }
 
-.cm-header-2, .cm-header-3, .cm-header-4{
-color: #ffffff !important; 
-border-bottom: 2px solid #df2ce8;
+/* H1 - Main Titles */
+.markdown-rendered h1,
+.cm-header-1 {
+    font-size: 2em !important;
+    font-weight: 700 !important;
+    color: #d91656 !important; /* Your updated accent color */
+    padding-bottom: 8px !important;
+    margin-top: 2em !important;
+    margin-bottom: 1em !important;
+    line-height: 1.2 !important;
 }
 
+/* H2 - Section Headers */
+.markdown-rendered h2,
+.cm-header-2 {
+    font-size: 1.6em !important;
+    font-weight: 600 !important;
+    color: #5b9bd5 !important; /* Softer, lighter blue */
+    border-left: 4px solid #5b9bd5 !important;
+    padding-left: 12px !important;
+    margin-top: 1.8em !important;
+    margin-bottom: 0.8em !important;
+    line-height: 1.3 !important;
+}
+
+/* H3 - Subsection Headers */
+.markdown-rendered h3,
+.cm-header-3 {
+    font-size: 1.35em !important;
+    font-weight: 600 !important;
+    color: #047857 !important; /* Teal green - harmonious with your palette */
+    margin-top: 1.5em !important;
+    margin-bottom: 0.6em !important;
+    position: relative !important;
+}
+
+.markdown-rendered h3::before,
+.cm-header-3::before {
+    content: "▶ " !important;
+    color: #047857 !important;
+    font-size: 0.8em !important;
+}
+
+/* H4 - Sub-subsection Headers */
+.markdown-rendered h4,
+.cm-header-4 {
+    font-size: 1.2em !important;
+    font-weight: 500 !important;
+    color: #e85d00 !important; /* Warmer orange - lighter version of your accent */
+    margin-top: 1.2em !important;
+    margin-bottom: 0.5em !important;
+    text-decoration: underline !important;
+    text-decoration-color: #e85d00 !important;
+    text-underline-offset: 4px !important;
+}
+
+/* H5 - Minor Headers */
+.markdown-rendered h5,
+.cm-header-5 {
+    font-size: 1.1em !important;
+    font-weight: 500 !important;
+    color: #a21c5a !important; /* Darker version of your accent */
+    margin-top: 1em !important;
+    margin-bottom: 0.4em !important;
+    font-style: italic !important;
+}
+
+/* H6 - Smallest Headers */
+.markdown-rendered h6,
+.cm-header-6 {
+    font-size: 1em !important;
+    font-weight: 500 !important;
+    color: #6b7280 !important; /* Neutral gray */
+    margin-top: 0.8em !important;
+    margin-bottom: 0.3em !important;
+    text-transform: uppercase !important;
+    letter-spacing: 1px !important;
+    font-size: 0.9em !important;
+}
+
+/* === GENERAL STYLING === */
+
+/* Clean background and text */
+.theme-dark {
+    --background-primary: #242424 !important;
+    --background-secondary: #2e2e2e !important;
+    --text-normal: #e5e5e5 !important;
+    --text-muted: #a3a3a3 !important;
+}
+
+.theme-light {
+    --background-primary: #ffffff !important;
+    --background-secondary: #f8f9fa !important;
+    --text-normal: #1f2937 !important;
+    --text-muted: #6b7280 !important;
+}
+
+/* Clean paragraph spacing */
+.markdown-rendered p {
+    margin-bottom: 1em !important;
+    line-height: 1.6 !important;
+}
+
+/* Subtle list styling */
+.markdown-rendered ul li,
+.markdown-rendered ol li {
+    margin-bottom: 0.3em !important;
+    line-height: 1.5 !important;
+}
+
+/* Custom bullet points with your accent color - READING MODE */
+.markdown-rendered ul li {
+    list-style: none !important;
+    position: relative !important;
+    padding-left: 20px !important;
+}
+
+.markdown-rendered ul li::before {
+    content: "●" !important;
+    color: #d91656 !important;
+    font-weight: bold !important;
+    position: absolute !important;
+    left: 0 !important;
+    font-size: 1em !important;
+}
+
+/* Nested bullet levels with variations - READING MODE */
+.markdown-rendered ul ul li::before {
+    content: "○" !important;
+    color: #d91656 !important;
+    opacity: 0.8 !important;
+}
+
+.markdown-rendered ul ul ul li::before {
+    content: "◦" !important;
+    color: #d91656 !important;
+    opacity: 0.6 !important;
+}
+
+/* EDITING MODE bullet styling */
+.list-bullet {
+    color: #d91656 !important;
+    font-weight: bold !important;
+}
+
+.cm-formatting-list-ul {
+    color: #d91656 !important;
+    font-weight: bold !important;
+}
+
+/* Clean blockquotes */
+.markdown-rendered blockquote {
+    border-left: 4px solid #6b7280 !important;
+    padding-left: 16px !important;
+    margin: 1em 0 !important;
+    font-style: italic !important;
+    color: var(--text-muted) !important;
+}
+
+/* Code blocks with subtle styling */
+.markdown-rendered code {
+    background-color: var(--background-secondary) !important;
+    padding: 2px 6px !important;
+    border-radius: 4px !important;
+    font-family: 'SF Mono', Monaco, 'Roboto Mono', monospace !important;
+    font-size: 0.9em !important;
+}
+
+.markdown-rendered pre {
+    background-color: var(--background-secondary) !important;
+    padding: 16px !important;
+    border-radius: 8px !important;
+    border: 1px solid var(--background-modifier-border) !important;
+    margin: 1em 0 !important;
+}
+
+/* Clean horizontal rules */
+.markdown-rendered hr {
+    border: none !important;
+    height: 2px !important;
+    background: linear-gradient(to right, transparent, #6b7280, transparent) !important;
+    margin: 2em 0 !important;
+}
+
+/* === EDITOR MODE ENHANCEMENTS === */
+
+/* Make editor mode headers stand out too */
+.cm-line .cm-header {
+    font-weight: inherit !important;
+}
+
+/* === MISC IMPROVEMENTS === */
+
+/* Cleaner file explorer */
+.nav-file-title {
+    padding: 4px 8px !important;
+    border-radius: 4px !important;
+}
+
+.nav-file-title:hover {
+    background-color: var(--background-modifier-hover) !important;
+}
+
+/* Subtle improvements to tags */
+.tag {
+    background-color: var(--background-secondary) !important;
+    border: 1px solid var(--background-modifier-border) !important;
+    border-radius: 12px !important;
+    padding: 2px 8px !important;
+    font-size: 0.85em !important;
+}
+
+/* Enhanced bold text styling */
+.markdown-rendered strong,
 .cm-strong {
- color: #ffffff
+    color: #d91656 !important; /* Your updated accent color for bold text */
+    font-weight: 700 !important;
+    text-shadow: 0 0 1px rgba(217, 22, 86, 0.3) !important; /* Updated glow */
 }
 
-.cm-contentContainer {
- Margin-top: 16px!important; 
+/* Underline styling */
+.cm-underline {
+    color: #d91656 !important;
+    text-decoration-color: #d91656 !important;
+}
+
+/* File names styling */
+.nav-file-title {
+    padding: 4px 8px !important;
+    border-radius: 4px !important;
+    color: var(--text-normal) !important;
+    margin: 1px 0 !important;
+}
+
+.nav-file-title:hover {
+    background-color: var(--background-modifier-hover) !important;
+    color: #d91656 !important;
+}
+
+/* Active/selected file */
+.nav-file-title.is-active {
+    background-color: #d91656 !important;
+    color: #ffffff !important;
+    font-weight: 500 !important;
+    border-radius: 4px !important;
+}
+
+/* File explorer background */
+.nav-files-container {
+    padding: 8px !important;
+}
+
+/* Tab styling */
+.workspace-tab-header {
+    background-color: var(--background-secondary) !important;
+    color: var(--text-muted) !important;
+    border-radius: 6px 6px 0 0 !important;
+    margin: 0 2px !important;
+}
+
+.workspace-tab-header:hover {
+    background-color: rgba(217, 22, 86, 0.1) !important;
+    color: #d91656 !important;
+}
+
+/* Active tab */
+.workspace-tab-header.is-active {
+    background-color: #242424 !important;
+    color: inherit !important;
+    font-weight: 500 !important;
+}
+
+/* Tab close button */
+.workspace-tab-header .workspace-tab-header-inner-close-button {
+    color: #d91656 !important;
+    opacity: 0.7 !important;
+}
+
+.workspace-tab-header .workspace-tab-header-inner-close-button:hover {
+    opacity: 1 !important;
+    color: #d91656 !important;
+    background-color: rgba(255, 255, 255, 0.2) !important;
+    border-radius: 3px !important;
 }

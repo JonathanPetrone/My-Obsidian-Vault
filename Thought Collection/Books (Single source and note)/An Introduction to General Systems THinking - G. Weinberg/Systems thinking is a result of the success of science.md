@@ -2,16 +2,16 @@ Systems thinking is a result of the success of the sciences. An example that is 
 
 see also: [[Reductionism]]
 
-## Reference:
+### Reference:
 
 An Introduction to General Systems Thinking (ch. 1 p 3.) - G. Weinberg
 
-## Similar:
+### Similar:
 - [[Scientists are reductionists]]
 
-## Opposite:
+### Opposite:
 - [[The general system thinkers approach]]
 
-## Theme/Questions:
+### Theme/Questions:
 
-## What does this lead to?
+### What does this lead to?

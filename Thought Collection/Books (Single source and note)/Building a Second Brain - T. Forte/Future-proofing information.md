@@ -4,7 +4,7 @@ One way to do this is with building a Second Brain, which becomes your knowledge
 
 We are more likely to remember information we've written down in our own words. This comes down to the "Generation Effect", researchers have found that when people actively generate a series of words, such as by speaking or writing, more parts of their brain are activated when compared to simply reading the same words. Writing ideas down is a way of rehearsing those ideas, which makes them far more likely to stick.
 
-see also: [[Second brain]]
+see also: [[Second Brain]]
 
 ## Reference:
 Building A Second Brain (ch. 1, 2 & 4) - T. Forte
