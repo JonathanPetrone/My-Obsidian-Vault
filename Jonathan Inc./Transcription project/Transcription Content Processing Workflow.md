@@ -73,3 +73,14 @@
     - Anthropic/OpenAI: More optimistic about AGI timeline and capabilities
     - Regulators: More concerned about current harms than future benefits
     - Traditional software vendors: Less enthusiastic about workflow transformation
+
+## Running Insight Database
+
+### Emergent Themes
+
+| Theme                                           | Source     | Confidence Level | Actionability |
+| ----------------------------------------------- | ---------- | ---------------- | ------------- |
+| AI as workflow transformation vs. tool adoption | Nadella-YC | High             | High          |
+| "Social permission" as technology constraint    | Nadella-YC | Medium           | Medium        |
+| Forward deployment as critical service model    | Nadella-YC | Medium           | High          |
+| Platform compounding effects                    | Nadella-YC | High             | Low           |
