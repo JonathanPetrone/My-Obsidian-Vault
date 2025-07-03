@@ -6,7 +6,7 @@ Distillation captures the most important aspects and essence of information. Eac
 ## Context/Example:
 The more economical you can be with material captured in your knowledge system, the less time and effort your future self will need to process it again. 
 
-- **Progressive Summarization** technique: highlight main points of a note, then highlight the main points of those highlights, creating layers of distillation that reveal core insights through iterative refinement.
+- **Progressive Summarization technique**: highlight main points of a note, then highlight the main points of those highlights, creating layers of distillation that reveal core insights through iterative refinement.
 
 ## System Components:
 - **Individual Elements**: Original content with uneven value distribution; highlighting and summarization decisions that reflect developing judgment; distilled essence that captures core insights
@@ -19,7 +19,7 @@ The more economical you can be with material captured in your knowledge system, 
 ## Connections:
 - **Similar**: [[Progressive summarization]], [[Essential thinking]], [[Signal vs noise]], [[Minimum viable information]]
 - **Opposite**: [[Information hoarding]], [[Comprehensive capture]], [[Equal-weight processing]], [[Kitchen sink documentation]]
-- **Builds on**: [[Second Brain]], [[Future-proofing information]], [[CODE model]], [[Value recognition]]
+- **Builds on**: [[Second Brain]], [[Future-proofing information]], [[Value recognition]]
 - **Enables**: [[Efficient knowledge retrieval]], [[Clear communication]], [[Strategic thinking]], [[Wisdom development]]
 
 ## Applications:
