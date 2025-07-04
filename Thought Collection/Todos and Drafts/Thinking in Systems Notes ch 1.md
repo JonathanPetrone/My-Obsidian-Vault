@@ -16,26 +16,44 @@
 - Self-perserving
 - Evolutionary behavior
 
+## Central Systems Insight: Systems Cause Their Own Behavior
+**This is perhaps the most important concept in systems thinking.** External events may trigger behaviors, but the system's response comes from its internal structure. Instead of blaming outside forces, look for how the system's own structure creates the patterns you see.
+
+Examples:
+- Companies don't lose market share because of competitors - they create conditions for their own losses through internal policies
+- Economic booms and busts aren't caused by political leaders - they're inherent in market economy structure
+- Drug addiction isn't just an individual failing - it emerges from larger systemic influences
+
 ## Foundations
 - **Stock**
-	- Stocks are the foundation of any system, they are te element of the system that you can see, feel, count, or measure. A stock doesn't have to be physical.
-	- A stock takes time to change because flows needs time to flow.
-	- Stocks allow inflows and outflows to be decoupled and to be independent.
+	- Stocks are the foundation of any system - the elements you can see, feel, count, or measure at any given time. A stock doesn't have to be physical.
+	- **Stocks are the memory of the system** - they accumulate the history of changing flows over time
+	- **Stocks act as delays and buffers** - they slow down changes and provide stability, preventing systems from reacting too quickly to every fluctuation
+	- A stock takes time to change because flows need time to flow
+	- Stocks allow inflows and outflows to be decoupled and independent
 - **Flow**
-	- From and to stocks there are flows. I.e inflow and outflow.
+	- Flows fill and drain stocks (inflows and outflows)
+	- You can increase a stock by increasing inflow OR decreasing outflow
 
 ![[Skärmavbild 2025-06-29 kl. 11.28.24.png]]
 
-Humans tend to focus more on stocks than on flows, on top of that also there is a bias towards inflows over outflows.
+**Human bias:** We tend to focus more on stocks than flows, and on inflows more than outflows. This can blind us to solutions (like reducing waste instead of just increasing input).
 
-System thinkers see the world as a collection of stocks along with mechanisms for regulating the levels in stocks by manipulating flow. (Skeptical about his, what does this mean exactly, seems overly reductionistic)
+**Systems thinking perspective:** See the world as stocks connected by flows, with mechanisms for regulating stock levels through feedback loops.
 
-Feedback loops can cause stocks to maintain their level within a range or grow and decline. There usually is monitoring done by someone or something, that starts a corrective process. This can mean adjusting inflow or outflow or changing the stock level. 
+**Human bias:** We tend to focus more on stocks than flows, and on inflows more than outflows. This can blind us to solutions (like reducing waste instead of just increasing input).
 
-Feedback loop type examples:
-- Stabilizing loop
-- Reinforcing loop
+**Systems thinking perspective:** See the world as stocks connected by flows, with mechanisms for regulating stock levels through feedback loops.
 
-However not all systems have feedback loops.
+## Feedback Loops
+
+Feedback loops can cause stocks to maintain their level within a range, grow, or decline. Someone or something monitors the stock and starts corrective processes by adjusting inflows, outflows, or stock levels.
+
+**Types:**
+
+- **Balancing loops** - seek goals/equilibrium (like a thermostat)
+- **Reinforcing loops** - amplify change in either direction (like interest on money)
+
+**Key insight:** Not all systems have feedback loops - some are simple chains of cause and effect.
 
 
