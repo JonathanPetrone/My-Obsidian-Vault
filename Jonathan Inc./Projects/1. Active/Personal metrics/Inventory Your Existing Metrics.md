@@ -13,16 +13,16 @@
 
 
 ## Design Solutions for Your Energy Pattern
-
-### 1. **Embrace "Good Enough" Completion*
+### 1. Embrace "Good Enough" Completion*
 - **Books:** Maybe you don't need to finish every book if you've gotten the core insights
 - **Projects:** Define "done" as "learned the key principles" not "polished to perfection"
 - **Learning:** Measure insight extraction, not completion percentage
-### 2. **Batch the Boring Parts**
+### 2. Batch the Boring Parts
 - **Save completion tasks** for when your energy is naturally lower
 - **Front-load exploration** when energy is high
 - **Use completion time** for consolidation rather than new discovery
-### 3. **Energy-Aware Metrics**
+
+### 3. Energy-Aware Metrics
 Instead of measuring completion, measure:
 - **"Insights extracted per learning session"**
 - **"New capabilities gained before energy fade"**

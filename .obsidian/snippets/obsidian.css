@@ -23,7 +23,7 @@
 .cm-header-1 {
     font-size: 2em !important;
     font-weight: 700 !important;
-    color: #d91656 !important; /* Your updated accent color */
+    color: #1e40af !important; /* Strong blue */
     padding-bottom: 8px !important;
     margin-top: 2em !important;
     margin-bottom: 1em !important;
@@ -35,8 +35,8 @@
 .cm-header-2 {
     font-size: 1.6em !important;
     font-weight: 600 !important;
-    color: #5b9bd5 !important; /* Softer, lighter blue */
-    border-left: 4px solid #5b9bd5 !important;
+    color: #2563eb !important; /* Medium blue */
+    border-left: 4px solid #2563eb !important;
     padding-left: 12px !important;
     margin-top: 1.8em !important;
     margin-bottom: 0.8em !important;
@@ -46,56 +46,61 @@
 /* H3 - Subsection Headers */
 .markdown-rendered h3,
 .cm-header-3 {
-    font-size: 1.35em !important;
+    font-size: 1.2em !important;
     font-weight: 600 !important;
-    color: #047857 !important; /* Teal green - harmonious with your palette */
+    color: #3b82f6 !important; /* Lighter blue */
     margin-top: 1.5em !important;
-    margin-bottom: 0.6em !important;
+    margin-bottom: 1em !important;
     position: relative !important;
+    text-transform: uppercase !important;
+    letter-spacing: 1px !important;
+    background: rgba(59, 130, 246, 0.1) !important;
+    padding: 4px 8px !important;
+    border-radius: 4px !important;
+    display: inline-block !important;
+    width: auto !important;
 }
 
+/* Remove the arrow symbol */
 .markdown-rendered h3::before,
 .cm-header-3::before {
-    content: "▶ " !important;
-    color: #047857 !important;
-    font-size: 0.8em !important;
+    content: "" !important;
 }
 
 /* H4 - Sub-subsection Headers */
 .markdown-rendered h4,
 .cm-header-4 {
-    font-size: 1.2em !important;
+    font-size: 1.1em !important;
     font-weight: 500 !important;
-    color: #e85d00 !important; /* Warmer orange - lighter version of your accent */
+    color: #60a5fa !important; /* Even lighter blue */
     margin-top: 1.2em !important;
     margin-bottom: 0.5em !important;
-    text-decoration: underline !important;
-    text-decoration-color: #e85d00 !important;
-    text-underline-offset: 4px !important;
+    text-transform: uppercase !important;
+    letter-spacing: 1px !important;
 }
 
 /* H5 - Minor Headers */
 .markdown-rendered h5,
 .cm-header-5 {
-    font-size: 1.1em !important;
+    font-size: 1em !important;
     font-weight: 500 !important;
-    color: #a21c5a !important; /* Darker version of your accent */
+    color: #93c5fd !important; /* Very light blue */
     margin-top: 1em !important;
     margin-bottom: 0.4em !important;
-    font-style: italic !important;
+    text-transform: uppercase !important;
+    letter-spacing: 1px !important;
 }
 
 /* H6 - Smallest Headers */
 .markdown-rendered h6,
 .cm-header-6 {
-    font-size: 1em !important;
+    font-size: 0.9em !important;
     font-weight: 500 !important;
-    color: #6b7280 !important; /* Neutral gray */
+    color: #bfdbfe !important; /* Lightest blue */
     margin-top: 0.8em !important;
     margin-bottom: 0.3em !important;
     text-transform: uppercase !important;
     letter-spacing: 1px !important;
-    font-size: 0.9em !important;
 }
 
 /* === GENERAL STYLING === */
@@ -132,39 +137,30 @@
 .markdown-rendered ul li {
     list-style: none !important;
     position: relative !important;
-    padding-left: 20px !important;
+    padding-left: 0px !important;
 }
 
 .markdown-rendered ul li::before {
-    content: "●" !important;
-    color: #d91656 !important;
-    font-weight: bold !important;
-    position: absolute !important;
-    left: 0 !important;
-    font-size: 1em !important;
+    content: "" !important;
 }
 
 /* Nested bullet levels with variations - READING MODE */
 .markdown-rendered ul ul li::before {
-    content: "○" !important;
-    color: #d91656 !important;
-    opacity: 0.8 !important;
+    content: "" !important;
 }
 
 .markdown-rendered ul ul ul li::before {
-    content: "◦" !important;
-    color: #d91656 !important;
-    opacity: 0.6 !important;
+    content: "" !important;
 }
 
 /* EDITING MODE bullet styling */
 .list-bullet {
-    color: #d91656 !important;
+    color: transparent !important;
     font-weight: bold !important;
 }
 
 .cm-formatting-list-ul {
-    color: #d91656 !important;
+    color: transparent !important;
     font-weight: bold !important;
 }
 
@@ -230,12 +226,43 @@
     font-size: 0.85em !important;
 }
 
-/* Enhanced bold text styling */
+/* Link styling - cyan color */
+.markdown-rendered a,
+.cm-link,
+.internal-link,
+.external-link,
+a.internal-link,
+a.external-link,
+.markdown-rendered .internal-link,
+.markdown-rendered .external-link,
+.cm-hmd-internal-link,
+.cm-link-text,
+.cm-url {
+    color: #06b6d4 !important; /* Cyan */
+    text-decoration: none !important;
+}
+
+.markdown-rendered a:hover,
+.cm-link:hover,
+.internal-link:hover,
+.external-link:hover,
+a.internal-link:hover,
+a.external-link:hover,
+.markdown-rendered .internal-link:hover,
+.markdown-rendered .external-link:hover,
+.cm-hmd-internal-link:hover,
+.cm-link-text:hover,
+.cm-url:hover {
+    color: #0891b2 !important; /* Darker cyan on hover */
+    text-decoration: underline !important;
+}
+
+/* Enhanced bold text styling - CHANGED TO PURPLE */
 .markdown-rendered strong,
 .cm-strong {
-    color: #d91656 !important; /* Your updated accent color for bold text */
+    color: #8b5cf6 !important; /* Obsidian purple */
     font-weight: 700 !important;
-    text-shadow: 0 0 1px rgba(217, 22, 86, 0.3) !important; /* Updated glow */
+    text-shadow: 0 0 1px rgba(139, 92, 246, 0.3) !important; /* Purple glow */
 }
 
 /* Underline styling */

@@ -76,7 +76,7 @@
 
 ## Running Insight Database
 
-### Emergent Themes
+### Emergent ThemE
 
 | Theme                                           | Source     | Confidence Level | Actionability |
 | ----------------------------------------------- | ---------- | ---------------- | ------------- |

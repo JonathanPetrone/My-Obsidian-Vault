@@ -1,6 +1,6 @@
 #todo 
 
-## **ch1** Tacit knowledge
+## ch1 Tacit knowledge
 
 Thinking is not only about having a special goal or purpose but it is connected to the things on which it based on. Thinking has a from-to structure, meaning that it involves a connection between where it starts and where it is going.
 
