@@ -4,26 +4,26 @@
 /* === HEADING HIERARCHY === */
 
 .inline-title {
-    font-size: 2.2em !important;
+    font-size: 2em !important;
     font-weight: 600 !important;
-    color: #d91656 !important;
+    color: #bfdbfe !important;
     text-align: center !important;
-    margin-bottom: 1.5em !important;
+    margin-bottom: 1em !important;
     padding: 0.3em 0 0.8em 0 !important;
-    border-bottom: 2px solid rgba(217, 22, 86, 0.2) !important;
-    background: linear-gradient(135deg, 
-        rgba(217, 22, 86, 0.02) 0%, 
+    border-bottom: 4px solid rgba(205, 185, 201, 0.2) !important;
+    background: linear-gradient(175deg, 
+        rgba(49, 154, 203, 0.461) 0%, 
         transparent 50%, 
-        rgba(217, 22, 86, 0.02) 100%) !important;
-    border-radius: 4px !important;
+        rgba(13, 2, 6, 0.377) 100%) !important;
+    border-radius: 8px !important;
 }
 
 /* H1 - Main Titles */
 .markdown-rendered h1,
 .cm-header-1 {
-    font-size: 2em !important;
-    font-weight: 700 !important;
-    color: #1e40af !important; /* Strong blue */
+    font-size: 2.5em !important;
+    font-weight: 800 !important;
+    color: #ffffff !important; /* Strong blue */
     padding-bottom: 8px !important;
     margin-top: 2em !important;
     margin-bottom: 1em !important;
@@ -35,8 +35,9 @@
 .cm-header-2 {
     font-size: 1.6em !important;
     font-weight: 600 !important;
-    color: #2563eb !important; /* Medium blue */
-    border-left: 4px solid #2563eb !important;
+    color: #bfdbfe  !important; /* Medium blue */
+    border-left: 4px solid #8b5cf6 !important;
+    border-radius: 4px !important;
     padding-left: 12px !important;
     margin-top: 1.8em !important;
     margin-bottom: 0.8em !important;
@@ -48,13 +49,13 @@
 .cm-header-3 {
     font-size: 1.2em !important;
     font-weight: 600 !important;
-    color: #3b82f6 !important; /* Lighter blue */
-    margin-top: 1.5em !important;
-    margin-bottom: 1em !important;
+    color: #bfdbfe !important;
+    margin-top: 0.6em !important;
+    margin-bottom: 0.6em !important;
     position: relative !important;
-    text-transform: uppercase !important;
+    border-left: 4px solid #8b5cf6 !important;
     letter-spacing: 1px !important;
-    background: rgba(59, 130, 246, 0.1) !important;
+    background: rgba(90, 129, 192, 0.1) !important;
     padding: 4px 8px !important;
     border-radius: 4px !important;
     display: inline-block !important;
@@ -72,7 +73,7 @@
 .cm-header-4 {
     font-size: 1.1em !important;
     font-weight: 500 !important;
-    color: #60a5fa !important; /* Even lighter blue */
+    color: #bfdbfe  !important; /* Even lighter blue */
     margin-top: 1.2em !important;
     margin-bottom: 0.5em !important;
     text-transform: uppercase !important;
@@ -84,7 +85,7 @@
 .cm-header-5 {
     font-size: 1em !important;
     font-weight: 500 !important;
-    color: #93c5fd !important; /* Very light blue */
+    color: #7ea2cd !important; /* Very light blue */
     margin-top: 1em !important;
     margin-bottom: 0.4em !important;
     text-transform: uppercase !important;
@@ -96,7 +97,7 @@
 .cm-header-6 {
     font-size: 0.9em !important;
     font-weight: 500 !important;
-    color: #bfdbfe !important; /* Lightest blue */
+    color: #718cad !important; /* Lightest blue */
     margin-top: 0.8em !important;
     margin-bottom: 0.3em !important;
     text-transform: uppercase !important;
@@ -267,8 +268,8 @@ a.external-link:hover,
 
 /* Underline styling */
 .cm-underline {
-    color: #d91656 !important;
-    text-decoration-color: #d91656 !important;
+    color: #8b5cf6 !important;
+    text-decoration-color: #8b5cf6 !important;
 }
 
 /* File names styling */
@@ -281,12 +282,12 @@ a.external-link:hover,
 
 .nav-file-title:hover {
     background-color: var(--background-modifier-hover) !important;
-    color: #d91656 !important;
+    color: #bfdbfe !important;
 }
 
 /* Active/selected file */
 .nav-file-title.is-active {
-    background-color: #d91656 !important;
+    background-color: #8b5cf6 !important;
     color: #ffffff !important;
     font-weight: 500 !important;
     border-radius: 4px !important;
@@ -306,26 +307,26 @@ a.external-link:hover,
 }
 
 .workspace-tab-header:hover {
-    background-color: rgba(217, 22, 86, 0.1) !important;
-    color: #d91656 !important;
+    background-color: rgba(22, 142, 217, 0.1) !important;
+    color: #8b5cf6  !important;
 }
 
 /* Active tab */
 .workspace-tab-header.is-active {
     background-color: #242424 !important;
-    color: inherit !important;
+    color:#ffffff !important;
     font-weight: 500 !important;
 }
 
 /* Tab close button */
 .workspace-tab-header .workspace-tab-header-inner-close-button {
-    color: #d91656 !important;
+    color: #8b5cf6  !important;
     opacity: 0.7 !important;
 }
 
 .workspace-tab-header .workspace-tab-header-inner-close-button:hover {
     opacity: 1 !important;
-    color: #d91656 !important;
-    background-color: rgba(255, 255, 255, 0.2) !important;
+    color: #8b5cf6  !important;
+    background-color: rgba(114, 184, 201, 0.2) !important;
     border-radius: 3px !important;
 }

@@ -24,12 +24,11 @@
 
 ### 3. Energy-Aware Metrics
 Instead of measuring completion, measure:
-- **"Insights extracted per learning session"**
-- **"New capabilities gained before energy fade"**
-- **"Knowledge synthesis across multiple incomplete sources"**
+- "Insights extracted per learning session"
+- "New capabilities gained before energy fade"
+- "Knowledge synthesis across multiple incomplete sources"
 
 ## The Strategic Advantage
-
 **Your exploration energy is actually a superpower** in the AI era - you can rapidly scan and extract insights from many sources. Instead of fighting your completion fatigue, optimize for:
 
 - **Breadth over depth** in initial learning
@@ -39,7 +38,6 @@ Instead of measuring completion, measure:
 **This might explain why "forward deployment" consulting appeals to you** - it's about bringing fresh insights to solve problems, not maintaining long-term systems.
 
 **Questions for reflection:**
-
 1. What if your "completion problem" is actually feature detection - you stop when you've extracted the value?
 2. Could you design projects with multiple "good enough" stopping points rather than one big completion?
 3. What if you measured learning velocity rather than learning completion?
