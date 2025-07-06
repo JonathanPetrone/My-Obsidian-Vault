@@ -1,0 +1,1 @@
+**Framework: The Contradiction Finder** "What does this person believe that contradicts conventional wisdom? List each contrarian view with their evidence."

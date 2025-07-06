@@ -199,6 +199,13 @@
     margin: 2em 0 !important;
 }
 
+/* Code blocks */
+.markdown-source-view.mod-cm6 .cm-editor .cm-line.HyperMD-codeblock {
+    background-color: #bfdbfe;
+    color: #06070a;
+}
+
+
 /* === EDITOR MODE ENHANCEMENTS === */
 
 /* Make editor mode headers stand out too */

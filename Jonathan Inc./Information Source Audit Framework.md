@@ -1,4 +1,3 @@
-
 ### Step 1: Information Inventory (Current State Mapping)
 
 **Categorize by Input Type:**
