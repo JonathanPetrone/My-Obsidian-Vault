@@ -12,10 +12,7 @@
 
 **Success:** _[How will you know you're done?]_
 
-- [ ]
-- [ ]
-
-**Application:** _[How does this fit your bigger picture?]_
+**Future Benefits**:_[How does this fit your bigger picture?]_
 
 ---
 

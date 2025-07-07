@@ -1,4 +1,5 @@
-# Mission: Untitled
+
+# Mission: Learning Mission - Personal Metrics
 
 **Created:** 2025-07-05 | **Status:** 🎯 Active
 
@@ -6,28 +7,23 @@
 
 ## 🎯 The Mission
 
-**Goal:** 
-To figure out my metrics and see if any of these work against good principles.
+**Goal:** _[I want to change how I feel in some areas in my life about myself to encourage growth]_
 
-**Quest:** 
-To revise my own metrics for success.
+**Quest:** _[Figure out and change some of my internal metrics for how I judge myself]_
 
-**Success:** 
-- When I have drafted my new metrics or revised old ones.
-- When I have applied at least 2-3 strategies to implement new metrics successfully.
+**Success:** _[When I have implemented processes for some new healthy criteria for self-judging]_
 
-**Application:**
-This will provide me with more energy in my life hopefully and feeling of progress.
+**Future Benefits**: _[This will hopefully make me more productive and make me feel better about myself]_
 
 ---
 
 ## 🛠️ Making It Happen
 
 **Completion Strategy:** 
-When I have designed the strategies to meet my goals I will check them off.
+- _[I will outline all of my existing metrics]_
+- _[Then I will work iteratively to figure out how I will change them to a healthier version]_
 
-**End Challenge:**
-Find a way to build something that tracks progress for me in these things.
+**End Challenge:** _[I will write a short guide on what I did]_
 
 ---
 

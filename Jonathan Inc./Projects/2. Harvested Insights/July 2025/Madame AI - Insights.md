@@ -1,10 +1,12 @@
-# Project: [MadameAI]
-**Abandoned:** [4th July 2025]
+## Project: MadameAI
+
+**Archived:** [4th July 2025]
 **Key insight learned:** [AI API usage,  endpoints handling server, AI collaboration in coding, Architectural Design of Applications]
 **Technique/tool discovered:** [HTMX, html/template package GO, Iterative development with Claude, fly.io deployment, Supabase db integration]  
-**Would use again:** [Yes]
-**Connected to:** [#ai_development, #Go, #continuous-improvement, #]
+**Would use again/was helpful:** [Yes]
+**Connected to:** [#ai_development, #Go, #continuous-improvement]
 
+### Insights
 - Learned that you should have an architectural direction when building, i.e restrictions. Don't let AI generate code that breaks your principles.
 - Learned more about simple agents and API calls to OpenAI API. It's a hard and iterative process to get AI output right. Due to the unpredictability of output, AI is often the more reliable cleaner of its own output, rather than building strict cleaning rules yourself.
 - You should iteratively always ask about generated code and make an effort to learn what all the parts do.

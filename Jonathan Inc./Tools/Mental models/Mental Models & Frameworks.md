@@ -5,6 +5,18 @@ Search other fields for similar problems; nature tends to reuse successful solut
  
 Source:  Introduction to General Systems Thinking ch. 2  (G. Weinberg)
 
+### NICE Goals over SMART Goals
+*When setting objectives that you struggle to maintain*
+
+Replace outcome-focused SMART goals with process-focused NICE goals, this will allow me to have good energy throughout and make me more likely to commit.
+
+NICE-goals are:
+- Near-term (daily or weekly)
+- Input-based (action oriented rather than based on results)
+- Controllable (within your direct influence) 
+- Energizing (makes you feel good)
+
+Source:  Feel-Good Productivity ch. 4 (A. Abdaal)
 ### The Constraint-Freedom Paradox Framework
 _When feeling overwhelmed by options, seeking expertise, or noticing scattered/inefficient approaches_
 

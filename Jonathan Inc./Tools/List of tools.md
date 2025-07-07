@@ -1,5 +1,5 @@
 ##  CLI Tool - Get transcripts from youtube
-[[Jonathan Inc./Projects/1. Active/Transcription project/Commands|Commands]] for yt-dlp
+[[Jonathan Inc./Projects/3. Archived/July 2025/Transcription project/Commands|Commands]] for yt-dlp
 [[TranscriptProcessor]] Commands for this script
 
 ##  CLI Tool - Document converter
