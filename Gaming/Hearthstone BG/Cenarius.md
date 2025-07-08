@@ -1,1 +1,0 @@
-Don't use turn 1 hero power vs Beast + Pirate lobby

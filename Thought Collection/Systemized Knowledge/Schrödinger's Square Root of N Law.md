@@ -1,5 +1,4 @@
 ## Context/Example:
-
 The relative error in statistical predictions decreases as the square root of the number of particles/events involved. Individual behavior is unpredictable, but large groups become highly predictable with errors proportional to √N rather than N. 
 
 ## System Components:
@@ -25,7 +24,6 @@ Weinberg's "An Introduction to General Systems Thinking" - where he quotes Schr�
 
 
 ## Questions/Next Steps:
-
 - [ ] What determines the minimum N needed for reliable predictions in different domains
 - [ ] How does √N scaling break down at extreme scales or in highly correlated systems?
 

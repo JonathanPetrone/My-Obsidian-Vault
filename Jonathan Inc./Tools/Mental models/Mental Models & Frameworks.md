@@ -5,6 +5,38 @@ Search other fields for similar problems; nature tends to reuse successful solut
  
 Source:  Introduction to General Systems Thinking ch. 2  (G. Weinberg)
 
+### The Growth Partnership Filter 
+*When evaluating relationships (romantic, friendship, work)*
+
+Define relationships as agreements between people to grow together. Both parties commit to personal development while supporting each other's growth. Explicitly discuss growth intentions. Look for people who hold you accountable when you mess up and teach you new things. 
+
+Red flag: One person doing all the growing. 
+Green flag: Mutual challenge and support. 
+
+Source: Modern Wisdom (S. Sinek) 
+
+### **The Serendipity Maximization Meta-Framework**
+_When you don't know what to work on or need breakthrough insights_
+
+Deliberately increase your surface area for unexpected discoveries by maximizing exposure to diverse inputs, people, and experiences. This amplifies the effectiveness of other frameworks.
+
+Ask:
+- Am I optimizing for interestingness rather than certainty?
+- Am I exposing myself to ideas and people outside my current domain?
+- When in doubt, am I choosing the path that maximizes learning and connections?
+
+Source: How to do Great Work (P. Graham)
+### Systems Leverage Levels
+*When wanting to make changes to a system*
+
+From highest to lowest leverage:
+- Paradigm - Goals, Paradigms
+- Rules / Power - Self-Organization, Rules
+- Information and Control - Information Flows and Feedback Loops
+- Physical structure - Delays and Stock-and-Flow Structures
+- Parameters - Number and Buffers
+
+Source: Thinking in Systems (D. Meadows)
 ### NICE Goals over SMART Goals
 *When setting objectives that you struggle to maintain*
 
@@ -28,7 +60,37 @@ The more constraints you internalize about your optimal operating conditions, th
 3. **Master within bounds** until constraints become unconscious enablers
 4. **Evolve constraints** when current frameworks limit growth, allowing more sophisticated boundaries to emerge
 
-Source: _Design Your Work_ - Meta-Skills, Macro-Laws, and the Power of Constraints (T. Forte)
+Source: Design Your Work - Meta-Skills, Macro-Laws, and the Power of Constraints (T. Forte)
+
+### Meet Emotion with Emotion, Facts with Facts 
+*When someone is in an emotional state*
+
+Recognize whether someone (including yourself) is in an emotional or rational state, then respond appropriately. When emotions are high, lead with empathy and understanding. Save rational analysis for when emotions have subsided. 
+
+For emotional states use phrases like "That really hurts" or "This is really hard" instead of trying to solve or rationalize. Wait 2-3 days, then ask permission: "Can I offer some thoughts?" 
+
+Source: Modern Wisdom (S. Sinek) 
+
+### The Power of Human Interpretation
+*When building systems or solving problems*
+
+We as humans know more than we can say (see: [[Polanyi's paradox]]), therefore it is highly unlikely we can program this into computers. [[Tacit Knowledge]] represents the final frontier on which humans outperform machines still to this day. Jobs that require the ability to convey particular interpretations of information are the least likely to be automated by machines in the future.
+
+Source: Building A Second Brain (T. Forte),  The Tacit Dimension ch. 1 & 2 (M. Polanyi).
+
+### Structural Change vs. Speed Enhancement Framework
+When evaluating AI implementation
+
+Instead of asking "How can AI help with this task?", ask "How does AI change what the task fundamentally is?" True transformation occurs when both the work artifact AND the workflow change, not just the speed of existing processes.
+
+Nadella's example:
+When we went from fax to email/Excel this completely changed the work artifact and process, not just the speed.
+
+We need to ask: 
+- Are we changing job scopes/roles or just adding AI tools to existing roles?
+- Does this shift to where humans spend cognitive cycles (more prefrontal cortex work, less mundane information gathering)?
+
+**Source:** Satya Nadella's Y Combinator talk 
 
 ### Signal vs. Noise Optimization
 *When using AI tools or processing information*
@@ -75,28 +137,6 @@ Source:  Introduction to General Systems Thinking ch. 2  (G. Weinberg)
 Structure your aims hierarchically - each immediate goal should serve a higher purpose, which serves an even higher purpose, continuing upward. Ask "why" repeatedly: Why this job? → To get degree → To serve family → To build lasting value → To serve the highest good. This prevents nihilism and provides meaning to micro-actions.
 
 Source:  https://www.youtube.com/watch?v=IUKLmspEWEc (JBP)
-
-### Parasitic Pattern Recognition
-_When evaluating ideas, institutions, or behaviors_ 
-
-Ask: "Does this extract value without contributing to the host's survival/flourishing?" Apply to ideologies, institutional changes, or personal relationships that drain resources without reciprocal benefit.
-
-Source: https://www.youtube.com/watch?v=Rop6FnLD01o (Gad Saad)
-
-### Progressive Contextualization
-_When building understanding or creating solutions_ 
-
-Start with broad AI-generated responses, then progressively add specific context and constraints to refine outputs toward practical application
-
-Source: Vicky Zhao AI Playlist
-
-### Inverted U Principle
-_When evaluating any trait, behavior, or intervention_ 
-
-Recognize that "too little of something is not good, too much of something is not good" and seek the optimal middle point.
-
-Source: https://www.youtube.com/watch?v=Rop6FnLD01o (Gad Saad)
-
 
 
 ---

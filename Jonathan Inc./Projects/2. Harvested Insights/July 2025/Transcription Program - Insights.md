@@ -1,4 +1,4 @@
-## Project: MadameAI
+## Project: Transcription Program
 
 **Archived:** [7th July 2025]
 **Key insight learned:** [improved prompt engineering]

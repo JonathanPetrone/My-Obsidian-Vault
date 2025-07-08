@@ -17,11 +17,9 @@ The process fits the CODE model:
 - **Environment/Field**: The information landscape available for exploration, the knowledge management systems that enable capture and retrieval, the future contexts where captured information will be needed
 
 ## Reference:
-
 - Building A Second Brain (ch. 3, 4 & 5) - T. Forte
 
 ## Connections:
-
 - **Similar**: [[Note-taking (Zettelkasten method)]], [[Buccaneer-Scholar Self-Education Method]], [[Divergent thinking]], [[Serendipitous discovery]]
 - **Opposite**: [[Linear research]], [[Predetermined structure]], [[Systematic categorization]], [[Goal-directed search]]
 - **Builds on**: [[Second Brain]], [[Future-proofing information]], [[CODE model]], [[Curiosity cultivation]]

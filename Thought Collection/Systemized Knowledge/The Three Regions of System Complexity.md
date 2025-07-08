@@ -8,7 +8,6 @@ Most interesting real-world systems fall into the problematic middle region.
 
 
 ## Context/Example:
-
 ### Region I: Organized Simplicity (Mechanical Systems) -  Few parts, clear interactions
 
 - **Examples:** Clock, pendulum, planetary motion, simple machines

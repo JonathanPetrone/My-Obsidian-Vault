@@ -1,9 +1,7 @@
 ## Core Concept/Principle:
-
 If we double the number of equations we need a computer 4 times as powerful. (2²)
 
 ## Context/Example:
-
 Example from the book, of a system containing two objects:
 -   First, we need calculations for the objects’ isolated behavior x2.
 -   Second, the interaction of the objects
@@ -15,7 +13,6 @@ Example from the book, of a system containing two objects:
 - **Environment/Field**: The baseline computational "space" or context that exists even when neither object is present - the foundational system state that enables the objects to exist and interact
 
 ## Reference:
-
 An Introduction to General Systems Thinking (ch. 1 p. 6-7) - G. Weinberg
 
 ## Connections:

@@ -1,23 +1,18 @@
 ## Core Concept/Principle:
-
 Information processing based on incoming data from the environment to form perception. Individual base elements are first specified in detail, then linked together to form larger subsystems, which connect across multiple levels until a complete top-level system emerges. This approach pieces together systems to create more complex systems, making original systems into subsystems of the emergent whole.
 
 ## Context/Example:
-
 Perceiving a tree starts by noticing individual leaves, branches, and bark texture (smaller subsystems), eventually forming perception of the whole tree (larger system). Resembles a "seed" model where beginnings are small but grow in complexity and completeness. Applied across multiple domains: **Cognitive Psychology** (data-driven sensory processing), **Information Processing** (analyzing raw data before interpretation), **Problem-Solving** (analyzing individual elements before forming whole solutions), **AI/Computer Science** (data-driven models building understanding from raw input).
 
 ## System Components:
-
 - **Individual Elements**: Base components specified in great detail that serve as foundational building blocks; raw sensory data, individual problems, or system components
 - **Interactions**: The linking process that connects elements into subsystems; the emergent properties that arise when smaller systems combine into larger wholes; multiple levels of connection and integration
 - **Environment/Field**: The context that provides incoming data and enables perception formation; the framework that supports progressive complexity growth from simple beginnings
 
 ## Reference:
-
 - https://en.wikipedia.org/wiki/Top-down_and_bottom-up_design
 
 ## Connections:
-
 - **Similar**: [[Emergent systems]], [[Data-driven analysis]], [[Inductive reasoning]], [[Component-based design]]
 - **Opposite**: [[Top-Down Approach and Thinking]], [[Deductive reasoning]], [[Framework-first design]]
 - **Builds on**: [[Systems theory]], [[Empirical observation]], [[Pattern recognition]]
