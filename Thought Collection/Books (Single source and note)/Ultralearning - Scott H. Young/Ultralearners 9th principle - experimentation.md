@@ -2,7 +2,7 @@ By trying out new variations when you learn you quickly get feedback on what wor
 
 Van Gogh's could be said to have followed the path of a scientist: hypothesis, experiment, results, repeat.
 
-One interesting situation that often is true is that complete novices tend to have quite similar knowledge ther closer you get to expert level there is a bigger chance of differentiation in some ways. This makes improving expert level skills you have acquired an personalized and idiosyncratic adventure.
+One interesting situation that often is true is that complete novices tend to have quite similar knowledge the closer you get to expert level there is a bigger chance of differentiation in some ways. This makes improving expert level skills you have acquired an personalized and idiosyncratic adventure.
 
 Our abilities tend to stagnate after you have mastered the basics. Getting better, however increasingly becomes an act of unlearning; not only must you learn to solve problems you couldn't before, you must unlearn stale and ineffective approaches for solving those problem.
 
