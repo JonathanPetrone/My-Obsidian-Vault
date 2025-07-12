@@ -2,7 +2,7 @@ A drill is a repeated exercise of an isolated part/component of what is being le
 
 Scott H. Young has a method for working with drills which he calls the "Direct-then-Drill approach":
 1. **First practice the skill directly** - This means figuring out the where and how, and then match the context.
-2. **Isolate components** - We want to identify and isolate components that are rate-determining steps in our performance or subskills we might find difficult to improce because there are too many other things going on for you to focus on them.
+2. **Isolate components** - We want to identify and isolate components that are rate-determining steps in our performance or subskills we might find difficult to improve because there are too many other things going on for you to focus on them.
 3. **Integration** - We then want to go back to the direct practice (the whole experience) and integrate what we practiced and learned.
 
 As a rule-of-thumb the earlier we are in the learning process the faster the cycle of the "Direct-then-Drill approach" should be. Later on longer detours into drills is more acceptable. The closer you are to mastery, in general,  the more viable focusing on drills will be.

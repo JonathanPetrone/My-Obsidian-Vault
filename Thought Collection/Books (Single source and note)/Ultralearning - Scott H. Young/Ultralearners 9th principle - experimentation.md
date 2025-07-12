@@ -13,7 +13,7 @@ Our abilities tend to stagnate after you have mastered the basics. Getting bette
 3. **Experimenting with style**
 	- After you've matured in your learning a bit, the difficulty often switches from which resources to learn from techniques you'd like to master to the style you'd like to cultivate. For this you also need to gain knowledge of all styles that exists. One thing you can do is study different masters and dissect their styles to see what you can emulate and integrate.
 
-In each level of experimentation, the choices broaden and the possible options to explore go up exponentionally. Theerefore you have to decide how muc refinement you want to spend on trying out stuff vs. mastering one approach.
+In each level of experimentation, the choices broaden and the possible options to explore go up exponentionally. Theerefore you have to decide how much refinement you want to spend on trying out stuff vs. mastering one approach.
 
 ## Tactics to help you integrate experimentation
 1. **Copy then create**

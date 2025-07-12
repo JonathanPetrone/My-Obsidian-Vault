@@ -32,6 +32,7 @@ Ask:
 - When in doubt, am I choosing the path that maximizes learning and connections?
 
 Source: How to do Great Work (P. Graham)
+
 ### Systems Leverage Levels
 *When wanting to make changes to a system*
 
@@ -43,6 +44,7 @@ From highest to lowest leverage:
 - Parameters - Number and Buffers
 
 Source: Thinking in Systems (D. Meadows)
+
 ### NICE Goals over SMART Goals
 *When setting objectives that you struggle to maintain*
 
@@ -55,6 +57,7 @@ NICE-goals are:
 - Energizing (makes you feel good)
 
 Source:  Feel-Good Productivity ch. 4 (A. Abdaal)
+
 ### The Constraint-Freedom Paradox Framework
 _When feeling overwhelmed by options, seeking expertise, or noticing scattered/inefficient approaches_
 
@@ -67,6 +70,15 @@ The more constraints you internalize about your optimal operating conditions, th
 4. **Evolve constraints** when current frameworks limit growth, allowing more sophisticated boundaries to emerge
 
 Source: Design Your Work - Meta-Skills, Macro-Laws, and the Power of Constraints (T. Forte)
+
+### Maximum Intensity and Complete Recovery
+_When structuring practice or performance_
+
+Alternate between periods of maximum intensity and complete recovery rather than maintaining constant moderate effort. 
+
+Work at 100% intensity for specific intervals, then recover completely before the next interval. Gradually increase intensity duration and decrease recovery time. Apply to both physical and mental training. 
+
+Source: The Art of Learning (J. Waitzkin) 
 
 ### Meet Emotion with Emotion, Facts with Facts 
 *When someone is in an emotional state*
@@ -96,7 +108,7 @@ We need to ask:
 - Are we changing job scopes/roles or just adding AI tools to existing roles?
 - Does this shift to where humans spend cognitive cycles (more prefrontal cortex work, less mundane information gathering)?
 
-**Source:** Satya Nadella's Y Combinator talk 
+Source: Satya Nadella's Y Combinator talk 
 
 ### Signal vs. Noise Optimization
 *When using AI tools or processing information*
@@ -147,18 +159,3 @@ Source:  https://www.youtube.com/watch?v=IUKLmspEWEc (JBP)
 
 ---
 
-TODO/Evaluate
-2nd book forte
-**[Throughput Optimization]** - When accelerating learning - Maximize invalidated assumptions per unit time, not just knowledge acquisition
-
-## **Investment in Loss** - _When deciding whether to engage with difficult challenges_
-
-**Application:** Deliberately enter situations where you'll likely fail initially in order to learn faster. Accept short-term losses for long-term gains. **Decision Criteria:** Ask: "Will avoiding this challenge prevent me from learning something crucial?" "Am I protecting my ego at the expense of growth?" **Implementation Details:** Green flag: Training partners who consistently beat you. Red flag: Always seeking opponents you know you can defeat. Systematically note what causes each loss and work to eliminate those patterns. **Source Context:** Waitzkin's training with Evan, who consistently threw him against walls until he learned to neutralize superior force.
-
-## **Stress and Recovery Intervals** - _When structuring practice or performance_
-
-**Application:** Alternate between periods of maximum intensity and complete recovery rather than maintaining constant moderate effort. **Decision Criteria:** Ask: "Am I trying to maintain focus too long without breaks?" "Can I go completely all-out knowing I have recovery time?" **Implementation Details:** Work at 100% intensity for specific intervals, then recover completely before the next interval. Gradually increase intensity duration and decrease recovery time. Apply to both physical and mental training. **Source Context:** Waitzkin's discovery at LGE that his chess performance improved dramatically when he learned to fully release between intensive thinking periods.
-
-## **Creating Your Own Earthquake** - _When needing to achieve peak performance states_
-
-**Application:** Identify what external conditions trigger your best performance, then learn to recreate those internal states without external dependency. **Decision Criteria:** Ask: "When do I perform at my absolute best?" "What internal state do these conditions create?" "How can I trigger this state without external conditions?" **Implementation Details:** Map your peak performance experiences. Identify the internal feeling/state. Create a routine that produces this state. Gradually condense the routine until minimal triggers produce maximum effect. **Source Context:** Waitzkin's realization that he performed best during chaotic situations (like earthquakes) and learned to create that heightened state at will.
