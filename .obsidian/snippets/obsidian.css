@@ -176,19 +176,28 @@
 
 /* Code blocks with subtle styling */
 .markdown-rendered code {
-    background-color: var(--background-secondary) !important;
+    background-color: #1a1a2e !important;
+    color: #e5e5e5 !important;
     padding: 2px 6px !important;
     border-radius: 4px !important;
     font-family: 'SF Mono', Monaco, 'Roboto Mono', monospace !important;
     font-size: 0.9em !important;
+    border: 1px solid #8b5cf6 !important;
 }
 
 .markdown-rendered pre {
-    background-color: var(--background-secondary) !important;
+    background-color: #1a1a2e !important;
+    color: #e5e5e5 !important;
     padding: 16px !important;
     border-radius: 8px !important;
-    border: 1px solid var(--background-modifier-border) !important;
+    border: 1px solid #8b5cf6 !important;
     margin: 1em 0 !important;
+}
+
+.markdown-rendered pre code {
+    background-color: transparent !important;
+    border: none !important;
+    padding: 0 !important;
 }
 
 /* Clean horizontal rules */
@@ -201,8 +210,38 @@
 
 /* Code blocks */
 .markdown-source-view.mod-cm6 .cm-editor .cm-line.HyperMD-codeblock {
-    background-color: #bfdbfe;
-    color: #06070a;
+    background-color: #1a1a2e;
+    color: #e5e5e5;
+}
+
+/* Code syntax highlighting */
+.cm-line.HyperMD-codeblock .cm-keyword {
+    color: #8b5cf6 !important; /* Purple for keywords */
+}
+
+.cm-line.HyperMD-codeblock .cm-string {
+    color: #06b6d4 !important; /* Cyan for strings */
+}
+
+.cm-line.HyperMD-codeblock .cm-number {
+    color: #f59e0b !important; /* Amber for numbers */
+}
+
+.cm-line.HyperMD-codeblock .cm-comment {
+    color: #6b7280 !important; /* Gray for comments */
+    font-style: italic !important;
+}
+
+.cm-line.HyperMD-codeblock .cm-variable {
+    color: #bfdbfe !important; /* Light blue for variables */
+}
+
+.cm-line.HyperMD-codeblock .cm-type {
+    color: #10b981 !important; /* Green for types */
+}
+
+.cm-line.HyperMD-codeblock .cm-function {
+    color: #f472b6 !important; /* Pink for functions */
 }
 
 
@@ -245,9 +284,14 @@ a.external-link,
 .markdown-rendered .external-link,
 .cm-hmd-internal-link,
 .cm-link-text,
-.cm-url {
+.cm-url,
+.cm-underline,
+.cm-line .cm-underline,
+.cm-line .cm-link,
+.cm-line .cm-hmd-internal-link,
+.cm-line .cm-url {
     color: #06b6d4 !important; /* Cyan */
-    text-decoration: none !important;
+    text-decoration: underline !important;
 }
 
 .markdown-rendered a:hover,
@@ -273,10 +317,18 @@ a.external-link:hover,
     text-shadow: 0 0 1px rgba(139, 92, 246, 0.3) !important; /* Purple glow */
 }
 
-/* Underline styling */
-.cm-underline {
+/* Underline styling (excluding links) */
+.cm-underline:not(.cm-link):not(.cm-hmd-internal-link):not(.cm-url):not([href]) {
     color: #8b5cf6 !important;
     text-decoration-color: #8b5cf6 !important;
+}
+
+/* Ensure internal links are always cyan in editing mode */
+.cm-editor .cm-line .cm-underline[href],
+.cm-editor .cm-line .cm-hmd-internal-link {
+    color: #06b6d4 !important;
+    text-decoration: underline !important;
+    text-decoration-color: #06b6d4 !important;
 }
 
 /* File names styling */
