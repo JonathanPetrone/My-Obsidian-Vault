@@ -1,13 +1,17 @@
-### Adaptive Optimization over Standardized Performance
+### Core Identity First
 *When facing pressure to conform or when questioning whether you're optimizing for the right things*
 
-**True intelligence lies in optimizing yourself as a system according to your core identity and authentic nature**, rather than maximizing performance on standardized measures that may not align with your design. Instead of asking "How can I get better at this standard measure?" ask "What would optimal functioning look like for my specific system?" A dolphin shouldn't try to become better at climbing trees - it should become the best dolphin it can be within its aquatic environment.
+Aristotle argued that every being has a **telos** (purpose or end goal) determined by its essential nature. For humans, eudaimonia - often translated as "happiness" but better understood as "flourishing" or "living well" - comes from actualizing your essential human capacities.
+
+**True intelligence lies in optimizing yourself as a system according to your core identity and authentic nature**, rather than maximizing performance on standardized measures that may not align with your design. A dolphin shouldn't try to become better at climbing trees - it should become the best dolphin it can be within its aquatic environment.
 
 Source: Discussion Claude (https://claude.ai/chat/ab751183-ac5d-413d-8ef6-35671eae12da)
-### The Main Article of General Systems Faith
+### Faith in the Analogical Leap
 *When stuck on a problem in your domain or when your usual approaches aren't working*
 
-**Search other fields for similar problems**; nature tends to reuse successful solutions across domains. Imagine being trapped in a maze and realizing that maybe ant colonies, river systems, or neural networks have already "solved" similar navigation problems. The faith part is believing that cross-pollination will work - that solutions from biology might unlock engineering problems, or that physics principles might illuminate social dynamics.
+Nature tends to reuse successful solutions across domains. Imagine being trapped in a maze and realizing that maybe ant colonies, river systems, or neural networks have already "solved" similar navigation problems. The faith part is believing that cross-pollination will work - that solutions from biology might unlock engineering problems, or that physics principles might illuminate social dynamics.
+
+When stuck or searching for inspiration we should therefore also search in other fields or environments for similar problems and their corresponding solutions.
  
 Source:  Introduction to General Systems Thinking ch. 2  (G. Weinberg)
 
@@ -21,7 +25,20 @@ Green flag: Mutual challenge and support.
 
 Source: Modern Wisdom (S. Sinek) 
 
-### The Serendipity Maximization Meta-Framework
+### The Deep Leverage Approach
+_For creating lasting change in any system_
+
+If possible start where your effort creates the biggest impact.
+
+From highest to lowest leverage:
+- **Paradigm** (Goals, Paradigms) → _Change the fundamental logic that governs the system_
+- **Rules / Power** (Self-Organization, Rules) → _Modify the protocols and authority structures_
+- **Information and Control** (Information Flows and Feedback Loops) → _Alter what data flows where and when_
+- **Physical structure** (Delays and Stock-and-Flow Structures) → _Redesign the physical connections and timing constraints_
+- **Parameters** (Numbers and Buffers) → _Adjust the numerical settings within existing architecture_
+
+Source: Thinking in Systems (D. Meadows)
+### The Systematic Curiosity Approach
 _When you don't know what to work on or need breakthrough insights_
 
 **Deliberately increase your surface area for unexpected discoveries** by maximizing exposure to diverse inputs, people, and experiences. This amplifies the effectiveness of other frameworks.
@@ -33,19 +50,20 @@ Ask:
 
 Source: How to do Great Work (P. Graham)
 
-### Systems Leverage Levels
-*When wanting to make changes to a system*
+### The Progressive Inquiry Model
+_When facing problems, opportunities, or the need for innovation_
 
-**Recognize that systems have different levels of leverage.**
+**Application:** Three-stage questioning framework: Why (step back, understand context), What If (divergent thinking, unusual connections), How (rapid experimentation with prototypes).
 
-From highest to lowest leverage:
-- Paradigm - Goals, Paradigms
-- Rules / Power - Self-Organization, Rules
-- Information and Control - Information Flows and Feedback Loops
-- Physical structure - Delays and Stock-and-Flow Structures
-- Parameters - Number and Buffers
+**Key Decision Points:**
 
-Source: Thinking in Systems (D. Meadows)
+- **Why:** Are you questioning assumptions rather than accepting "the way things are"?
+- **What If:** Are you allowing wide-open thinking and making unexpected connections?
+- **How:** Are you starting with imperfect prototypes and learning from failure?
+
+**Green flags:** Questions that challenge conventional wisdom, ideas combining unexpected elements, rapid experimentation **Red flags:** Analysis paralysis, obvious solutions, perfectionism preventing testing **Key practice:** Live with questions rather than rushing to answers
+
+**Source:** A More Beautiful Question - W. Berger
 
 ### NICE Goals over SMART Goals
 *When setting objectives that you struggle to maintain*
@@ -180,19 +198,23 @@ Warning signs: Overly elaborate theories requiring perfect coordination.
 Source: William of Ockham, The Great Mental Models
 
 ### The Orientation vs. Purpose Filter
- _When setting goals or evaluating life direction_
+_When setting goals or evaluating life direction_
 
-**Application:** Distinguish between destination-focused purposes (which create meaninglessness upon achievement or failure) and orientation-focused direction (which provides ongoing meaning). 
+**Distinguish between destination-focused purposes** (which create meaninglessness upon achievement or failure) **and orientation-focused direction** (which provides ongoing meaning). 
 
-**Decision Criteria:**
+Decision Criteria:
 - Does this goal make my life meaningless if I don't achieve it?
 - Will achieving this goal leave me directionless afterward?
 - Am I oriented toward what is true, good, and beautiful, or just what I want?
 - Is this reality-centric or ego-centric?
 
-**Implementation Details:** Frame goals as infinite games (ongoing play) rather than finite games (win/lose). Focus on who you're becoming rather than what you're achieving. Red flag: "My life will be complete when..." Green flag: "This helps me stay oriented toward..." 
+**Frame goals as infinite games (ongoing play) rather than finite games (win/lose).** Focus on who you're becoming rather than what you're achieving. 
+
+Red flag: "My life will be complete when..."
+Green flag: "This helps me stay oriented toward..." 
 
 Source: Vervaeke's critique of standard purpose-driven approaches to meaning.
+
 ### Hierarchy of Aims Framework
 *When setting goals or making decisions about what to pursue in life.*
 
@@ -201,6 +223,17 @@ Source: Vervaeke's critique of standard purpose-driven approaches to meaning.
 **Ask "why" repeatedly:** Why this job? → To get degree → To serve family → To build lasting value → To serve the highest good. This prevents nihilism and provides meaning to micro-actions.
 
 Source:  https://www.youtube.com/watch?v=IUKLmspEWEc (JBP)
+
+### The Investment Banking Model to Handle Depression
+_When feeling like activities are pointless during depressive episodes_
+
+**Treat experiences as investments in a future emotional state rather than expecting immediate returns.** Bank experiences when you can't feel their value in the moment.
+
+Take photos, engage in activities, maintain relationships even when they feel emotionally flat. Key insight: **"The way something feels while you are doing it is not necessarily the way it's going to feel later."** 
+
+Red flag: Avoiding all potentially meaningful experiences because of current numbness.
+
+Source: Scuba diving story - felt nothing during the experience but later derived joy from the memories. Dr. Eilers on Modern Wisdom https://www.youtube.com/watch?v=BUp5YxPe2Qw
 
 ### The Reverse Pilot
 _When questioning existing commitments or initiatives_
@@ -239,7 +272,7 @@ Process: Map peak performance experiences → Identify the internal feeling → 
 
 Source: The Art of Learning (J. Waitzkin)
 
-## **Illusion of Competence Detection**
+### Illusion of Competence Detection
 _When evaluating whether you actually understand material_
 
 Use recall testing rather than recognition testing. Look away from material and see what you can reproduce. **If you can't recall it without looking, you don't actually know it yet.**
@@ -253,6 +286,52 @@ Green flags: Struggling initially with recall but improving over time.
 
 Source: Learning How to Learn (B. Oakley)
 
+### Igniting a Curiosity Spark Through Balance
+_When wanting to kindle curiosity in something_
+ 
+**Balancing Knowledge:**
+- Too little: Give minimal context to create entry point
+- Too much: Show unexplored edges or surprising connections
+- Sweet spot: "You know X, but what about Y?"
+
+**Balancing Surprise:**
+- Gently violate expectations with counterintuitive facts
+- Show familiar things from unexpected angles
+- Reveal hidden patterns they hadn't noticed
+
+**Balancing Confidence:**
+- If anxious: Create safety first, complexity second
+- If overconfident: Reveal overlooked complexity
+- Target: "I can learn this" + "There's more here than I thought"
+
+**Success Signs:** Spontaneous questions, leaning in, asking for more. 
+**Failure Signs:** Dismissal, defensiveness, glazed eyes, anxiety.
+
+Source: Curious (I. Leslie)
+
+---
+### The Generic vs. Exception Framework 
+*When facing any problem or decision* 
+
+**Application:** Before diving into solutions, categorize the situation into one of four types: truly generic, generic for your organization, truly exceptional, or new manifestation of generic problem. Always assume generic first. 
+
+**Decision Criteria:** 
+Ask "Have we seen this before?" and "Is this fundamentally similar to other situations?" Generic problems get solved with rules/policies; exceptions need custom solutions. 
+
+**Implementation Details:** Red flag: Treating every problem as unique snowflake. Green flag: Building systematic responses to recurring patterns. Warning: The "new manifestation" category is trickiest - looks unique but has generic underlying structure.
+
+Source: The Effective Executive (P. Drucker)
 
 ---
 
+### Build on the Strength of Your Boss
+
+_When feeling constrained by your boss or reporting relationship_ 
+
+**Application:** Instead of asking "What won't my boss let me do?" or focusing on their limitations, systematically identify what your boss does exceptionally well and structure your work to amplify those strengths. This transforms the reporting relationship from constraint to leverage multiplier. 
+
+**Decision Criteria:** What has my boss done really well in the past? What specific conditions does my boss need to use their strengths effectively? What support, information, or input would maximize their effectiveness? How can I make their strengths more productive for the organization? 
+
+Source: The Effective Executive (P. Drucker)
+
+---

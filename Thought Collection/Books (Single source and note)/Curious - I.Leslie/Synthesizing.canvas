@@ -1,0 +1,37 @@
+{
+	"nodes":[
+		{"id":"fa83914a3483c427","type":"file","file":"Thought Collection/Books (Single source and note)/Curious - I.Leslie/Analogies as a Tool for Curiosity.md","x":1014,"y":-653,"width":626,"height":453},
+		{"id":"e74ae7223bcb6ca5","type":"text","text":"# Curiosity","x":240,"y":-567,"width":440,"height":282},
+		{"id":"ad4abdd42968a14d","type":"text","text":"## Knowledge = Slow","x":280,"y":0,"width":360,"height":160},
+		{"id":"a65cb34edbc85436","type":"text","text":"How do we construct knowledge  or learn effectively?","x":1110,"y":23,"width":260,"height":115,"color":"1"},
+		{"id":"6dd3d1ea589b6526","type":"file","file":"Thought Collection/Books (Single source and note)/Curious - I.Leslie/Be a Thinkerer.md","x":970,"y":240,"width":540,"height":583},
+		{"id":"c7262bebeaf94e80","type":"file","file":"Thought Collection/Books (Single source and note)/Curious - I.Leslie/Knowledge and the Matthew Effect.md","x":970,"y":910,"width":530,"height":460},
+		{"id":"100f17e7b319a804","type":"file","file":"Thought Collection/Books (Single source and note)/Curious - I.Leslie/Different Types of Curiosities.md","x":-760,"y":-1120,"width":730,"height":517},
+		{"id":"3281ca491024d997","type":"file","file":"Thought Collection/Books (Single source and note)/Curious - I.Leslie/Knowledge, Surprise, Confidence's relation to Curiousity.md","x":-150,"y":660,"width":580,"height":1420},
+		{"id":"9311f5d7da77b8d5","type":"text","text":"## Epistemic Curiousity","x":-1360,"y":-1009,"width":331,"height":169},
+		{"id":"5641fc637ea820e5","x":398,"y":-1352,"width":837,"height":428,"type":"file","file":"Thought Collection/Books (Single source and note)/Curious - I.Leslie/The Role of Attention in Curiosity.md"},
+		{"id":"bfa21c9575ac7dba","x":-1349,"y":-706,"width":309,"height":139,"type":"text","text":"#### Creating new nodes of knowledge"},
+		{"id":"ab031168a4a14d25","type":"file","file":"Thought Collection/Books (Single source and note)/Curious - I.Leslie/Information vs. Knowledge.md","x":-760,"y":-109,"width":780,"height":640},
+		{"id":"9182f851700f0aeb","type":"text","text":"## Information = Fast","x":-1360,"y":0,"width":360,"height":160},
+		{"id":"408ffb4b5aff6904","x":-1360,"y":-1237,"width":322,"height":157,"type":"text","text":"## Divergent Curiousity"},
+		{"id":"0b68cebff0919db3","x":-2240,"y":-861,"width":600,"height":738,"type":"file","file":"Thought Collection/Books (Single source and note)/Curious - I.Leslie/Puzzles vs. Mysteries.md"}
+	],
+	"edges":[
+		{"id":"30ca30fa5b435a9f","fromNode":"ab031168a4a14d25","fromSide":"right","toNode":"ad4abdd42968a14d","toSide":"left"},
+		{"id":"59969ab47a5080fb","fromNode":"ad4abdd42968a14d","fromSide":"right","toNode":"a65cb34edbc85436","toSide":"left"},
+		{"id":"de1a791003fc36b1","fromNode":"a65cb34edbc85436","fromSide":"bottom","toNode":"6dd3d1ea589b6526","toSide":"top"},
+		{"id":"1fb395fb85f6c8bc","fromNode":"ad4abdd42968a14d","fromSide":"bottom","toNode":"c7262bebeaf94e80","toSide":"left"},
+		{"id":"825d75ba4745c3a6","fromNode":"ad4abdd42968a14d","fromSide":"bottom","toNode":"3281ca491024d997","toSide":"top"},
+		{"id":"88258892efd81835","fromNode":"fa83914a3483c427","fromSide":"left","toNode":"e74ae7223bcb6ca5","toSide":"right"},
+		{"id":"3217bc4d1804d52f","fromNode":"e74ae7223bcb6ca5","fromSide":"bottom","toNode":"ad4abdd42968a14d","toSide":"top"},
+		{"id":"8d7ba7e016a71f64","fromNode":"ab031168a4a14d25","fromSide":"left","toNode":"9182f851700f0aeb","toSide":"right"},
+		{"id":"40421ea8780415af","fromNode":"e74ae7223bcb6ca5","fromSide":"left","toNode":"9182f851700f0aeb","toSide":"top"},
+		{"id":"74f52eab30fd338e","fromNode":"e74ae7223bcb6ca5","fromSide":"left","toNode":"100f17e7b319a804","toSide":"right"},
+		{"id":"c508dca9a7b16fbd","fromNode":"100f17e7b319a804","fromSide":"left","toNode":"9311f5d7da77b8d5","toSide":"right"},
+		{"id":"edefb15c40764068","fromNode":"e74ae7223bcb6ca5","fromSide":"top","toNode":"5641fc637ea820e5","toSide":"bottom"},
+		{"id":"895819315c968f65","fromNode":"9311f5d7da77b8d5","fromSide":"bottom","toNode":"bfa21c9575ac7dba","toSide":"top"},
+		{"id":"787262da8f19f013","fromNode":"bfa21c9575ac7dba","fromSide":"bottom","toNode":"ad4abdd42968a14d","toSide":"top"},
+		{"id":"acfcb3729571d67e","fromNode":"100f17e7b319a804","fromSide":"left","toNode":"408ffb4b5aff6904","toSide":"right"},
+		{"id":"f2ebd1e534172177","fromNode":"0b68cebff0919db3","fromSide":"right","toNode":"9311f5d7da77b8d5","toSide":"left"}
+	]
+}

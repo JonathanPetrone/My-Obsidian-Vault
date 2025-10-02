@@ -1,1 +1,0 @@
-The root from which the term psychology is derived; the signifier for the human spirit or soul-literally means butterfly.

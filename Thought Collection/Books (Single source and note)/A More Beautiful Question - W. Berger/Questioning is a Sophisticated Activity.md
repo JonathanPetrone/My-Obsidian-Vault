@@ -1,0 +1,2 @@
+### Questioning Involves Sophisticated Thinking
+Rothenstein maintains that questioning is a more subtle and complex skill than many realize, involving three kinds of sophisticated thinking, divergent, convergent, and metacognitive.

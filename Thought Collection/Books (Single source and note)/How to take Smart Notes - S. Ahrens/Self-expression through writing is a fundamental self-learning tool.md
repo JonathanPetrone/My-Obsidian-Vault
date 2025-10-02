@@ -2,7 +2,7 @@ When we write we cultivate our thinking and understanding. It's fundamental to e
 
 When we write we also generate questions, this presents us with next steps and follow up questions which can guide us to logical next steps on our learning journey.
 
-(see also: [[Self-learning]])
+(see also: [[Self-Learning]])
 
 ## Reference:
 - How to take smart notes (ch. 2, 8 & 13.1) - S. Ahrens

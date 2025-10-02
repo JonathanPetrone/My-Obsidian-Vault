@@ -26,9 +26,38 @@ _When changing habits or automatic behaviors_
 
 **Source Context:** Applied to developing routine habits like daily journaling by linking it to existing triggers. Essentialism book
 
+### The Investment Banking Model to Handle Depression
+_When feeling like activities are pointless during depressive episodes_
+
+**Treat experiences as investments in a future emotional state rather than expecting immediate returns.** Bank experiences when you can't feel their value in the moment.
+
+Decision Criteria:
+- Will I be able to withdraw emotional value from this later when my mood shifts?
+- Am I avoiding this solely because I can't feel good about it right now?
+- Does this have potential meaning even if I can't access it currently?
+
+Take photos, engage in activities, maintain relationships even when they feel emotionally flat. Key insight: **"The way something feels while you are doing it is not necessarily the way it's going to feel later."** 
+
+Red flag: Avoiding all potentially meaningful experiences because of current numbness.
+
+Source: Scuba diving story - felt nothing during the experience but later derived joy from the memories. Dr. Eilers on MW.
+
+___
+Everything I know is a Gateway to everything I will ever learn
+___
 
 
+### The Progressive Inquiry Model
+_When facing problems, opportunities, or the need for innovation_
 
+**Application:** Three-stage questioning framework: Why (step back, understand context), What If (divergent thinking, unusual connections), How (rapid experimentation with prototypes).
 
+**Key Decision Points:**
 
+- **Why:** Are you questioning assumptions rather than accepting "the way things are"?
+- **What If:** Are you allowing wide-open thinking and making unexpected connections?
+- **How:** Are you starting with imperfect prototypes and learning from failure?
 
+**Green flags:** Questions that challenge conventional wisdom, ideas combining unexpected elements, rapid experimentation **Red flags:** Analysis paralysis, obvious solutions, perfectionism preventing testing **Key practice:** Live with questions rather than rushing to answers
+
+**Source:** A More Beautiful Question - W. Berger

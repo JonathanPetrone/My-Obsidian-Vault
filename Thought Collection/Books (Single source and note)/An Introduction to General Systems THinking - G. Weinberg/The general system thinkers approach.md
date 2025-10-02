@@ -14,7 +14,7 @@ An Introduction to General Systems Thinking (ch. 2) - G. Weinberg
 - 
 
 ### Opposite: 
-- [[Scientists are reductionists]]
+- [[Scientists are reductionistshg]]
 
 ### Theme/Questions:
 
