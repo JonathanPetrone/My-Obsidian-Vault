@@ -1,0 +1,5 @@
+- How can I work with Surprise, Knowledge, and Confidence to optimize my curiosity?
+- How can I incorporate desirable difficulties in my own learning?
+- How can I create a curious culture around me?
+- How can I integrate tinkering in my learning?
+- How can I create a habit to enjoy the present more?

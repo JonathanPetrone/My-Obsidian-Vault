@@ -233,4 +233,20 @@ Physics found universal laws. Social sciences failed replicating this approach (
 **Source:** YT-video (Big Think) with Dan Shipper
 
 ---
+### The Question Toggle Framework
+_When stuck in unproductive loops or drowning in infinite possibilities_
 
+Questions aren't neutral - their structure determines what you can see. 
+- **Open questions** ("Why does this fail?") excavate assumptions and expand search space. 
+- **Closed questions** ("Does this fail?") force binary choices and create boundaries. 
+
+The same logic applies to identity: "How might I reduce organizational dysfunction?" keeps you adaptive; "I am a Test Lead" locks you into a static role.
+
+**The frame is the decision.** When you're stuck, you're probably asking closed questions that confirm existing beliefs. When you're paralyzed by options, you need closed questions to create actionable constraints. Recognizing which mode serves the moment is crucial and then to toggle deliberately.
+
+Ask:
+- Is this question confirming what I already believe or challenging my assumptions?
+- Am I stuck because my question is too narrow, or drowning because it's too broad?
+- Does my current frame enable discovery or force premature closure?
+
+**Source:** A More Beautiful Question (W. Berger) - Questioning the Question; Company Missions

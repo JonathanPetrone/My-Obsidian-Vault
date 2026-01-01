@@ -6,7 +6,7 @@ Since knowledge is more than surface level, we have to work with the information
 ####  Chapter 2
 - What senses could I employ more of to explore and learn better?
 
-##### How is my environment affecting my curiousity?
+##### How is my environment affecting my curiosity?
 ###### Curiosity-Killing Work Environments:
 - **Cultures where "not knowing" is seen as weakness** rather than opportunity
 - **Excessive focus on short-term results** with no time for exploration
