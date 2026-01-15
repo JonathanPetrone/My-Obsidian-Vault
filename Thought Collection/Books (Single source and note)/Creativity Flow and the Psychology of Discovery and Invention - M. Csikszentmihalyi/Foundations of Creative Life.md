@@ -2,7 +2,7 @@
 The first step toward a more creative life is cultivating curiosity and interest by allocating attention to things for their own sake. Creative people are constantly surprised and don't assume they understand what's happening around them. Creativity emerges from developing new patterns of attention, exploring multiple domains, and maintaining openness to unexpected insights while building complexity in areas of interest.
 
 ## Context/Example:
-Daily practices include seeking surprise (also: [[Knowledge, Surprise, Confidence's relation to Curiousity]]), following sparks of interest, and reflection. Key strategies: 
+Daily practices include seeking surprise (also: [[Knowledge, Surprise, Confidence's relation to Curiosity]]), following sparks of interest, and reflection. Key strategies: 
 
 - **Attention Management** (wake with specific goals, take charge of schedule, make time for reflection)
 - **Complexity Building** (if you do anything well it becomes enjoyable, increase complexity to maintain engagement)

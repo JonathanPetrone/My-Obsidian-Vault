@@ -244,6 +244,10 @@
     color: #f472b6 !important; /* Pink for functions */
 }
 
+/* Obsidian comments (%% comment %%) */
+.cm-comment:not(.cm-line.HyperMD-codeblock .cm-comment) {
+    color: #ef4444 !important; /* Red for Obsidian comments */
+}
 
 /* === EDITOR MODE ENHANCEMENTS === */
 

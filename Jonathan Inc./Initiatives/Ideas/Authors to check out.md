@@ -12,3 +12,8 @@
 
 - **Philip Pilkington** - Less known outside heterodox economics circles. Writes on macroeconomics, MMT-adjacent thinking, and recently on liberalism's structural contradictions (likely what Jimmy referenced). His work examines why liberal institutions can't sustain themselves under modern economic/technological conditions - similar tensions to what you're observing in your Alektum/CAB work where formal authority structures can't actually execute change. More technical than Housel, less cyclical-mystical than Howe.
 	- **Seems dense and about macropolitics, maybe check out if he get invited somewhere**
+
+Areas to add for more varied perspectives:
+Richard Thaler, Dan Ariely - Behavioral Economics
+Nate Silver (forecasting/stats), Andrew Gelman (Bayesian stats), Bryan Caplan (economist contrarian) - Quantitative Social Science
+Vaclav Smil (energy/materials), Sabine Hossenfelder (physics), Hannah Ritchie (environmental data) - Hard Sciences & Engineering

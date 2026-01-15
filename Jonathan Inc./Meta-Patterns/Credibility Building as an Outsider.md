@@ -1,7 +1,7 @@
 ## Instances:
-- **Accessibility at 1177 (2019-2021)**: Junior with no credentials, created demand for expertise no one knew they needed
-- **Testing instruction (2021-2023)**: Teaching testing just 2 years after graduating, had to establish authority quickly
-- **Alektum Process and CAB leadership (2024-present)**: Interim role during chaos, building credibility while navigating layoffs
+- **Technical Accessibility specialist at 1177 (2019-2021)**: Junior with no credentials, created demand for expertise no one wanted to own.
+- **Software Testing Teacher (2021-2023)**: Teaching testing just 2 years after graduating, had to establish authority quickly. 
+- **Test Lead -> Alektum Process and CAB leadership (2024-present)**: Interim role during chaos, building credibility while navigating layoffs
 
 ## Invariant structure:
 1. Find problem others avoid (low competition, high pain)
@@ -23,14 +23,9 @@
   - You try to scale before proving small
   - Organization rewards individual heroics over systems
 
-## Transferability score: High
-Applied successfully across 3 different domains, 3 different organizational contexts (healthcare, education, tech consulting), different seniority levels. The pattern works regardless of technical domain.
-
 ## What this taught me:
-- Credibility comes from **making others successful**, not from credentials
+- Credibility comes from making others successful, not from credentials
 - Documentation is a credibility multiplier (one success → many successes)
 - Teaching is the fastest path to authority (you position yourself above students)
 - Small wins matter more than big promises (proof > potential)
 - The pattern accelerates: each success makes next application faster because reputation precedes you
-  
-**Pattern is now instant-recognition**: When I see chaos + no owner, I know exactly what to do

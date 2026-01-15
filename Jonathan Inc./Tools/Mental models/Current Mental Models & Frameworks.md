@@ -250,3 +250,23 @@ Ask:
 - Does my current frame enable discovery or force premature closure?
 
 **Source:** A More Beautiful Question (W. Berger) - Questioning the Question; Company Missions
+
+---
+### Being Slightly Evil
+_When deciding whether to use manipulative tactics, or when moral concerns are blocking effective action_
+
+The **amorality heuristic**: A principle is genuinely valuable only if it works equally well for good and evil people. Techniques that require you to be virtuous to function are naturally suspect - they're probably just feel-good theater.
+
+Acknowledge your capacity for manipulation rather than deny it. The universe is mildly hostile (entropy working against order), and by fractal logic, our nature probably is too. As understanding grows, the domain where useful moral opinions exist should **shrink** - there's no point having moral opinions about gravity or other deterministic phenomena.
+
+**Application**:
+- When a "principled" approach is clearly less effective than a manipulative one, question whether the principle is actually serving you or just limiting your options
+- Don't avoid tactics because they feel "wrong" - avoid them only if they're genuinely counterproductive (reputation damage, unsustainable, etc.)
+- Optimize for effectiveness first; add ethical constraints second, and only where they actually matter
+
+**Examples**:
+- Interrupting someone mid-argument to seize conversational control isn't "rude" - it's efficient status management
+- Flattering a manager to shape their behavior isn't "manipulative" - it's recognizing that social proof and ego are legitimate control variables
+- Exploiting adversaries' cognitive habits isn't "unfair" - it's how competitive dynamics actually work
+
+**Source**: Be Slightly Evil

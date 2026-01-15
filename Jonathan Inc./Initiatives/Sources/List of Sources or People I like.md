@@ -19,4 +19,8 @@
 **Nassim Nicholas Taleb** -  Statistician, Risk Analyst, Philosopher, Former Trader
 **Sönke Ahrens** - Author (How to Take Smart Notes - Zettelkasten method)
 **Viktor Frankl** - Psychiatrist, Neurologist, Holocaust Survivor (Logotherapy, meaning-construction)
-
+**Patrick Boyle** - Finance Professor (King's College London), Hedge Fund Manager, YouTuber (finance/economics)
+**Steve Eisman** - Investor, Portfolio Manager (Neuberger Berman), Inspiration for "The Big Short"
+**Philip Tetlock** - Psychologist, Political Scientist, Author (Superforecasting), Professor (Wharton)
+**Peter Zeihan** - Geopolitical Strategist, Author, Former Stratfor Analyst, Speaker
+**Ben Thompson** - Tech Analyst, Author (Stratechery newsletter), Podcaster (Exponent), Former Apple/Microsoft Employee

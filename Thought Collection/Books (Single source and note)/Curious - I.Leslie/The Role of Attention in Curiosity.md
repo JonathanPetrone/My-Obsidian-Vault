@@ -4,6 +4,6 @@ The transformative power of attention has the ability to turn anything interesti
 
 Ward is also an admirer of the French writer Georges Perec, who was interested in the infra-ordinary, which is the opposite of the extraordinary. Perec urged his readers to "question your teaspoons"
 
-We can all find ways to make the mundane into something that stimulates our curiousity.
+We can all find ways to make the mundane into something that stimulates our curiosity.
 #### Source:
 Curious - I.Leslie (Ch.1 &. 6)
