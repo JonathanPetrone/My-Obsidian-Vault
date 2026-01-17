@@ -1,4 +1,4 @@
-**Core distinction:** How you generate your forecast determines accuracy more than what credentials you have or what you believe.
+How you generate your forecast determines accuracy more than what credentials you have or what you believe. Tetlock argues that the overperformance of superforecasters is part due to their "Fox-like" attitude (Many Small Ideas), in contrast to Hedgehog (One Big Idea) thinking.
 
 ##### Hedgehogs (One Big Idea)
 **Approach:** Apply the same analytical framework to every problem—like wearing one pair of tinted glasses you never take off.

@@ -1,12 +1,9 @@
 #### Ideas:
 - With Complete information we can predict the future - NO
-- Precision in predictions, numeracy helps forecasters
 - Process over outcome
-- Bayes Theorem
 - Tacit knowledge and bruising experience
 - Leadership in relation to forecasting and decision-making
 - Black swans are maybe just gray?
-- Big vs. small questions
 
 CH1 - An Optimistic Skeptic
 %%(Believing we can predict the future with complete information)%%

@@ -142,3 +142,59 @@ Transfer of Learning wiki:
 - `Thought Collection/Books (Single source and note)/Ultralearning - Scott H. Young/Ultralearners 6th principle - feedback.md` - Types of feedback and tactics
 - `Thought Collection/Claude Session/Complicated and Complex Expertise.md` - Distinction between domains
 - `Thought Collection/Multi-Sourced Notes/Emergent Systems.md` - Nature of complex systems
+---
+
+## Summary: Building a Learning Strategy Selector Framework
+
+**Your Goal:** Create a practical framework for building adaptive expertise by matching learning strategies to problem characteristics. This is a _strategy selector_, not a diagnostic tool - it helps answer "Given I know X about my situation, what's the optimal learning approach?"
+
+**Core Framework: 2x2 Matrix**
+
+Two diagnostic dimensions:
+
+1. **Problem Type:** Complicated (stable cause-effect, analyzable, mechanical parts) vs Complex (emergent, adaptive agents, context-dependent)
+2. **Feedback Speed:** Fast (rapid iteration possible) vs Slow (outcomes delayed)
+
+These create four quadrants, each requiring different expertise-building strategies:
+
+||**Fast Feedback**|**Slow Feedback**|
+|---|---|---|
+|**Complicated**|Deliberate practice, drills, pattern libraries|Decompose into fast-feedback sub-problems, document reasoning, import skill from adjacent domains|
+|**Complex**|Safe-to-fail probes, rapid iteration, pattern extraction across contexts|Portfolio approach, retrospective coherence, meta-skill development|
+
+**Current Document Structure (What Exists):**
+
+1. ✓ **Curiosity/Knowledge Foundations** - Epistemic curiosity, Matthew Principle, WHY/HOW questions, thinkering
+2. ✓ **Tools** - Thinking structures, Second Brain, CODE model
+3. ✓ **Matrix visual** - Shows the 2x2 clearly
+4. ⚠️ **"Analyze Environment" section** - Exists but prematurely prescribes strategies before establishing both dimensions
+5. ⚠️ **"Slow Feedback Techniques"** - Exists but conflates Slow + Complicated with general slow feedback; missing Slow + Complex techniques
+
+**Structural Improvements Needed:**
+
+1. **Rename section:** "Analyze the Environment..." → **"Learning Strategies for Rapid Expertise Building"**
+2. **Add bridge section after matrix:** 2-3 paragraphs explaining _why_ each quadrant requires different approaches (the strategic logic before diving into specific techniques)
+3. **Reorganize techniques by quadrant:**
+    - Fast + Complicated: [techniques]
+    - Fast + Complex: [techniques - needs more content]
+    - Slow + Complicated: [decomposition, Fermi, prediction documentation]
+    - Slow + Complex: [needs more content - portfolio approach, retrospective coherence, safe-to-fail probes]
+4. **Content gaps to fill:**
+    - Fast + Complex strategies (mentioned "varied context" but needs depth)
+    - Slow + Complex strategies (barely touched - this is where Superforecasters material gets confused with your framework)
+
+**Key Insights from Discussion:**
+
+- **Cynefin confusion resolved:** You're not using Cynefin's full model - just the complicated/complex distinction. Chaotic and Clear aren't relevant for a learning strategy selector.
+- **Decomposition in complex domains:** Works but with constraint - sub-parts interact non-linearly, so experiments teach you about system dynamics, not just isolated variables
+- **Superforecasters material:** Mostly applies to Slow + Complicated (calibrating probabilistic judgment). Slow + Complex requires different approaches (navigation over prediction)
+- **Your CAB work example:** Slow + Complex - which is why pure forecasting/analysis has diminishing returns vs safe-to-fail probes that reshape the system
+
+**Next Steps for Development:**
+
+1. Write the bridge section (strategic logic for each quadrant)
+2. Synthesize more sources for Fast + Complex techniques
+3. Synthesize more sources for Slow + Complex techniques (might need different books than Superforecasters)
+4. Decide whether to keep prose flow (Option 1: add bridge + organize by quadrant) vs tighter if-then structure
+
+**Prose Style Preference:** You want free-flowing text rather than bullet points, with clean argument structure but not overly mechanical.
