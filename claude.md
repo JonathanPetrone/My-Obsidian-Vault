@@ -1,5 +1,11 @@
 # Claude Instructions for this Vault
 
+## Important: Vault Location
+- **ALWAYS work in the main vault location:** `/Users/jonathanpetrone/Library/Mobile Documents/iCloud~md~obsidian/Documents`
+- This is NOT a worktree - it's the main repository that syncs with Obsidian
+- Changes made here appear immediately in Obsidian
+- User uses git commits as backup/versioning, not for collaboration workflow
+
 ## General Guidelines
 - **Do NOT explore the vault** unless explicitly directed to a specific folder
 - You may look at the overall structure when needed
