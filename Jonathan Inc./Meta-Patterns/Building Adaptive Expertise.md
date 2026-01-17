@@ -70,3 +70,75 @@ Transfer of Learning wiki:
 
 - **Harvard Project Zero brief** - "Developing Adaptive Expertise for Navigating New Terrain" (directly addresses career transitions and organizational contexts)
 - **Cambridge Handbook chapter** on engineering design (if you want to understand how adaptive expertise works in complex problem-solving)
+
+---
+
+##### Claude Suggestions:
+
+**For: Slow Feedback + Complex Domains Section**
+
+**What to add & Why:**
+
+1. **The Feedback Problem in Slow/Complex Environments**
+   - **Why:** Establishes the core challenge - you can't quickly validate mental models
+   - **Source:** `Thought Collection/Todos and Drafts/Raw Source Extracts/Notes from Superforecasters.md` (lines 378-381)
+   - **Key insight:** Slow feedback creates two barriers: ambiguous language prevents judging accuracy + time lag allows hindsight bias to distort recall
+
+2. **Strategy: Decompose Big Questions (Fermi-ization)**
+   - **Why:** Creates faster feedback loops by breaking complex questions into testable sub-components
+   - **Source:** `Notes from Superforecasters.md` (lines 193-206, 528-532)
+   - **Application:** Instead of waiting years for outcome, track leading indicators that give incremental feedback
+   - **Example from vault:** North Korea crisis question broken into smaller proxies (rocket tests, diplomatic talks, etc.)
+
+3. **Strategy: Outside View + Inside View Synthesis**
+   - **Why:** Can't rely on slow personal experience alone - must leverage base rates from similar cases
+   - **Source:** `Notes from Superforecasters.md` (lines 209-223)
+   - **Key practice:** Start with base rates (outside view) for meaningful anchor, then investigate specifics (inside view) in targeted way, not aimless wandering
+
+4. **Strategy: Dragonfly Perspective (Aggregate Multiple Viewpoints)**
+   - **Why:** Since you can't test ideas quickly through action, test them through diverse lenses
+   - **Source:** `Notes from Superforecasters.md` (lines 132-146, 225-229)
+   - **Practice:** Actively seek contrarian views, reframe problems, ask "Would I be convinced if I were someone else?"
+   - **Evidence:** Foxes (who aggregate perspectives) beat hedgehogs in forecasting accuracy
+
+5. **Strategy: Incremental Belief Updating**
+   - **Why:** Many small updates (avg 3.5%) avoid both under-reaction and over-reaction to new information
+   - **Source:** `Notes from Superforecasters.md` (lines 283-288, 330-337)
+   - **Principle:** "Beliefs are hypotheses to be tested, not treasures to be guarded" (line 237)
+   - **Connection:** Links to Bayesian thinking (lines 340-352) - update based on diagnostic value of new info
+
+6. **Strategy: Perpetual Beta Mindset**
+   - **Why:** In slow-feedback domains, need intrinsic motivation to iterate without external validation
+   - **Source:** `Notes from Superforecasters.md` (lines 423-424, 396-398, 420-421)
+   - **Evidence:** "Perpetual beta...is roughly three times as powerful a predictor as intelligence" for forecasting success
+   - **Components:** Growth mindset + grit when validation is delayed
+
+7. **Caution: Pattern Recognition Can Mislead**
+   - **Why:** Complex domains may lack valid cues, leading to false patterns
+   - **Source:** `Notes from Superforecasters.md` (lines 69-72)
+   - **Key insight:** Intuition works in "a world full of valid cues" - but complex domains may not have them
+   - **Implication:** Be wary of System 1 intuition when you haven't had enough feedback loops
+
+8. **Missing: Connect to Transfer of Learning**
+   - **Why:** "Bridging" strategy (analogies, pattern extraction) seems especially relevant for complex domains
+   - **What's in vault:** The feedback section mentions "hugging" and "bridging" (lines 37-48)
+   - **Suggestion:** Bridging helps when you can't practice in realistic conditions (slow feedback) - forces explicit pattern extraction across contexts
+
+**Gaps requiring external resources:**
+
+1. **Deliberate Practice in Slow-Feedback Domains**
+   - Ericsson's work (mentioned in feedback section) on how experts create practice when corrective feedback is delayed
+   - Look for: Backtesting, simulation, thought experiments as artificial feedback mechanisms
+
+2. **Mental Models for Emergent/Complex Systems**
+   - Your `Emergent Systems.md` touches on this, but need more on:
+   - Building models when cause-effect is only clear retrospectively
+   - First principles reasoning when patterns fail (mentioned in `Complicated and Complex Expertise.md` line 14)
+
+3. **Analogical Reasoning in Complex Problem-Solving**
+   - How to effectively use analogies across domains when direct experience is too slow to accumulate
+
+**Supporting material already in vault:**
+- `Thought Collection/Books (Single source and note)/Ultralearning - Scott H. Young/Ultralearners 6th principle - feedback.md` - Types of feedback and tactics
+- `Thought Collection/Claude Session/Complicated and Complex Expertise.md` - Distinction between domains
+- `Thought Collection/Multi-Sourced Notes/Emergent Systems.md` - Nature of complex systems
