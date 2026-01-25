@@ -16,17 +16,71 @@ Powerful tools for building expertise are [[Thinking Structures as Tools for Lea
 
 Building a [[Second Brain]] is a way to store store information from diverse sources (text, video, conversations), that might help you synthesize insights across different domains. Using this [[Second Brain]] as a tool to express, synthesize and cultivate knowledge is a way to keep what resonates with you to let it influence the future you and [[Self-expression through writing is a fundamental self-learning tool|Solidifying what you learn.]]  The [[The Process of Information Gathering Effectively|CODE model]] is a useful framework for the process of information gathering. 
 
-## Analyze the Environment for Rapid Expertise Building
+## Learning Strategies for Rapid Expertise Building
 The right approach for building expertise depends on the nature of the environment, is the domain/area/problem [[Complicated and Complex Expertise|Complicated or Complex]]? Complicated domains tend to benefit most from deliberate practice, simplest complete system training and drills. Complex domains tend to benefit from varied context exposure, abstract patterns across instances, first principles. 
 
 There is also the dimension of feedback loops, are they fast or slow? This leads us to a model of different domain spaces and their characteristics:
 
 ![[Adaptive expertise (4).jpg|300]]
 
+Notes on each of the areas.
+
+[[Decomposing Big Questions - Fermi's Method|Decompostion]]
+ -  - **Slow + Complex** ✓✓✓ (Primary use case)
+    - Core problem: Can't validate big predictions quickly
+    - Decomposition creates faster feedback loops on sub-components
+- **Slow + Complicated** ✓ (Helpful but for different reasons)
+    - Decomposition here is more about breaking down a known problem into solvable parts
+    - Less about creating feedback loops, more about reducing cognitive load
+    - The feedback is still slow, but you at least know the causal relationships
+- **Fast + Complex** ~ (Limited utility)
+    - You already have fast feedback, so the motivation is different
+    - Might still decompose to understand which variables matter, but you can just test quickly
+- **Fast + Complicated** ✗ (Minimal need)
+    - You can practice the whole system and get quick corrective feedback
+    - Decomposition might even be counterproductive if it breaks important interdependencies
+
+Many small ideas
+
+- **Slow + Complex** ✓✓✓ (Primary use case)
+    - You can't get quick empirical feedback, so cognitive diversity becomes your testing mechanism
+    - Actively seeking contrarian views prevents getting locked into one mental model
+    - Reframing problems helps you see which variables actually matter
+- **Fast + Complex** ✓✓ (Very useful)
+    - Multiple perspectives help you interpret ambiguous feedback correctly
+    - Complex systems can look different from different angles - dragonfly eye helps you build richer mental models faster
+    - Example: A/B testing might show conflicting results depending on segment - need multiple lenses to understand why
+- **Slow + Complicated** ✓ (Moderately useful)
+    - Can help avoid blind spots in problem diagnosis
+    - But less critical because the causal relationships are knowable - eventually you can determine the "right" view
+    - More about thoroughness than fundamental necessity
+- **Fast + Complicated** ~ (Limited utility)
+    - Quick feedback will reveal errors in perspective fairly rapidly
+    - Multiple viewpoints might help initially, but empirical testing supersedes them
+    - Could even slow you down if you over-deliberate instead of just testing
+
+
+[[Dimensions in learning]]
+
+
 %% Connect the model to concrete tips%%
 
 
 ___
+PURPOSE: Create a practical framework for building adaptive expertise by matching learning strategies to problem characteristics. This is a _strategy selector_, not a diagnostic tool - it helps answer "Given I know X about my situation, what's the optimal learning approach?"
+
+**Prose Style Preference:** You want free-flowing text rather than bullet points, with clean argument structure but not overly mechanical.
+
+1. **Rename section:** "Analyze the Environment..." → **"Learning Strategies for Rapid Expertise Building"**
+2. **Add bridge section after matrix:** 2-3 paragraphs explaining _why_ each quadrant requires different approaches (the strategic logic before diving into specific techniques)
+3. **Reorganize techniques by quadrant:**
+    - Fast + Complicated: [techniques]
+    - Fast + Complex: [techniques - needs more content]
+    - Slow + Complicated: [decomposition, Fermi, prediction documentation]
+    - Slow + Complex: [needs more content - portfolio approach, retrospective coherence, safe-to-fail probes]
+4. **Content gaps to fill:**
+    - Fast + Complex strategies (mentioned "varied context" but needs depth)
+    - Slow + Complex strategies (barely touched - this is where Superforecasters material gets confused with your framework)
 
 %%
 [[The Limited Supply of Attention]]- > Focus on what matters
@@ -72,7 +126,6 @@ Transfer of Learning wiki:
 - **Cambridge Handbook chapter** on engineering design (if you want to understand how adaptive expertise works in complex problem-solving)
 
 ---
-
 ##### Claude Suggestions:
 
 **For: Slow Feedback + Complex Domains Section**
@@ -143,58 +196,3 @@ Transfer of Learning wiki:
 - `Thought Collection/Claude Session/Complicated and Complex Expertise.md` - Distinction between domains
 - `Thought Collection/Multi-Sourced Notes/Emergent Systems.md` - Nature of complex systems
 ---
-
-## Summary: Building a Learning Strategy Selector Framework
-
-**Your Goal:** Create a practical framework for building adaptive expertise by matching learning strategies to problem characteristics. This is a _strategy selector_, not a diagnostic tool - it helps answer "Given I know X about my situation, what's the optimal learning approach?"
-
-**Core Framework: 2x2 Matrix**
-
-Two diagnostic dimensions:
-
-1. **Problem Type:** Complicated (stable cause-effect, analyzable, mechanical parts) vs Complex (emergent, adaptive agents, context-dependent)
-2. **Feedback Speed:** Fast (rapid iteration possible) vs Slow (outcomes delayed)
-
-These create four quadrants, each requiring different expertise-building strategies:
-
-||**Fast Feedback**|**Slow Feedback**|
-|---|---|---|
-|**Complicated**|Deliberate practice, drills, pattern libraries|Decompose into fast-feedback sub-problems, document reasoning, import skill from adjacent domains|
-|**Complex**|Safe-to-fail probes, rapid iteration, pattern extraction across contexts|Portfolio approach, retrospective coherence, meta-skill development|
-
-**Current Document Structure (What Exists):**
-
-1. ✓ **Curiosity/Knowledge Foundations** - Epistemic curiosity, Matthew Principle, WHY/HOW questions, thinkering
-2. ✓ **Tools** - Thinking structures, Second Brain, CODE model
-3. ✓ **Matrix visual** - Shows the 2x2 clearly
-4. ⚠️ **"Analyze Environment" section** - Exists but prematurely prescribes strategies before establishing both dimensions
-5. ⚠️ **"Slow Feedback Techniques"** - Exists but conflates Slow + Complicated with general slow feedback; missing Slow + Complex techniques
-
-**Structural Improvements Needed:**
-
-1. **Rename section:** "Analyze the Environment..." → **"Learning Strategies for Rapid Expertise Building"**
-2. **Add bridge section after matrix:** 2-3 paragraphs explaining _why_ each quadrant requires different approaches (the strategic logic before diving into specific techniques)
-3. **Reorganize techniques by quadrant:**
-    - Fast + Complicated: [techniques]
-    - Fast + Complex: [techniques - needs more content]
-    - Slow + Complicated: [decomposition, Fermi, prediction documentation]
-    - Slow + Complex: [needs more content - portfolio approach, retrospective coherence, safe-to-fail probes]
-4. **Content gaps to fill:**
-    - Fast + Complex strategies (mentioned "varied context" but needs depth)
-    - Slow + Complex strategies (barely touched - this is where Superforecasters material gets confused with your framework)
-
-**Key Insights from Discussion:**
-
-- **Cynefin confusion resolved:** You're not using Cynefin's full model - just the complicated/complex distinction. Chaotic and Clear aren't relevant for a learning strategy selector.
-- **Decomposition in complex domains:** Works but with constraint - sub-parts interact non-linearly, so experiments teach you about system dynamics, not just isolated variables
-- **Superforecasters material:** Mostly applies to Slow + Complicated (calibrating probabilistic judgment). Slow + Complex requires different approaches (navigation over prediction)
-- **Your CAB work example:** Slow + Complex - which is why pure forecasting/analysis has diminishing returns vs safe-to-fail probes that reshape the system
-
-**Next Steps for Development:**
-
-1. Write the bridge section (strategic logic for each quadrant)
-2. Synthesize more sources for Fast + Complex techniques
-3. Synthesize more sources for Slow + Complex techniques (might need different books than Superforecasters)
-4. Decide whether to keep prose flow (Option 1: add bridge + organize by quadrant) vs tighter if-then structure
-
-**Prose Style Preference:** You want free-flowing text rather than bullet points, with clean argument structure but not overly mechanical.

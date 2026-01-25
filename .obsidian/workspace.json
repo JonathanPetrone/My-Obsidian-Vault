@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jonathan Inc./Meta-Patterns/Building Adaptive Expertise.md",
+                "file": "Programming/Golang/Learning/Day/Learned Lessons GO - day 5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Building Adaptive Expertise"
+              "title": "Learned Lessons GO - day 5"
+            }
+          },
+          {
+            "id": "c34fc8f6c881df9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Golang/Learning/Day/Learned Lessons GO - day 5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Learned Lessons GO - day 5"
             }
           }
         ]
@@ -62,6 +76,20 @@
               },
               "icon": "lucide-search",
               "title": "Search"
+            }
+          },
+          {
+            "id": "e646a5da8ffa6805",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           },
           {
@@ -181,34 +209,75 @@
       "command-palette:Open command palette": false
     }
   },
+  "floating": {
+    "id": "ecb6d1ca87823258",
+    "type": "floating",
+    "children": [
+      {
+        "id": "a271b8e79462594e",
+        "type": "window",
+        "children": [
+          {
+            "id": "a1568ad44f66cc98",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d5c3e1c60ba90937",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Jonathan Inc./Meta-Patterns/Building Adaptive Expertise.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Building Adaptive Expertise"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1924,
+        "y": 33,
+        "width": 1499,
+        "height": 945,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "77bd8ae31306cddd",
   "lastOpenFiles": [
-    "claude.md",
-    "Thought Collection/Books (Single source and note)/Superforecasters - P. Tetlock/Numbers are a Tool for Accuracy.md",
-    "Thought Collection/Books (Single source and note)/Superforecasters - P. Tetlock/Notes.md",
-    "Thought Collection/Books (Single source and note)/Superforecasters - P. Tetlock/Fermi's Method.md",
-    "Thought Collection/Books (Single source and note)/Superforecasters - P. Tetlock/Detecting Skill vs. Luck.md",
-    "Thought Collection/Books (Single source and note)/Superforecasters - P. Tetlock/Anchor to Base Rates.md",
-    "Jonathan Inc./Meta-Patterns/Credibility Building as an Outsider.md",
-    "Jonathan Inc./Meta-Patterns/Building Adaptive Expertise.md",
-    "Thought Collection/Todos and Drafts/Raw Source Extracts/Comments on superforecasters.md",
-    "Thought Collection/Books (Single source and note)/Superforecasters - P. Tetlock/Decomposing Big Questions - Fermi's Method.md",
-    "Jonathan Inc./Meta-Patterns/Strategic Systematization of Chaos.md",
-    "Jonathan Inc./Meta-Patterns/Knowing When to Exit.md",
-    "Jonathan Inc./Meta-Patterns/Identifying Underserved Niches.md",
-    "Jonathan Inc./Tools/Mental models/Meta-Pattern, Gaining Influence Through Systematization.md",
-    "Thought Collection/Books (Single source and note)/Superforecasters - P. Tetlock/The Explanation Impulse.md",
-    "Thought Collection/Books (Single source and note)/Superforecasters - P. Tetlock/Retrofitting (Hindsight Confabulation).md",
-    "Thought Collection/Books (Single source and note)/Superforecasters - P. Tetlock/The Process of Superforecasting.md",
-    "Thought Collection/Books (Single source and note)/Superforecasters - P. Tetlock/Think in Probabilities and Numbers.md",
-    "Thought Collection/Books (Single source and note)/Superforecasters - P. Tetlock/Anchor Initial Assessment to Base Rates.md",
-    "Thought Collection/Books (Single source and note)/Superforecasters - P. Tetlock/Detecting Skill vs. Luck - Regression to the Mean.md",
-    "Thought Collection/Books (Single source and note)/Superforecasters - P. Tetlock/Perspectives - Hedgehogs vs. Foxes.md",
-    "Thought Collection/Books (Single source and note)/Creativity Flow and the Psychology of Discovery and Invention - M. Csikszentmihalyi/The Limited Supply of Attention.md",
-    "Thought Collection/Books (Single source and note)/Superforecasters - P. Tetlock/Bayesian Mindset and Bayes Theorem.md",
-    "Thought Collection/Todos and Drafts/Research vs. Engineering Mindset.md",
-    "Thought Collection/Todos and Drafts/Raw Source Extracts/Notes from Superforecasters.md",
-    "Thought Collection/Books (Single source and note)/Curious - I.Leslie/Knowledge, Surprise, Confidence's relation to Curiosity.md",
+    "Programming/Golang/Learning/Day/Learned Lessons GO - day 4.md",
+    "Programming/Golang/Learning/Day/Learned Lessons GO - day 5.md",
+    "Programming/Golang/Learning/Day/Learned Lessons GO - day 2.md",
+    "Programming/Golang/Learning/Day/Learned Lessons GO - day 1.md",
+    "Programming/Golang/Learning/Day/Learned Lessons GO - day 3.md",
+    "Jonathan Inc./Tools/Prompts/Get Weekly Summary from Claude - Claude Prompt.md",
+    "Untitled.md",
+    "Programming/Golang/Learning/Day",
+    "Programming/Golang/Learning/Untitled.md",
+    "Programming/Golang/Learning/New project.md",
+    "Programming/HTTP servers/Boot.dev/Routing.md",
+    "Programming/HTTP servers/Boot.dev/Storage.md",
+    "Programming/HTTP servers/Boot.dev/Webhooks.md",
+    "Programming/HTTP servers/Boot.dev/Basics - HTTP servers.md",
+    "Programming/HTTP/Transfer-encoding chunked.md",
+    "Programming/HTTP/HTTP RFCs.md",
+    "Programming/HTTP/HTTP Requests & Responses.md",
+    "Programming/HTTP/HTTP Protocol Basics.md",
+    "Programming/Heuristics/Refactoring Go.md",
+    "Programming/Golang/Learning/Book - The Go Programming Language/Chapter 2 - Program Structure/Chapter 2 - Notes.md",
+    "Programming/Golang/Learning/Book - The Go Programming Language/Chapter 1 - Tutorial/Exercise 1.12.md",
+    "Programming/Golang/Learning/Book - The Go Programming Language/Chapter 1 - Tutorial/Exercise 1.10, 1.11.md",
+    "Programming/Golang/Learning/Book - The Go Programming Language/Chapter 1 - Tutorial/Exercise 1.7, 1.8, 1.9.md",
+    "Programming/Golang/Learning/Book - The Go Programming Language/Chapter 1 - Tutorial/Exercise 1.5, 1.6.md",
+    "Programming/Golang/Learning/Book - The Go Programming Language/Chapter 1 - Tutorial/Exercise 1.4.md",
+    "Programming/Golang/Learning/Book - The Go Programming Language/Chapter 1 - Tutorial/Exercise 1.1, 1.2, 1.3.md",
+    "Programming/Golang/Learning/Book - The Go Programming Language/Chapter 5 - Functions/Chapter 5 - Notes.md",
+    "Thought Collection/Concepts",
     "Pictures/Skärmavbild 2026-01-15 kl. 09.26.29.png",
     "Thought Collection/Books (Single source and note)/Superforecasters - P. Tetlock",
     "Adaptive expertise (3).jpg",
@@ -227,8 +296,6 @@
     "Jonathan Inc./Meta-Patterns",
     "Jonathan Inc./Journaling/Journal/sep 2025",
     "Jonathan Inc./Journaling/Journal/okt 2025",
-    "Jonathan Inc./Journaling/Journal",
-    "Jonathan Inc./Journaling/namnlös mapp",
     "Thought Collection/Pictures/Skärmavbild 2025-10-21 kl. 11.48.49.png",
     "Thought Collection/Pictures/Skärmavbild 2025-12-07 kl. 12.48.42.png",
     "Thought Collection/Books (Single source and note)/Untitled.canvas",
