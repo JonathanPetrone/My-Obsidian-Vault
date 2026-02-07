@@ -1,4 +1,8 @@
-**Fast Feedback**
+#### Examples:
+- Regex Pattern writing
+- Dart Throwing
+- Rubik's cube solving
+### Fast Feedback
 - **Iteration frequency**: Minutes to days between attempts
 - **Reversibility**: Low-cost failures, easy reset to try again
 - **Attempt volume**: Hundreds/thousands of reps possible per year
@@ -6,8 +10,7 @@
 - **Practice density**: Can achieve 10,000 hours in 5 years of deliberate practice
 - **Learning curve shape**: Rapid initial improvement visible within weeks
 - **Skill verification**: Can confirm mastery through repeated demonstration in short timeframe
-
-**Complicated:**
+### Complicated:
 - **Deterministic/probabilistic but stable**: Same inputs → same outputs (or predictable distributions)
 - **Decomposable**: Can break into analyzable sub-components
 - **Teachable through rules**: Expertise can be systematically transmitted via procedures
@@ -18,7 +21,3 @@
 - **Bounded problem space**: Known unknowns, not unknown unknowns
 
 
-
-- Regex Pattern writing
-- Dart Throwing
-- Rubik's cube solving

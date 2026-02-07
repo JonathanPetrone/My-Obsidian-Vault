@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Golang/Learning/Day/Learned Lessons GO - day 5.md",
+                "file": "Programming/Cheat Sheets or Tools/New projects/Exploring Web Apps.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Learned Lessons GO - day 5"
+              "title": "Exploring Web Apps"
             }
           },
           {
@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Golang/Learning/Day/Learned Lessons GO - day 5.md",
+                "file": "Thought Collection/Concepts/Slow and Complicated Domain.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Learned Lessons GO - day 5"
+              "title": "Slow and Complicated Domain"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -76,20 +77,6 @@
               },
               "icon": "lucide-search",
               "title": "Search"
-            }
-          },
-          {
-            "id": "e646a5da8ffa6805",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
             }
           },
           {
@@ -248,54 +235,54 @@
       }
     ]
   },
-  "active": "77bd8ae31306cddd",
+  "active": "c34fc8f6c881df9a",
   "lastOpenFiles": [
-    "Programming/Golang/Learning/Day/Learned Lessons GO - day 4.md",
-    "Programming/Golang/Learning/Day/Learned Lessons GO - day 5.md",
-    "Programming/Golang/Learning/Day/Learned Lessons GO - day 2.md",
-    "Programming/Golang/Learning/Day/Learned Lessons GO - day 1.md",
-    "Programming/Golang/Learning/Day/Learned Lessons GO - day 3.md",
-    "Jonathan Inc./Tools/Prompts/Get Weekly Summary from Claude - Claude Prompt.md",
+    "Thought Collection/Concepts/Slow and Complex Domain.md",
+    "Thought Collection/Concepts/Fast and Complicated Domain.md",
+    "Thought Collection/Concepts/Fast and Complex Domain.md",
+    "Thought Collection/Concepts/Slow and Complicated Domain.md",
+    "Jonathan Inc./Meta-Patterns/Building Adaptive Expertise.md",
+    "Thought Collection/Books (Single source and note)/Superforecasters - P. Tetlock/Decomposing Big Questions - Fermi's Method.md",
+    "Thought Collection/Claude Session/Four Layer Architecture of Complex Systems.md",
+    "Thought Collection/Claude Session/Dimensions in learning.md",
+    "Thought Collection/Claude Session/Complicated and Complex Expertise.md",
+    "Thought Collection/Books (Single source and note)/Secrets of a Buccaneer-Scholar - J. Bach/Thinking Structures as Tools for Learning.md",
+    "Programming/Cheat Sheets or Tools/New projects/Exploring Web Apps.md",
+    "claude.md",
     "Untitled.md",
-    "Programming/Golang/Learning/Day",
-    "Programming/Golang/Learning/Untitled.md",
+    "Untitled.canvas",
+    "Jonathan Inc./Claude Artifcats/Concurrent Systems Design Reference.md",
     "Programming/Golang/Learning/New project.md",
-    "Programming/HTTP servers/Boot.dev/Routing.md",
-    "Programming/HTTP servers/Boot.dev/Storage.md",
-    "Programming/HTTP servers/Boot.dev/Webhooks.md",
-    "Programming/HTTP servers/Boot.dev/Basics - HTTP servers.md",
-    "Programming/HTTP/Transfer-encoding chunked.md",
-    "Programming/HTTP/HTTP RFCs.md",
-    "Programming/HTTP/HTTP Requests & Responses.md",
-    "Programming/HTTP/HTTP Protocol Basics.md",
-    "Programming/Heuristics/Refactoring Go.md",
-    "Programming/Golang/Learning/Book - The Go Programming Language/Chapter 2 - Program Structure/Chapter 2 - Notes.md",
-    "Programming/Golang/Learning/Book - The Go Programming Language/Chapter 1 - Tutorial/Exercise 1.12.md",
-    "Programming/Golang/Learning/Book - The Go Programming Language/Chapter 1 - Tutorial/Exercise 1.10, 1.11.md",
-    "Programming/Golang/Learning/Book - The Go Programming Language/Chapter 1 - Tutorial/Exercise 1.7, 1.8, 1.9.md",
-    "Programming/Golang/Learning/Book - The Go Programming Language/Chapter 1 - Tutorial/Exercise 1.5, 1.6.md",
-    "Programming/Golang/Learning/Book - The Go Programming Language/Chapter 1 - Tutorial/Exercise 1.4.md",
-    "Programming/Golang/Learning/Book - The Go Programming Language/Chapter 1 - Tutorial/Exercise 1.1, 1.2, 1.3.md",
-    "Programming/Golang/Learning/Book - The Go Programming Language/Chapter 5 - Functions/Chapter 5 - Notes.md",
-    "Thought Collection/Concepts",
+    "Jonathan Inc./Journaling/Claude Weekly Sessions/Week 5 - 2026.md",
+    "Jonathan Inc./Journaling/Claude Weekly Sessions/Week 1 - 2026.md",
+    "Jonathan Inc./Journaling/Claude Weekly Sessions/Week 2 - 2026.md",
+    "Jonathan Inc./Journaling/Claude Weekly Sessions/Week 3 - 2026.md",
+    "Jonathan Inc./Journaling/Claude Weekly Sessions/Week 4 - 2026.md",
+    "Aperture.md",
+    "Jonathan Inc./Tools/Prompts/Get Weekly Summary from Claude - Claude Prompt.md",
+    "Programming/Golang/Learning/Day/Learned Lessons GO - day 6.md",
+    "Programming/Golang/Learning/Day/Learned Lessons GO - day 3.md",
+    "Jonathan Inc./Claude Artifcats",
+    "Programming/Cheat Sheets or Tools/New projects/Database/Go Database Approaches.md",
+    "Programming/Cheat Sheets or Tools/New projects/Database/Storage/Postgres vs. SQLite.md",
+    "Programming/Cheat Sheets or Tools/New projects/Frontend/Templating",
+    "Programming/Cheat Sheets or Tools/New projects/Frontend/Interactivity",
+    "Programming/Cheat Sheets or Tools/New projects/Frontend/Styling",
+    "Programming/Cheat Sheets or Tools/New projects/Database/Query Layer",
+    "Programming/Cheat Sheets or Tools/New projects/Database/Migrations",
+    "Programming/Cheat Sheets or Tools/New projects/Database/Storage",
+    "Programming/Cheat Sheets or Tools/New projects/Non-Web App",
+    "Programming/Cheat Sheets or Tools/New projects/Database",
+    "Programming/Cheat Sheets or Tools/New projects/Frontend",
     "Pictures/Skärmavbild 2026-01-15 kl. 09.26.29.png",
-    "Thought Collection/Books (Single source and note)/Superforecasters - P. Tetlock",
     "Adaptive expertise (3).jpg",
     "Thought Collection/Pictures/Skärmavbild 2026-01-14 kl. 23.43.26.png",
     "Thought Collection/Pictures/Skärmavbild 2026-01-12 kl. 17.30.48.png",
-    "Jonathan Inc./Journaling/Claude Weekly Sessions/Untitled",
-    "Untitled.canvas",
     "Thought Collection/Pictures/Adaptive expertise (4).jpg",
     "Adaptive expertise (2).jpg",
     "Adaptive expertise (1).jpg",
     "Adaptive expertise.jpg",
     "Thought Collection/Books (Single source and note)/Curious - I.Leslie/Synthesizing.canvas",
-    "Jonathan Inc./Tools/Claude Settings",
-    "Jonathan Inc./Meta-Patterns/Drafts",
-    "Jonathan Inc./Journaling/Claude Weekly Sessions/2025",
-    "Jonathan Inc./Meta-Patterns",
-    "Jonathan Inc./Journaling/Journal/sep 2025",
-    "Jonathan Inc./Journaling/Journal/okt 2025",
     "Thought Collection/Pictures/Skärmavbild 2025-10-21 kl. 11.48.49.png",
     "Thought Collection/Pictures/Skärmavbild 2025-12-07 kl. 12.48.42.png",
     "Thought Collection/Books (Single source and note)/Untitled.canvas",
