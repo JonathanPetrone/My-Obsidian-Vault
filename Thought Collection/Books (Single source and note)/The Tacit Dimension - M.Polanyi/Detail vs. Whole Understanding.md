@@ -10,7 +10,7 @@ The Tacit Dimension (ch. 1 & 2) - M. Polanyi
 ## Connections:
 - **Similar**: [[Emergence]], [[Systems thinking]], [[Gestalt perception]], [[Multi-level analysis]]
 - **Opposite**: [[Reductionism]], [[Single-level thinking]], [[Either-or analysis]]
-- **Builds on**: [[Atomism]], [[Holism]], [[Tacit Knowledge]], [[Embodied knowledge]]
+- **Builds on**: [[Atomism]], [[Holism]], [[Thought Collection/Books (Single source and note)/The Tacit Dimension - M.Polanyi/Tacit Knowledge]], [[Embodied knowledge]]
 - **Enables**: [[Complex system understanding]], [[Strategic thinking]], [[Integrated analysis]]
 
 ---

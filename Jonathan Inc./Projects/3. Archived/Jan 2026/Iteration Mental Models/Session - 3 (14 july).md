@@ -1,1 +1,0 @@
-Added a personal conversation in claude that uses my frame work mental model document.

@@ -15,7 +15,7 @@ Key Characteristics:
 
 ## Connections:
 - **Similar**: [[Codified knowledge]], [[Academic knowledge]], [[Standard operating procedures]]
-- **Opposite**: [[Tacit Knowledge]], [[Intuitive understanding]], [[Implicit knowledge]]
+- **Opposite**: [[Thought Collection/Books (Single source and note)/The Tacit Dimension - M.Polanyi/Tacit Knowledge]], [[Intuitive understanding]], [[Implicit knowledge]]
 - **Builds on**: [[Formal language systems]], [[Documentation practices]], [[Knowledge codification]]
 - **Enables**: [[Knowledge management systems]], [[Training frameworks]], [[Standardized education]]
 

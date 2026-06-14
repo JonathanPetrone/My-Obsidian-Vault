@@ -10,7 +10,7 @@ The Tacit Dimension (ch. 1 & 2) - M. Polanyi
 ## Connections:
 - **Similar**: [[Embodied cognition]], [[Tool mastery]], [[Skill acquisition]], [[Phenomenology of perception]]
 - **Opposite**: [[Abstract reasoning]], [[Disembodied knowledge]], [[Pure theory]], [[Mind-body dualism]]
-- **Builds on**: [[Tacit Knowledge]], [[Physical awareness]], [[Tool-environment coupling]]
+- **Builds on**: [[Thought Collection/Books (Single source and note)/The Tacit Dimension - M.Polanyi/Tacit Knowledge]], [[Physical awareness]], [[Tool-environment coupling]]
 - **Enables**: [[Intuitive expertise]], [[Skilled performance]], [[Tool fluency]], [[Embodied problem-solving]]
 
 

@@ -15,7 +15,7 @@ Source: Design Your Work - Meta-Skills, Macro-Laws, and the Power of Constraints
 ### The Power of Human Interpretation
 *When building systems or solving problems*
 
-**We as humans know more than we can say** (see: [[Polanyi's paradox]]), therefore it is highly unlikely we can program this into computers. [[Tacit Knowledge]] represents the final frontier on which humans outperform machines still to this day. Jobs that require the ability to convey particular interpretations of information are the least likely to be automated by machines in the future.
+**We as humans know more than we can say** (see: [[Polanyi's paradox]]), therefore it is highly unlikely we can program this into computers. [[Thought Collection/Books (Single source and note)/The Tacit Dimension - M.Polanyi/Tacit Knowledge]] represents the final frontier on which humans outperform machines still to this day. Jobs that require the ability to convey particular interpretations of information are the least likely to be automated by machines in the future.
 
 Source: Building A Second Brain (T. Forte),  The Tacit Dimension ch. 1 & 2 (M. Polanyi).
 
@@ -268,7 +268,7 @@ Source: The Effective Executive (P. Drucker)
 _When trying to determine if insights from one domain apply to another_ 
 **Application:** Look for mathematical or structural similarities across seemingly different domains. If you find universal patterns (like period-doubling, scaling relationships, or fractal structures), solutions from one field may transfer to another. **Decision Criteria:** Do these systems share similar mathematical structures? Are there common bifurcation points? Do they exhibit similar scaling behaviors or geometric patterns? **Implementation Details:** Abstract away surface differences to find underlying mathematical relationships. Test whether changing parameters produces similar sequences of behavior changes. Green flag: Finding the same numerical constants or ratios appearing across domains. Red flag: Forcing analogies based on superficial similarities. **Source Context:** Feigenbaum's discovery that the same mathematical constants appeared in completely different physical systems undergoing transitions to chaos. Chaos - J.Gleick
 
-## **The Trigger Override System** 
+## The Trigger Override System 
 _When changing habits or automatic behaviors_
 
 **Application:** Don't try to change the behavior directly. Identify the environmental cue that triggers the non-essential behavior and associate that same cue with an essential behavior instead.

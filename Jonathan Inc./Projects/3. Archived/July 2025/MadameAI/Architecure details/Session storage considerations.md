@@ -1,3 +1,0 @@
-- **Database sessions** persistent, survives restarts, asks database all the time
-- **Memory sessions** (faster, lost on restart)
-- **Redis sessions** (fast + persistent, but another service)

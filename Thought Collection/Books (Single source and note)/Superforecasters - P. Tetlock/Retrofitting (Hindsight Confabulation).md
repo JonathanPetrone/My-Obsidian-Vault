@@ -1,4 +1,4 @@
-After an outcome occurs, we often construct narratives that make it feel inevitable—then forget we couldn't have predicted it beforehand, this is connected to the [[The Explanation Impulse]] we have.
+After an outcome occurs, we often construct narratives that make it feel inevitable—then forget we couldn't have predicted it beforehand, this is connected to the [[Thought Collection/Books (Single source and note)/Superforecasters - P. Tetlock/The Explanation Impulse]] we have.
 
 **The pattern is:**
 1. Event happens
