@@ -8,6 +8,6 @@ Once you start looking for it, you see it everywhere, and there seems to be more
 
 So the question isn't what a role obviously does, or even what gets lost when it goes. It's what the role is quietly holding up that nobody will notice until it's gone.
 
-A doorman holds up trust, status, and a hundred small judgments about who belongs in the lobby, and you learn he was load-bearing the way you learn a wall was load-bearing: afterward, by what starts to sag.
+A doorman holds up trust, status, and a hundred small judgments about who belongs in the lobby, and you learn (sometimes, hopefully) what you are missing out when he is gone.
 
 Businesses love efficiency and people love comfort, and most of the time those point the same way. The doorman fallacy is just the reminder that most of the time is not all of the time, and that the moments they split are exactly the ones the spreadsheet can't see.

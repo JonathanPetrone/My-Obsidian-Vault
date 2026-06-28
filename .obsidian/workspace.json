@@ -8,77 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f056d9bf28a5ef8c",
+            "id": "e4768840f3fab18b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thought Collection/Claude Session/Four Layer Architecture of Complex Systems.md",
+                "file": "Blog/June 2026/The Doorman Fallacy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Four Layer Architecture of Complex Systems"
-            }
-          },
-          {
-            "id": "c30e74f69a6c4e60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blog/June 2026/Solving a Problem No One Wants.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Solving a Problem No One Wants"
-            }
-          },
-          {
-            "id": "6361b0744e574052",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blog/June 2026/A Soul Takes the Shape of What It Turns Toward.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "A Soul Takes the Shape of What It Turns Toward"
-            }
-          },
-          {
-            "id": "3cedf809969527a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Thought Collection/Books (Single source and note)/Curious - I.Leslie/Knowledge, Surprise, Confidence's relation to Curiosity.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Knowledge, Surprise, Confidence's relation to Curiosity"
-            }
-          },
-          {
-            "id": "2a6aef28d61c6e58",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Thought Collection/Todos and Drafts/Raw Source Extracts/A More Beautiful Question - W. Berger.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "A More Beautiful Question - W. Berger"
+              "title": "The Doorman Fallacy"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -145,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5
+    "width": 296.5,
+    "collapsed": true
   },
   "right": {
     "id": "c5901c2bc0fb577b",
@@ -234,34 +178,35 @@
       "bases:Skapa ny bas": false
     }
   },
-  "active": "6361b0744e574052",
+  "active": "e4768840f3fab18b",
   "lastOpenFiles": [
-    "Thought Collection/Claude Session/jiang_life_framework.md",
+    "Blog/June 2026/Inspirare.md",
     "Blog/June 2026/A Soul Takes the Shape of What It Turns Toward.md",
-    "Thought Collection/Books (Single source and note)/Secrets of Consulting - G. Weinberg/Weinberg's laws of consulting.md",
-    "Thought Collection/Books (Single source and note)/The Essential Difference - S. Baron-Cohen/Systemizing vs. empathizing.md",
+    "Blog/Ideas/Bureaucracy as a machine.md",
     "Blog/Ideas/Science is Reductionistic.md",
+    "Blog/June 2026/Balancing AI.md",
+    "Thought Collection/Todos and Drafts/Raw Source Extracts/Notes on Why Materialism is Baloney.md",
+    "Jonathan Inc./Tools/Mental models/Unfinished Drafts.md",
     "Blog/Ideas/AI will not take over the world, people wielding it will.md",
     "Blog/Ideas/Ideas.md",
-    "Blog/June 2026/The Doorman Fallacy.md",
-    "Blog/June 2026/Inspirare.md",
-    "Blog/June 2026/Lifecycles.md",
-    "Blog/June 2026/Solving a Problem No One Wants.md",
+    "Blog/Ideas/Namnlös.md",
+    "Blog/Ideas/Namnlös 1.md",
+    "Contrarian Positioning - Draft Synthesis.md",
+    "Namnlös 4.md",
+    "Namnlös.md",
+    "Freedom from Command and Control.md",
+    "Thought Collection/Articles (Single source and note)/The Oracle Problem.md",
+    "Thought Collection/Todos and Drafts/Raw Source Extracts/A More Beautiful Question - W. Berger.md",
     "Thought Collection/Books (Single source and note)/Curious - I.Leslie/Knowledge, Surprise, Confidence's relation to Curiosity.md",
-    "Namnlös 3.md",
-    "Namnlös 2.md",
-    "Jonathan Inc./Meta-Patterns/Building Adaptive Expertise/Adaptive Expertise Entry Protocol.md",
-    "Jonathan Inc./Initiatives/Sources/List of Influencers.md",
-    "Thought Collection/Todos and Drafts/Raw Source Extracts/Notes on Galileos Error.md",
-    "Thought Collection/Todos and Drafts/Raw Source Extracts/Working notes DDIA.md",
-    "Thought Collection/Todos and Drafts/Raw Source Extracts/Notes from Unmasking Autism.md",
-    "Thought Collection/Todos and Drafts/Raw Source Extracts/Notes from Creativity Flow and the Psychology of Discovery and Invention.md",
-    "Thought Collection/Books (Single source and note)/Creativity Flow and the Psychology of Discovery and Invention - M. Csikszentmihalyi/Complex systems.md",
-    "Thought Collection/Books (Single source and note)/Creativity Flow and the Psychology of Discovery and Invention - M. Csikszentmihalyi/Creativity - Individual vs Systematic.md",
-    "Thought Collection/Books (Single source and note)/Creativity Flow and the Psychology of Discovery and Invention - M. Csikszentmihalyi/Foundations of Creative Life.md",
-    "Thought Collection/Books (Single source and note)/Creativity Flow and the Psychology of Discovery and Invention - M. Csikszentmihalyi/The Systems Model of Creativity.md",
-    "Thought Collection/Books (Single source and note)/Creativity Flow and the Psychology of Discovery and Invention - M. Csikszentmihalyi/The Limited Supply of Attention.md",
-    "Thought Collection/Books (Single source and note)/Secrets of a Buccaneer-Scholar - J. Bach/Thinking Structures as Tools for Learning.md",
+    "Thought Collection/Articles (Single source and note)/Bottom-Up Approach and Thinking.md",
+    "Jonathan Inc./Tools/List of tools.md",
+    "Jonathan Inc./Tools/Prompts/Get Weekly Summary from Claude - Claude Prompt.md",
+    "Jonathan Inc./Tools/Prompts/Get Subject Primitives - Claude Prompt.md",
+    "Jonathan Inc./Tools/Instructions/Reading Workflow.md",
+    "Jonathan Inc./Tools/Commands/Get Transcript from YT - TranscriptProcessor.md",
+    "Jonathan Inc./Tools/Commands/Converting to txt - Pandoc.md",
+    "Jonathan Inc./Tools/Commands/Copy into Obsidian from Source - ObsImporter.md",
+    "Skärmavbild 2026-06-14 kl. 10.54.01.png",
     "Blog/June 2026",
     "Thought Collection/Books (Single source and note)/Curious - I.Leslie/Synthesizing.canvas",
     "Blog/May 2026",
@@ -284,7 +229,6 @@
     "Thought Collection/Pictures/Skärmavbild 2026-01-12 kl. 17.30.48.png",
     "Adaptive expertise (2).jpg",
     "Adaptive expertise (1).jpg",
-    "Adaptive expertise.jpg",
     "Thought Collection/Books (Single source and note)/Untitled.canvas"
   ]
 }
